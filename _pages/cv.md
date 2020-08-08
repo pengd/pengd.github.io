@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Xian Jiaotong University, China 2000−2004 
+* M.S.-Ph.D combine University of Science and Technology Beijing, China 2005−2008 (Ph.D degree in 2012)
+* Ph.D University of New South Wales, Australia 2009−2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun 2020 - present: Senior Staff Engineer
+  * Ant Group
+  * Duties included: 
+    * Lead the program analysis and security team
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Dec 2017 - May 2020: Technical Expert
+  * Huawei Technologies
+  * Duties included: 
+    * The founder of MindSpore/AKG which is an open-sourced AI compiler for Huawei Ascend 910. [GitHub](https://github.com/mindspore-ai/akg) [Gitee](https://github.com/mindspore-ai/akg).
+
+* Mar 2020 - present: Adjunct Researcher (Professor)
+  * Chinese Academy of Sciences
+
+* Apr 2018 − present: Adjunct Senior Lecturer 
+  * The University of New South Wales
+  * Duties included: 
+    * Parallel program analysis and optimization
+
+* Sep 2013 – Dec 2017: Research Associate
+  * The University of New South Wales
+  * Duties included: 
+    * In charge of industrial projects, supported by Huawei, Pathscale, Oracle etc. 
+    * Finding concurrency bugs in multithreaded software, supported by Australian Research Council Discovery 
+    * SVF: open-sourced pointer analysis tool over LLVM, [GitHub](https://github.com/svftools/SVF)
+
 
 Publications
 ======
@@ -42,7 +50,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,8 +60,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Served as a reviewer for: CASES, CC, CCGrid, CGO, DATE, ICPP, IPDPS, LCTES, PPoPP, TC, TPDS, etc.
