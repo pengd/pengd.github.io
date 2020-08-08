@@ -9,9 +9,9 @@ redirect_from:
 ---
 <!-- I am an adjunct senior lecturer working with Scientia Professor [Jingling Xue](http://www.cse.unsw.edu.au/~jingling) at School of Computer Science and Engineering, The University of New South Wales. -->
 
-I am working at Ant Group as a Senior Staﬀ Engineer of software security. Also I am an adjunct Senior Lecturer at the University of New South Wales and an adjunct Researcher (Professor) at Chinese Academy Sciences.
+I am working at [Ant Group](https://www.antgroup.com/) as a Senior Staﬀ Engineer of software security. Also I am an adjunct Senior Lecturer at the University of New South Wales ([UNSW](http://www.cse.unsw.edu.au/)) and an adjunct Researcher (Professor) at Chinese Academy Sciences([CAS](http://english.cas.cn/)).
 
-Before joining Ant, I worked at Huawei as a Technical Expert of AI compiler. During the period, I am the founder of MindSpore/AKG [GitHub](https://github.com/mindspore-ai/akg) [Gitee](https://github.com/mindspore-ai/akg) which is an open-sourced AI compiler for Huawei Ascend 910.
+Before joining Ant, I worked at Huawei as a Technical Expert of AI compiler. During the period, I am the founder of MindSpore/AKG ([GitHub],(https://github.com/mindspore-ai/akg) [Gitee](https://github.com/mindspore-ai/akg)) which is an open-sourced AI compiler for Huawei Ascend 910.
 
 I earned my PhD degree from UNSW under supervised by Scientia Professor [Jingling Xue](http://www.cse.unsw.edu.au/~jingling) and then worked as a Research Fellow at [Compiler Research Group](http://www.cse.unsw.edu.au/~corg/) in UNSW. 
 
