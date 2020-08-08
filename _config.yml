@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peng Di"
+title                    : "Dr. Peng Di"
 title_separator          : "-"
-name                     : &name "Peng Di"
+name                     : &name "Dr. Peng Di"
 description              : &description "personal description"
 url                      : https://pengd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
