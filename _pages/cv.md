@@ -44,11 +44,11 @@ Work experience
     * SVF: open-sourced pointer analysis tool over LLVM, [GitHub page](https://github.com/svftools/SVF)
 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======

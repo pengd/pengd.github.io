@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -13,7 +13,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 <b>&nbsp;&nbsp;Conference Papers:</b>
 
@@ -29,7 +29,7 @@ Jie Zhao and Peng Di. Optimizing the Memory Hierarchy by Compositing Automatic T
 <li>
 <span>
 Feng Zhang, Peng Di, Hao Zhou and Jingling Xue. RegTT: Accelerating Tree Traversals on GPUs by Exploiting Regularities.
-<i>In the 2016 International Conference on Parallel Processing (ICPP '16)</i>, Philadelphia, PA, USA, 2016.</span></li>
+<i>In the 2016 International Conference on Parallel Processing (ICPP '16)</i>, Philadelphia, PA, USA, 2016.
 </span></li>
 </p>
 
