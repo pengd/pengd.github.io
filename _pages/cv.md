@@ -26,7 +26,7 @@ Work experience
 * Dec 2017 - May 2020: Technical Expert
   * Huawei Technologies
   * Duties included: 
-    * The founder of MindSpore/AKG which is an open-sourced AI compiler for Huawei Ascend 910. [GitHub page](https://github.com/mindspore-ai/akg) [Gitee page](https://github.com/mindspore-ai/akg).
+    * The founder of MindSpore/AKG which is an open-sourced AI compiler for Huawei Ascend 910. ([GitHub](https://github.com/mindspore-ai/akg), [Gitee](https://github.com/mindspore-ai/akg))
 
 * Mar 2020 - present: Adjunct Researcher (Professor)
   * Chinese Academy of Sciences
@@ -41,7 +41,7 @@ Work experience
   * Duties included: 
     * In charge of industrial projects, supported by Huawei, Pathscale, Oracle etc. 
     * Finding concurrency bugs in multithreaded software, supported by Australian Research Council Discovery 
-    * SVF: open-sourced pointer analysis tool over LLVM, [GitHub page](https://github.com/svftools/SVF)
+    * SVF: open-sourced pointer analysis tool over LLVM, ([GitHub](https://github.com/svftools/SVF))
 
 
 <!-- Publications
