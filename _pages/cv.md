@@ -41,7 +41,7 @@ Work experience
   * Duties included: 
     * In charge of industrial projects, supported by Huawei, Pathscale, Oracle etc. 
     * Finding concurrency bugs in multithreaded software, supported by Australian Research Council Discovery 
-    * SVF: open-sourced pointer analysis tool over LLVM, ([GitHub](https://github.com/svftools/SVF))
+    * SVF: open-sourced pointer analysis tool over LLVM, ([GitHub](http://svf-tools.github.io/SVF/))
 
 
 <!-- Publications

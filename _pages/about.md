@@ -11,7 +11,7 @@ redirect_from:
 
 I am working at [Ant Group](https://www.antgroup.com/) as a Senior Staﬀ Engineer of software security. Also I am an adjunct Senior Lecturer at the University of New South Wales ([UNSW personal website](http://www.cse.unsw.edu.au/~pengd/)) and an adjunct Researcher (Professor) at Chinese Academy Sciences([CAS](http://english.cas.cn/)).
 
-I earned my PhD degree from UNSW under supervised by Scientia Professor [Jingling Xue](http://www.cse.unsw.edu.au/~jingling). And then I worked as a Research Associate at [Compiler Research Group](http://www.cse.unsw.edu.au/~corg/) and cooperatively developed an inter-procedural dependence analysis tool [SVF](https://github.com/svftools/SVF) that is maintained by [Dr. Yulei Sui](https://yuleisui.github.io/).
+I earned my PhD degree from UNSW under supervised by Scientia Professor [Jingling Xue](http://www.cse.unsw.edu.au/~jingling). And then I worked as a Research Associate at [Compiler Research Group](http://www.cse.unsw.edu.au/~corg/) and cooperatively developed an inter-procedural dependence analysis tool [SVF](http://svf-tools.github.io/SVF/) that is maintained by [Dr. Yulei Sui](https://yuleisui.github.io/).
 
 Before joining Ant, I worked at Huawei as a Technical Expert of AI compiler. During the period, I am the founder of MindSpore/AKG ([GitHub](https://github.com/mindspore-ai/akg), [Gitee](https://github.com/mindspore-ai/akg)) which is an open-sourced AI compiler for Huawei Ascend 910.
 
