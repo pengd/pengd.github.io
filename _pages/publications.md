@@ -20,8 +20,16 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
+Jie Zhao, Bojie Li, Wang Nie, Zhen Geng, Renwei Zhang, Xiong Gao, Bin Cheng, Chen Wu, Yun Cheng, Zheng Li, Peng Di, Kun Zhang and Xuefeng Jin. AKG: Automatic Kernel Generation for Neural Processing Units using Polyhedral Transformations.
+<i>In the  42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '21)</i>, 2021. (to be appeared)
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 Jie Zhao and Peng Di. Optimizing the Memory Hierarchy by Compositing Automatic Transformations on Computations and Data.
-<i>In the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO-53)</i>, Athens, Greece, 2020. (to be appeared)
+<i>In the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO-53)</i>, Athens, Greece, 2020. (Best Paper Nomination)
 </span></li>
 </p>
 

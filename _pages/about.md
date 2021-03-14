@@ -26,6 +26,8 @@ News
 ======
 My team is looking for self-motivated technical experts, who are interested in program analysis, software security.
 
+* 2021-03: Our paper "AKG: Automatic Kernel Generation for Neural Processing Units using Polyhedral Transformations" is accepted by PLDI 2021.
+* 2020-10: Our paper "Optimizing the Memory Hierarchy by Compositing Automatic Transformations on Computations and Data" gains Best Paper Nomination. 
 * 2020-07: Our paper "Optimizing the Memory Hierarchy by Compositing Automatic Transformations on Computations and Data" is accepted by MICRO-53.
 * 2020-06: Our AKG is open-sourced. ([GitHub](https://github.com/mindspore-ai/akg), [Gitee](https://github.com/mindspore-ai/akg)). 
 
