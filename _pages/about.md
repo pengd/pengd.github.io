@@ -24,7 +24,7 @@ Research Interests
 
 News
 ======
-My team is looking for self-motivated technical experts, who are interested in program analysis, software security.
+My team is looking for self-motivated technical experts, who are interested in program analysis, software security. ([Job link 1](https://job.alibaba.com/zhaopin/position_detail.htm?spm=a2obv.11410903.0.0.6af344f6TwM8BG&positionId=109542), [Job link 2](https://job.alibaba.com/zhaopin/position_detail.htm?spm=a2obv.11410903.0.0.6af344f6TwM8BG&positionId=111599))
 
 * 2021-03: Our paper "AKG: Automatic Kernel Generation for Neural Processing Units using Polyhedral Transformations" is accepted by PLDI 2021.
 * 2020-10: Our paper "Optimizing the Memory Hierarchy by Compositing Automatic Transformations on Computations and Data" gains Best Paper Nomination. 
