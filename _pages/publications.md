@@ -21,7 +21,7 @@ author_profile: true
 <li>
 <span>
 Jie Zhao, Bojie Li, Wang Nie, Zhen Geng, Renwei Zhang, Xiong Gao, Bin Cheng, Chen Wu, Yun Cheng, Zheng Li, Peng Di, Kun Zhang and Xuefeng Jin. AKG: Automatic Kernel Generation for Neural Processing Units using Polyhedral Transformations.
-<i>In the  42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '21)</i>, 2021. (to be appeared)
+<i>In the  42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '21)</i>, 2021.
 </span></li>
 </p>
 

@@ -23,7 +23,7 @@ Work experience
     * Lead the program analysis and security team
 
 
-* Dec 2017 - May 2020: Technical Expert
+* Jun 2018 - May 2020: Technical Expert
   * Huawei Technologies
   * Duties included: 
     * The founder of MindSpore/AKG which is an open-sourced AI compiler for Huawei Ascend 910. ([GitHub](https://github.com/mindspore-ai/akg), [Gitee](https://github.com/mindspore-ai/akg))
@@ -36,7 +36,7 @@ Work experience
   * Duties included: 
     * Parallel program analysis and optimization
 
-* Sep 2013 – Dec 2017: Research Associate
+* Sep 2013 – Mar 2018: Research Associate
   * The University of New South Wales
   * Duties included: 
     * In charge of industrial projects, supported by Huawei, Pathscale, Oracle etc. 
