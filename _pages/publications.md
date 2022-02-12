@@ -20,6 +20,22 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
+Jiangchao Liu, Jierui Liu, Peng Di, Alex X. Liu, Zexin Zhong. Record and Replay of Online Traffic for Microservices with Automatic Mocking Point Identification.
+<i>In the 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP '22)</i>, 2022.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+Zexin Zhong, Jiangchao Liu, Diyu Wu, Peng Di, Yulei Sui, Alex X. Liu. Field-based Static Taint Analysis for Industrial Microservice.
+<i>In the 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP '22)</i>, 2022.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 Jie Zhao, Bojie Li, Wang Nie, Zhen Geng, Renwei Zhang, Xiong Gao, Bin Cheng, Chen Wu, Yun Cheng, Zheng Li, Peng Di, Kun Zhang and Xuefeng Jin. AKG: Automatic Kernel Generation for Neural Processing Units using Polyhedral Transformations.
 <i>In the 42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '21)</i>, 2021.
 </span></li>
