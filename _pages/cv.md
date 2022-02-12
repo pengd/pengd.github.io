@@ -64,4 +64,4 @@ Teaching
   
 Professional Activities
 ======
-* Served as a reviewer for: CASES, CC, CCGrid, CGO, DATE, ICPP, IPDPS, LCTES, PPoPP, TC, TPDS, etc.
+* Served as a reviewer for: CASES, CC, CCGrid, CGO, DATE, ICPP, ICSE, IPDPS, LCTES, PPoPP, TC, TPDS, TOSEM, TSE etc.

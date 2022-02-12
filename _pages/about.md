@@ -24,8 +24,12 @@ Research Interests
 
 News
 ======
-My team is looking for self-motivated technical experts, who are interested in program analysis, software security. ([Job link 1](https://job.alibaba.com/zhaopin/position_detail.htm?spm=a2obv.11410903.0.0.6af344f6TwM8BG&positionId=109542), [Job link 2](https://job.alibaba.com/zhaopin/position_detail.htm?spm=a2obv.11410903.0.0.6af344f6TwM8BG&positionId=111599))
+My team is looking for self-motivated technical experts, who are interested in program analysis, software security. Please no hesitate to contact me. (dipeng dot dp at antgroup dot com).
 
+* 2022-02: I was invited to join the Industry Advisory Board of Monash University.
+* 2022-01: Our two papers "Record and Replay of Online Traffic for Microservices with Automatic Mocking Point Identification" and "Field-based Static Taint Analysis for Industrial Microservice" are accepted by ICSE-SEIP 2022.
+* 2021-12: I was invited to introduce ANT's AIOps on CCF ChinaSoft 2021. [link](http://chinasoft.ccf.org.cn/schedule/special/6.html)
+* 2021-10: I was invited to present our unified program analysis framework on CCF CNCC 2021. [link](https://zhuanlan.zhihu.com/p/417330325)
 * 2021-03: Our paper "AKG: Automatic Kernel Generation for Neural Processing Units using Polyhedral Transformations" is accepted by PLDI 2021.
 * 2020-10: Our paper "Optimizing the Memory Hierarchy by Compositing Automatic Transformations on Computations and Data" gains Best Paper Nomination. 
 * 2020-07: Our paper "Optimizing the Memory Hierarchy by Compositing Automatic Transformations on Computations and Data" is accepted by MICRO-53.
