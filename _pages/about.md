@@ -26,6 +26,9 @@ News
 ======
 My team is looking for self-motivated technical experts, who are interested in program analysis, software security. Please no hesitate to contact me. (dipeng dot dp at antgroup dot com).
 
+* 2022-12: Our two papers "Incremental Call Graph Construction in Industrial Practice" and "Scalable Compositional Static Taint Analysis for Sensitive Data Tracing on Industrial Micro-Services" are accepted by ICSE-SEIP 2023.
+* 2022-12: Our SAST and SCA products officially enter the Chinese Product and Manufacturer List of Software Supply Chain Security.
+* 2022-10: I was invited to serve SANER 2023 as an industrial track PC member.
 * 2022-02: I was invited to join the Industry Advisory Board of Monash University.
 * 2022-01: Our two papers "Record and Replay of Online Traffic for Microservices with Automatic Mocking Point Identification" and "Field-based Static Taint Analysis for Industrial Microservice" are accepted by ICSE-SEIP 2022.
 * 2021-12: I was invited to introduce ANT's AIOps on CCF ChinaSoft 2021. [link](http://chinasoft.ccf.org.cn/schedule/special/6.html)

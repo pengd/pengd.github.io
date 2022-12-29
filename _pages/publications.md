@@ -20,6 +20,22 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
+Zelin Zhao, Xizao Wang, Zhaogui Xu, Zhenhao Tang, Yongchao Li and Peng Di. Incremental Call Graph Construction in Industrial Practice.
+<i>In the 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP '23)</i>, 2023.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+Zexin Zhong, Jiangchao Liu, Diyu Wu, Peng Di, Yulei Sui, Alex X. Liu and John C.S. Lui.	Scalable Compositional Static Taint Analysis for Sensitive Data Tracing on Industrial Micro-Services.
+<i>In the 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP '23)</i>, 2023.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 Jiangchao Liu, Jierui Liu, Peng Di, Alex X. Liu, Zexin Zhong. Record and Replay of Online Traffic for Microservices with Automatic Mocking Point Identification.
 <i>In the 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP '22)</i>, 2022.
 </span></li>
