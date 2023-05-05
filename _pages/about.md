@@ -17,8 +17,8 @@ Before joining Ant, I worked at Huawei as a Technical Expert of AI compiler. Dur
 
 Research Interests
 ======
-* Program Analysis, Software Engineering and Security
-* Programming Language and Compilation Techniques for Machine Learning
+* Program Analysis, Software Engineering and Security, AI4SE
+* Programming Language and Compilation Techniques
 * Parallel Programming and Optimizations for Heterogeneous Systems
 
 
@@ -26,6 +26,7 @@ News
 ======
 My team is looking for self-motivated technical experts, who are interested in program analysis, software security. Please no hesitate to contact me. (dipeng dot dp at antgroup dot com).
 
+* 2023-04: Our paper "Hybrid Inlining: A Framework for Compositional and Context-Sensitive Static Analysis" is accepted by ISSTA 2023.
 * 2022-12: Our two papers "Incremental Call Graph Construction in Industrial Practice" and "Scalable Compositional Static Taint Analysis for Sensitive Data Tracing on Industrial Micro-Services" are accepted by ICSE-SEIP 2023.
 * 2022-12: Our SAST and SCA products officially enter the Chinese Product and Manufacturer List of Software Supply Chain Security.
 * 2022-10: I was invited to serve SANER 2023 as an industrial track PC member.
