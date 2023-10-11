@@ -87,7 +87,7 @@ author:
   employer         : "Ant Group"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TluY-G0AAAAJ&hl=en"
-  dblp             : "https://dblp.org/pid/00/9301.html"
+  #dblp             : "https://dblp.org/pid/00/9301.html"
   email            : "pengd at cse dot unsw dot edu dot au or dipeng dot dp at antgroup dot com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
