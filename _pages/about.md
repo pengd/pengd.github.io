@@ -9,11 +9,16 @@ redirect_from:
 ---
 <!-- I am an adjunct senior lecturer working with Scientia Professor [Jingling Xue](http://www.cse.unsw.edu.au/~jingling) at School of Computer Science and Engineering, The University of New South Wales. -->
 
-I am working at [Ant Group](https://www.antgroup.com/) as a Senior Staﬀ Engineer of software security. Also I am an adjunct Senior Lecturer at the University of New South Wales ([UNSW personal website](http://www.cse.unsw.edu.au/~pengd/)) and an adjunct Researcher (Professor) at Chinese Academy Sciences([CAS](http://english.cas.cn/)).
+I am working at [Ant Group](https://www.antgroup.com/) as a Senior Staﬀ Engineer. Also I am an adjunct Senior Lecturer at the University of New South Wales ([UNSW personal website](http://www.cse.unsw.edu.au/~pengd/)) and an adjunct Researcher (Professor) at Chinese Academy Sciences([CAS](http://english.cas.cn/)).
 
 I earned my PhD degree from UNSW under supervised by Scientia Professor [Jingling Xue](http://www.cse.unsw.edu.au/~jingling). And then I worked as a Research Associate at [Compiler Research Group](http://www.cse.unsw.edu.au/~corg/) and cooperatively developed an inter-procedural dependence analysis tool [SVF](http://svf-tools.github.io/SVF/) that is maintained by [Dr. Yulei Sui](https://yuleisui.github.io/).
 
 Before joining Ant, I worked at Huawei as a Technical Expert of AI compiler. During the period, I am the founder of MindSpore/AKG ([GitHub](https://github.com/mindspore-ai/akg), [Gitee](https://github.com/mindspore-ai/akg)) which is an open-sourced AI compiler for Huawei Ascend 910.
+
+I lead the software engineering team responsible for maintaining and developing Ant Group's DevSecOps. Our primary focus lies in developing practical program analysis platforms tailored for complex and extensive industrial codebases. 
+
+Recently, our team has been dedicated to integrating Large Language Models (LLMs) into real-world industrial scenarios, aiming to enhance the effectiveness and efficiency of software development. 
+The pretrained code LLM, CodeFuse, which was trained by our team at AntGroup, has been open-sourced on [GitHub](https://github.com/codefuse-ai)  and [HuggingFace](https://huggingface.co/codefuse-ai). The technical report has been published on [link](https://arxiv.org/abs/2310.06266). 
 
 Research Interests
 ======
@@ -24,8 +29,10 @@ Research Interests
 
 News
 ======
-My team is looking for self-motivated technical experts, who are interested in program analysis, software security. Please no hesitate to contact me. (dipeng dot dp at antgroup dot com).
+My team is looking for self-motivated technical experts, who are interested in program analysis, software security, AI4SE. Please no hesitate to contact me (dipeng dot dp at antgroup dot com), or visit [link](https://talent.antgroup.com/off-campus-position?positionId=1934017).
 
+
+* 2023-09: The pretrained code LLM, CodeFuse, which was trained by our team at AntGroup, has been open-sourced on [GitHub](https://github.com/codefuse-ai)  and [HuggingFace](https://huggingface.co/codefuse-ai). The technical report has been published on [link](https://arxiv.org/abs/2310.06266). 
 * 2023-04: Our paper "Hybrid Inlining: A Framework for Compositional and Context-Sensitive Static Analysis" is accepted by ISSTA 2023.
 * 2022-12: Our two papers "Incremental Call Graph Construction in Industrial Practice" and "Scalable Compositional Static Taint Analysis for Sensitive Data Tracing on Industrial Micro-Services" are accepted by ICSE-SEIP 2023.
 * 2022-12: Our SAST and SCA products officially enter the Chinese Product and Manufacturer List of Software Supply Chain Security.

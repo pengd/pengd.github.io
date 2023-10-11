@@ -20,6 +20,14 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
+Peng Di, Jianguo Li, Hang Yu, Wei Jiang, et al., CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model.
+<i>arXiv:2310.06266</i>, [cs.SE], 2023. 
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 Jiangchao Liu, Jierui Liu, Peng Di, Diyu Wu, Hengjie Zheng, Alex X. Liu, Jingling Xue, Hybrid Inlining: A Framework for Compositional and Context-Sensitive Static Analysis.
 <i>In the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'23)</i>, 2023.
 </span></li>
