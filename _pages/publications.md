@@ -20,6 +20,14 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
+Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, Peng Di, Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis Agents.
+<i>arXiv:2310.08837</i>, [cs.SE], 2023. 
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 Peng Di, Jianguo Li, Hang Yu, Wei Jiang, et al., CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model.
 <i>arXiv:2310.06266</i>, [cs.SE], 2023. 
 </span></li>
@@ -159,12 +167,19 @@ Peng Di, Jingling Xue, Changjun Hu and Jingjing Zhou. A Cache-Effcient Parallel 
 
 <b>&nbsp;&nbsp;Journal Papers:</b>
 
+<!-- <p style="margin-bottom: 6px">
+<li>
+<span>
+Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, Peng Di, Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis Agents.
+<i>arXiv:2310.08837</i>, [cs.SE], 2023. 
+</span></li>
+</p> -->
+
 <p style="margin-bottom: 10px">
 <li>
 <span>
-Jilin Zhang, Junfeng Yuan, Jian Wan, Peng Di. Efficient Parallel Implementation of Incompressible Pipe
-Flow Algorithm Based on SIMPLE. 
-<i>Concurrency and Computation: Practice and Experience</i>, 28(6), pages 1751-1766, 2016.</span></li>
+Jie Zhao; Jinchen Xu; Peng Di; Wang Nie; Jiahui Hu; Yanzhi Yi; Sijia Yang; Zhen Geng; Renwei Zhang; Bojie Li; Zhiliang Gan; Xuefeng Jin. Modeling the Interplay between Loop Tiling and Fusion in Optimizing Compilers using Affine Relations. 
+<i>ACM Transactions on Computer Systems (TOCS)</i>, 2023.</span></li>
 </p>
 
 <p style="margin-bottom: 10px">
