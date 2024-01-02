@@ -20,8 +20,8 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
-Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, Peng Di, Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis Agents.
-<i>arXiv:2310.08837</i>, [cs.SE], 2023. 
+Peng Di, Bingchang Liu, Yiyi Gao, MicroFuzz: An Efficient Fuzzing Framework for Microservices.
+<i>In the 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'24)</i>, 2024.
 </span></li>
 </p>
 
@@ -29,9 +29,38 @@ Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, Peng Di, Static Code Analysis
 <li>
 <span>
 Peng Di, Jianguo Li, Hang Yu, Wei Jiang, et al., CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model.
-<i>arXiv:2310.06266</i>, [cs.SE], 2023. 
+<i>In the 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'24)</i>, 2024.
+<i>arXiv preprint arXiv:2310.06266</i>, [cs.SE]. 
 </span></li>
 </p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+Zelin Zhao, Zhaogui Xu, Jialong Zhu, Peng Di, Yuan Yao, Xiaoxing Ma, The Right Prompts for the Job: Repair Code-Review Defects with Large Language Model.
+<i>arXiv preprint arXiv:2312.17485</i>, [cs.SE]. 
+</span></li>
+</p>
+
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+Xiaoxia Liu, Jingyi Wang, Jun Sun, Xiaohan Yuan, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang, Prompting Frameworks for Large Language Models: A Survey.
+<i>arXiv preprint arXiv:2311.12785</i>, [cs.SE]. 
+</span></li>
+</p>
+
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, Peng Di, Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis Agents.
+<i>arXiv preprint arXiv:2310.08837</i>, [cs.SE], 2023. 
+</span></li>
+</p>
+
+
 
 <p style="margin-bottom: 6px">
 <li>
