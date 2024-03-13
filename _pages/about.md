@@ -31,9 +31,10 @@ News
 ======
 My team is looking for self-motivated technical experts, who are interested in program analysis, software security, AI4SE. Please no hesitate to contact me (dipeng dot dp at antgroup dot com), or visit [link](https://talent.antgroup.com/off-campus-position?positionId=1934017).
 
+* 2024-03: Our paper, titled "Generic Sensitivity: Generics-Guided Context Sensitivity for Pointer Analysis"， which was cooperated with the Chinese Academy of Sciences and Nanjing University, has been accepted by [IEEE Transactions on Software Engineering (TSE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32).
 * 2023-12: Our two papers "CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model" and "MicroFuzz: An Efficient Fuzzing Framework for Microservices" are accepted by ICSE-SEIP 2024.
 * 2023-11: Our paper “Modeling the Interplay between Loop Tiling and Fusion in Optimizing Compilers using Affine Relations” was accepted by [ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/journal/tocs). We are so fortunate to be the authors of one of the last round of TOCS publications since this journal is no longer accepting submissions and will cease publication after 2023.
-* 2023-09: The pretrained code LLM, CodeFuse, which was trained by our team at AntGroup, has been open-sourced on [GitHub](https://github.com/codefuse-ai)  and [HuggingFace](https://huggingface.co/codefuse-ai). The technical report has been published on [link](https://arxiv.org/abs/2310.06266). 
+* 2023-09: The pretrained code LLM, CodeFuse, which was trained by our team at AntGroup, has been open-sourced on [GitHub](https://github.com/codefuse-ai) and [HuggingFace](https://huggingface.co/codefuse-ai). The technical report has been published on [link](https://arxiv.org/abs/2310.06266). 
 * 2023-04: Our paper "Hybrid Inlining: A Framework for Compositional and Context-Sensitive Static Analysis" is accepted by ISSTA 2023.
 * 2022-12: Our two papers "Incremental Call Graph Construction in Industrial Practice" and "Scalable Compositional Static Taint Analysis for Sensitive Data Tracing on Industrial Micro-Services" are accepted by ICSE-SEIP 2023.
 * 2022-12: Our SAST and SCA products officially enter the Chinese Product and Manufacturer List of Software Supply Chain Security.

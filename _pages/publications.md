@@ -17,6 +17,7 @@ author_profile: true
 
 <b>&nbsp;&nbsp;Conference Papers:</b>
 
+
 <p style="margin-bottom: 6px">
 <li>
 <span>
@@ -196,10 +197,19 @@ Peng Di, Jingling Xue, Changjun Hu and Jingjing Zhou. A Cache-Effcient Parallel 
 
 <b>&nbsp;&nbsp;Journal Papers:</b>
 
+<p style="margin-bottom: 6px">
+<li>
+<span>
+Haofeng	Li, Tian Tan, Yue Li, Jie Lu, Haining Meng, Liqing Cao, Yongheng Huang, Lian Li, Lin Gao, Peng Di, Liang Lin, ChenXi Cui. Generic Sensitivity: Generics-Guided Context Sensitivity for Pointer Analysis.
+<i>IEEE Transactions on Software Engineering (TSE)</i>, 2024.
+</span></li>
+</p>
+
+
 <p style="margin-bottom: 10px">
 <li>
 <span>
-Jie Zhao; Jinchen Xu; Peng Di; Wang Nie; Jiahui Hu; Yanzhi Yi; Sijia Yang; Zhen Geng; Renwei Zhang; Bojie Li; Zhiliang Gan; Xuefeng Jin. Modeling the Interplay between Loop Tiling and Fusion in Optimizing Compilers using Affine Relations. 
+Jie Zhao, Jinchen Xu, Peng Di, Wang Nie, Jiahui Hu, Yanzhi Yi, Sijia Yang, Zhen Geng, Renwei Zhang, Bojie Li, Zhiliang Gan, Xuefeng Jin. Modeling the Interplay between Loop Tiling and Fusion in Optimizing Compilers using Affine Relations. 
 <i>ACM Transactions on Computer Systems (TOCS)</i>, 2023.</span></li>
 </p>
 
