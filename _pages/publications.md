@@ -17,6 +17,13 @@ author_profile: true
 
 <b>&nbsp;&nbsp;Conference Papers:</b>
 
+<p style="margin-bottom: 6px">
+<li>
+<span>
+Weigang He, Peng Di, Mengli Ming, Chengyu Zhang, Ting Su, Shijie Li, Yulei Sui, Finding and Understanding Defects in Static Analyzers by Constructing Automated Oracles.
+<i>In the ACM International Conference on the Foundations of Software Engineering (FSE'24)</i>, 2024.
+</span></li>
+</p>
 
 <p style="margin-bottom: 6px">
 <li>
