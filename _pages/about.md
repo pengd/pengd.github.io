@@ -31,6 +31,7 @@ News
 ======
 My team is looking for self-motivated technical experts, who are interested in program analysis, software security, AI4SE. Please no hesitate to contact me (dipeng dot dp at antgroup dot com), or visit [link](https://talent.antgroup.com/off-campus-position?positionId=1934017).
 
+* 2024-06: Our paper, titled "Scaling Abstraction Refinement for Program Analyses in Datalog Using Graph Neural Networks"， which introduced an approach to combining graph neural networks and constrait solving to improve program analyses, has been accepted by OOPSLA 2024.
 * 2024-05: Our team won 2024 T-Star Award, Ant Group's highest technological award. This award celebrates our innovative contributions to CodeFuse.
 * 2024-04: Our paper, titled "Finding and Understanding Defects in Static Analyzers by Constructing Automated Oracles"， which was cooperated with East China Normal University, ETH Zurich, and University of New South Wales, has been accepted by FSE 2024.
 * 2024-03: Our paper, titled "Generic Sensitivity: Generics-Guided Context Sensitivity for Pointer Analysis"， which was cooperated with the Chinese Academy of Sciences and Nanjing University, has been accepted by [IEEE Transactions on Software Engineering (TSE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32).

@@ -20,6 +20,14 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
+Zhenyu Yan, Xin Zhang, Peng Di, Scaling Abstraction Refinement for Program Analyses in Datalog Using Graph Neural Networks.
+<i>In the ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA'24)</i>, 2024.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 Weigang He, Peng Di, Mengli Ming, Chengyu Zhang, Ting Su, Shijie Li, Yulei Sui, Finding and Understanding Defects in Static Analyzers by Constructing Automated Oracles.
 <i>In the ACM International Conference on the Foundations of Software Engineering (FSE'24)</i>, 2024.
 </span></li>
