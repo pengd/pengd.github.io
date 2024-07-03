@@ -20,6 +20,14 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
+Mingyuan Wu, Jiahong Xiang, Kunqiu Chen, Peng DI, Shin Hwei Tan, Heming Cui, Yuqun Zhang, Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing? <i>In the IEEE/ACM 47th International Conference on Software Engineering (ICSE'25)</i>, 2025.
+</span></li>
+</p>
+
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 Zhenyu Yan, Xin Zhang, Peng Di, Scaling Abstraction Refinement for Program Analyses in Datalog Using Graph Neural Networks.
 <i>In the ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA'24)</i>, 2024.
 </span></li>
@@ -37,7 +45,7 @@ Weigang He, Peng Di, Mengli Ming, Chengyu Zhang, Ting Su, Shijie Li, Yulei Sui, 
 <li>
 <span>
 Peng Di, Bingchang Liu, Yiyi Gao, MicroFuzz: An Efficient Fuzzing Framework for Microservices.
-<i>In the 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'24)</i>, 2024.
+<i>In the IEEE/ACM 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'24)</i>, 2024.
 </span></li>
 </p>
 
@@ -45,8 +53,7 @@ Peng Di, Bingchang Liu, Yiyi Gao, MicroFuzz: An Efficient Fuzzing Framework for 
 <li>
 <span>
 Peng Di, Jianguo Li, Hang Yu, Wei Jiang, et al., CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model.
-<i>In the 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'24)</i>, 2024.
-<i>arXiv preprint arXiv:2310.06266</i>, [cs.SE]. 
+<i>In the IEEE/ACM 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'24)</i>, 2024.
 </span></li>
 </p>
 
@@ -90,7 +97,7 @@ Jiangchao Liu, Jierui Liu, Peng Di, Diyu Wu, Hengjie Zheng, Alex X. Liu, Jinglin
 <li>
 <span>
 Zelin Zhao, Xizao Wang, Zhaogui Xu, Zhenhao Tang, Yongchao Li and Peng Di. Incremental Call Graph Construction in Industrial Practice.
-<i>In the 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'23)</i>, 2023.
+<i>In the IEEE/ACM 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'23)</i>, 2023.
 </span></li>
 </p>
 
@@ -98,7 +105,7 @@ Zelin Zhao, Xizao Wang, Zhaogui Xu, Zhenhao Tang, Yongchao Li and Peng Di. Incre
 <li>
 <span>
 Zexin Zhong, Jiangchao Liu, Diyu Wu, Peng Di, Yulei Sui, Alex X. Liu and John C.S. Lui.	Scalable Compositional Static Taint Analysis for Sensitive Data Tracing on Industrial Micro-Services.
-<i>In the 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'23)</i>, 2023.
+<i>In the IEEE/ACM 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'23)</i>, 2023.
 </span></li>
 </p>
 
@@ -106,7 +113,7 @@ Zexin Zhong, Jiangchao Liu, Diyu Wu, Peng Di, Yulei Sui, Alex X. Liu and John C.
 <li>
 <span>
 Jiangchao Liu, Jierui Liu, Peng Di, Alex X. Liu, Zexin Zhong. Record and Replay of Online Traffic for Microservices with Automatic Mocking Point Identification.
-<i>In the 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'22)</i>, 2022.
+<i>In the IEEE/ACM 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'22)</i>, 2022.
 </span></li>
 </p>
 
@@ -114,7 +121,7 @@ Jiangchao Liu, Jierui Liu, Peng Di, Alex X. Liu, Zexin Zhong. Record and Replay 
 <li>
 <span>
 Zexin Zhong, Jiangchao Liu, Diyu Wu, Peng Di, Yulei Sui, Alex X. Liu. Field-based Static Taint Analysis for Industrial Microservice.
-<i>In the 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'22)</i>, 2022.
+<i>In the IEEE/ACM 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'22)</i>, 2022.
 </span></li>
 </p>
 
