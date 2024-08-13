@@ -27,7 +27,7 @@ Mingyuan Wu, Jiahong Xiang, Kunqiu Chen, <b>Peng Di</b>, Shin Hwei Tan, Heming C
 <p style="margin-bottom: 6px">
 <li>
 <span>
-Cong Li, Zhaogui Xu, <b>Peng Di</b>, Dongxia Wang, Zheng Li, and Qian Zheng, Understanding Code Changes Practically with Small-Scale Language Models <i>In the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)</i>, 2024.
+Cong Li, Zhaogui Xu, <b>Peng Di</b>, Dongxia Wang, Zheng Li, and Qian Zheng, Understanding Code Changes Practically with Small-Scale Language Models <i>In the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24)</i>, 2024.
 </span></li>
 </p>
 
