@@ -31,6 +31,7 @@ News
 ======
 My team is looking for self-motivated technical experts, who are interested in program analysis, software security, AI4SE. Please no hesitate to contact me (dipeng dot dp at antgroup dot com), or visit [link](https://talent.antgroup.com/off-campus-position?positionId=1934017).
 
+* 2024-08: Our paper, titled "Understanding Code Changes Practically with Small-Scale Language Models" has been accepted by ASE 2024. Congratulations to Cong Li, the first author of this work, who joined the Ant Postdoctoral Programme one year ago! Well done! And another paper from our team, titled "MiniChecker: Detecting Data Privacy Risk of Abusive Permission Request Behavior in Mini-Programs", has been accepted by ASE 2024 too.
 * 2024-07: Our paper, titled "Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing?" has been accepted by ICSE 2025.
 * 2024-06: Our paper, titled "Scaling Abstraction Refinement for Program Analyses in Datalog Using Graph Neural Networks"， which introduced an approach to combining graph neural networks and constrait solving to improve program analyses, has been accepted by OOPSLA 2024.
 * 2024-05: Our team won 2024 T-Star Award, Ant Group's highest technological award. This award celebrates our innovative contributions to CodeFuse.
