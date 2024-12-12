@@ -34,6 +34,8 @@ News
 ======
 My team is looking for self-motivated technical experts, who are interested in program analysis, software security, AI4SE. Please no hesitate to contact me (dipeng dot dp at antgroup dot com).
 
+* 2024-12: Our paper, titled "LLM-Powered Static Binary Taint Analysis." has been accepted by [ACM Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/journal/tosem).
+* 2024-11: I was honored to be invited to present Ant Group's recent work on CodeLLM at CCF ChinaSoft 2024. Additionally, our team member, Cong Li, was awarded the Distinguished Dissertation Award by the CCF Systems Software.
 * 2024-10: Our paper, titled "Datalog-Based Language-Agnostic Change Impact Analysis for Microservices" has been accepted by ICSE 2025. This paper introduces the application of our datalog-based program analysis system [CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query) on the complex change impact analysis of microservices.
 * 2024-10: "MiniChecker: Detecting Data Privacy Risk of Abusive Permission Request Behavior in Mini-Programs" earned the distinguished paper award of ASE'24.
 * 2024-08: Our paper, titled "Understanding Code Changes Practically with Small-Scale Language Models" has been accepted by ASE 2024. Congratulations to Cong Li, the first author of this work, who joined the Ant Postdoctoral Programme one year ago! Well done! And another paper from our team, titled "MiniChecker: Detecting Data Privacy Risk of Abusive Permission Request Behavior in Mini-Programs", has been accepted by ASE 2024 too.

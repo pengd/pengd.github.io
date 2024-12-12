@@ -237,6 +237,15 @@ Jilin Zhang, Liting Zhu, Jie Mao, Jian Wan, <b>Peng Di</b>. An Efficient Paralle
 <p style="margin-bottom: 6px">
 <li>
 <span>
+Puzhuo Liu, Chengnian Sun, Yaowen Zheng, Xuan Feng, Chuan Qin, Yuncheng Wang, Zhenyang Xu, Zhi Li, <b>Peng Di</b>, Yu Jiang, Limin Sun, LLM-Powered Static Binary Taint Analysis.
+<i>ACM Transactions on Software Engineering and Methodology (TOSEM)</i>, 2024.
+</span></li>
+</p>
+
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 Haofeng	Li, Tian Tan, Yue Li, Jie Lu, Haining Meng, Liqing Cao, Yongheng Huang, Lian Li, Lin Gao, <b>Peng Di</b>, Liang Lin, ChenXi Cui. Generic Sensitivity: Generics-Guided Context Sensitivity for Pointer Analysis.
 <i>IEEE Transactions on Software Engineering (TSE)</i>, 2024.
 </span></li>
