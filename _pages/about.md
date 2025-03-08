@@ -7,32 +7,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- I am an adjunct senior lecturer working with Scientia Professor [Jingling Xue](http://www.cse.unsw.edu.au/~jingling) at School of Computer Science and Engineering, The University of New South Wales. -->
+<!-- I am an adjunct senior lecturer working with Scientia Professor [Jingling Xue](http://www.cse.unsw.edu.au/~jingling) at School of Computer Science and Engineering, The University of New South Wales. We also open-sourced [CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query) that is a scalable datalog-based static program analyser to assist the CodeFuse pre-train.
+-->
 
-I am working at [Ant Group](https://www.antgroup.com/) as a Senior Staff Engineer and Professoriate Senior Engineer. Additionally, I am an Adjunct Senior Lecturer at the University of New South Wales (UNSW) ([UNSW personal website](http://www.cse.unsw.edu.au/~pengd/)) and an Adjunct Professorate Researcher at the Chinese Academy of Sciences. I also serve as an Industrial PhD Mentor at Zhejiang University.
+I am working at [Ant Group](https://www.antgroup.com/) as a Senior Staff Engineer and leading the AI Native & Software Engineering team. Additionally, I am an Adjunct Senior Lecturer at the University of New South Wales (UNSW) ([UNSW personal website](http://www.cse.unsw.edu.au/~pengd/)) and an Adjunct Professoriate Researcher at the Chinese Academy of Sciences. I also serve as an Industrial PhD Mentor at Zhejiang University.
 
-I earned my PhD degree from UNSW under supervised by Scientia Professor [Jingling Xue](http://www.cse.unsw.edu.au/~jingling). And then I worked as a Research Associate at [Compiler Research Group](http://www.cse.unsw.edu.au/~corg/) and cooperatively developed an inter-procedural dependence analysis tool [SVF](http://svf-tools.github.io/SVF/) that is maintained by [Dr. Yulei Sui](https://yuleisui.github.io/).
+I earned my PhD degree from UNSW under supervised by Scientia Professor [Jingling Xue](http://www.cse.unsw.edu.au/~jingling). And then I worked as a Research Associate at [Compiler Research Group](http://www.cse.unsw.edu.au/~corg/) and cooperatively developed an inter-procedural dependence analysis tool [SVF](http://svf-tools.github.io/SVF/).
 
 Before joining Ant, I worked at Huawei as a Technical Expert of AI compiler. During the period, I am the founder of MindSpore/AKG ([GitHub](https://github.com/mindspore-ai/akg), [Gitee](https://github.com/mindspore-ai/akg)) which is an open-sourced AI compiler for Huawei Ascend 910.
 
-I lead the software engineering team responsible for maintaining and developing Ant Group's DevSecOps. Our primary focus lies in developing practical program analysis platforms tailored for complex and extensive industrial codebases. 
-
-Recently, our team has been dedicated to integrating Large Language Models (LLMs) into real-world industrial scenarios, aiming to enhance the effectiveness and efficiency of software development. 
-The pretrained code LLM, CodeFuse, which was trained by our team at AntGroup, has been open-sourced on [GitHub](https://github.com/codefuse-ai)  and [HuggingFace](https://huggingface.co/codefuse-ai). The technical report has been published on [link](https://arxiv.org/abs/2310.06266). 
-We also open-sourced [CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query) that is a scalable datalog-based static program analyser to assist the CodeFuse pre-train.
+My team has been dedicated to integrating Large Language Models (LLMs) into real-world industrial scenarios, aiming to enhance the effectiveness and efficiency of software development. The pretrained code LLM, CodeFuse, which was trained by our team at AntGroup, has been open-sourced on [GitHub](https://github.com/codefuse-ai)  and [HuggingFace](https://huggingface.co/codefuse-ai). 
 
 
 
 Research Interests
 ======
-* Program Analysis, Software Engineering and Security, AI4SE
-* Programming Language and Compilation Techniques
+* Large Language Model, AI Software Engineering, AI4SE, SE4AI
+* Programming Language, Program Analysis, Software Security
 * Parallel Programming and Optimizations for Heterogeneous Systems
-
 
 News
 ======
-My team is looking for self-motivated technical experts, who are interested in program analysis, software security, AI4SE. Please no hesitate to contact me (dipeng dot dp at antgroup dot com).
+My team is looking for self-motivated technical experts and internship students, who are interested in machine learning, program analysis, AI software engineering. Please no hesitate to contact me (dipeng dot dp at antgroup dot com).
 
 * 2024-12: Our paper, titled "LLM-Powered Static Binary Taint Analysis." has been accepted by [ACM Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/journal/tosem).
 * 2024-11: I was honored to be invited to present Ant Group's recent work on CodeLLM at CCF ChinaSoft 2024. Additionally, our team member, Cong Li, was awarded the Distinguished Dissertation Award by the CCF Systems Software.
