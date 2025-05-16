@@ -30,7 +30,7 @@ Ziyin Zhang, Hang Yu, Sage Lee, Peng Di, Jianguo Li, Rui Wang, GALLa: Graph Alig
 <li>
 <span>
 CodeFuse & Ling Team, Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM.
-<i>[arXiv preprint arXiv:2311.12785](https://arxiv.org/abs/2503.17793)</i>, [cs.LG], 2025.
+<i>arXiv preprint arXiv:2311.12785</i>, [cs.LG], 2025.
 </span></li>
 </p>
 
