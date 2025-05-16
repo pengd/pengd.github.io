@@ -21,7 +21,7 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
-Ziyin Zhang, Hang Yu, Sage Lee, Peng Di, Jianguo Li, Rui Wang, GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding.
+Ziyin Zhang, Hang Yu, Sage Lee, <b>Peng Di</b>, Jianguo Li, Rui Wang, GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding.
 <i>In the 63rd Annual Meeting of the Association for Computational Linguistics (ACL'25)</i>, 2025.
 </span></li>
 </p>
