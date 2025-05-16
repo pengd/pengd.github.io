@@ -21,7 +21,8 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
-Qingkai Shi, Xiaoheng Xie, Xianjin Fu, <b>Peng Di</b>, Huawei Li, Ang Zhou, Gang Fan, Datalog-Based Language-Agnostic Change Impact Analysis for Microservices <i>In the IEEE/ACM 47th International Conference on Software Engineering (ICSE'25)</i>, 2025.
+Ziyin Zhang, Hang Yu, Sage Lee, Peng Di, Jianguo Li, Rui Wang, GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding.
+<i>In the 63rd Annual Meeting of the Association for Computational Linguistics (ACL'25)</i>, 2025.
 </span></li>
 </p>
 
@@ -29,14 +30,22 @@ Qingkai Shi, Xiaoheng Xie, Xianjin Fu, <b>Peng Di</b>, Huawei Li, Ang Zhou, Gang
 <p style="margin-bottom: 6px">
 <li>
 <span>
-Mingyuan Wu, Jiahong Xiang, Kunqiu Chen, <b>Peng Di</b>, Shin Hwei Tan, Heming Cui, Yuqun Zhang, Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing? <i>In the IEEE/ACM 47th International Conference on Software Engineering (ICSE'25)</i>, 2025.
+Qingkai Shi, Xiaoheng Xie, Xianjin Fu, <b>Peng Di</b>, Huawei Li, Ang Zhou, Gang Fan, Datalog-Based Language-Agnostic Change Impact Analysis for Microservices. <i>In the IEEE/ACM 47th International Conference on Software Engineering (ICSE'25)</i>, 2025.
+</span></li>
+</p>
+
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+Mingyuan Wu, Jiahong Xiang, Kunqiu Chen, <b>Peng Di</b>, Shin Hwei Tan, Heming Cui, Yuqun Zhang, Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing? <i>In the IEEE/ACM 47th International Conference on Software Engineering (ICSE'25)</i>, 2025. <b>(Distingguished Paper Award)</b>
 </span></li>
 </p>
 
 <p style="margin-bottom: 6px">
 <li>
 <span>
-Cong Li, Zhaogui Xu, <b>Peng Di</b>, Dongxia Wang, Zheng Li, and Qian Zheng, Understanding Code Changes Practically with Small-Scale Language Models <i>In the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24)</i>, 2024.
+Cong Li, Zhaogui Xu, <b>Peng Di</b>, Dongxia Wang, Zheng Li, and Qian Zheng, Understanding Code Changes Practically with Small-Scale Language Models. <i>In the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24)</i>, 2024.
 </span></li>
 </p>
 
@@ -152,7 +161,7 @@ Jie Zhao, Bojie Li, Wang Nie, Zhen Geng, Renwei Zhang, Xiong Gao, Bin Cheng, Che
 <li>
 <span>
 Jie Zhao, <b>Peng Di</b>. Optimizing the Memory Hierarchy by Compositing Automatic Transformations on Computations and Data.
-<i>In the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO-53)</i>, Athens, Greece, 2020. (Best Paper Nomination)
+<i>In the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO-53)</i>, Athens, Greece, 2020. <b>(Best Paper Nomination)</b>
 </span></li>
 </p>
 

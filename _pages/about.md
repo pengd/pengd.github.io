@@ -32,6 +32,8 @@ News
 ======
 My team is looking for self-motivated technical experts and internship students, who are interested in machine learning, program analysis, AI software engineering. Please no hesitate to contact me (dipeng dot dp at antgroup dot com).
 
+* 2025-05: Our paper, titled "GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding" has been accepted to the main conference of ACL 2025.
+* 2025-04: Our paper, titled "Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing?" wins ACM SIGSOFT Distinguished Paper Award. 
 * 2025-03: We have open-sourced our latest MoE code LLM, Ling-Coder-Lite, available on [GitHub](https://github.com/codefuse-ai/Ling-Coder-Lite) and [HuggingFace](https://huggingface.co/inclusionAI/Ling-Coder-lite). This model is based on the Ant Ling-MoE architecture. Additionally, the [technical report](https://arxiv.org/abs/2503.17793), [SFT dataset](https://huggingface.co/datasets/inclusionAI/Ling-Coder-SFT) and [DPO dataset](https://huggingface.co/datasets/inclusionAI/Ling-Coder-DPO) are also openly accessible. 
 * 2024-12: Our paper, titled "LLM-Powered Static Binary Taint Analysis." has been accepted by [ACM Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/journal/tosem).
 * 2024-11: I was honored to be invited to present Ant Group's recent work on CodeLLM at CCF ChinaSoft 2024. Additionally, our team member, Cong Li, was awarded the Distinguished Dissertation Award by the CCF Systems Software.
