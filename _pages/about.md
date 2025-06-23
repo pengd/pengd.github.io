@@ -10,7 +10,7 @@ redirect_from:
 <!-- I am an adjunct senior lecturer working with Scientia Professor [Jingling Xue](http://www.cse.unsw.edu.au/~jingling) at School of Computer Science and Engineering, The University of New South Wales. We also open-sourced [CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query) that is a scalable datalog-based static program analyser to assist the CodeFuse pre-train.
 -->
 
-I am working at [Ant Group](https://www.antgroup.com/) as a Senior Staff Engineer and leading the AI Native & Software Engineering team. Additionally, I am an Adjunct Associate Professor at the University of New South Wales, Sydney. I also serve as an Industrial PhD Mentor at Zhejiang University.
+I am working at [Ant Group](https://www.antgroup.com/) as a Senior Staff Engineer and leading the Intelligent Platform Engineering team. Additionally, I am an Adjunct Associate Professor at the University of New South Wales, Sydney. I also serve as an Industrial PhD Mentor at Zhejiang University.
 
 I earned my PhD degree from UNSW under supervised by Scientia Professor [Jingling Xue](http://www.cse.unsw.edu.au/~jingling). And then I worked as a Research Associate at [Compiler Research Group](http://www.cse.unsw.edu.au/~corg/) and cooperatively developed an inter-procedural dependence analysis tool [SVF](http://svf-tools.github.io/SVF/).
 
@@ -32,6 +32,8 @@ News
 ======
 My team is looking for self-motivated technical experts and internship students, who are interested in machine learning, program analysis, AI software engineering. Please no hesitate to contact me (dipeng dot dp at antgroup dot com).
 
+* 2025-06: Our paper, titled "Evolving Trends, Patterns, and Hidden Pitfalls: Unveiling JavaScript Feature Usage in the Wild" has been accepted by ICSE 2026.
+* 2025-05: We are pleased to announce the updated version of the CGM-72B-V1.2. The model further achieves a remarkable 44.00% resolve rate on the SWE-Bench-Lite leaderboard.[CGM](https://huggingface.co/inclusionAI/Ling-Coder-lite)
 * 2025-05: Our paper, titled "GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding" has been accepted to the main conference of ACL 2025.
 * 2025-04: Our paper, titled "Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing?" wins ACM SIGSOFT Distinguished Paper Award. 
 * 2025-03: We have open-sourced our latest MoE code LLM, Ling-Coder-Lite, available on [GitHub](https://github.com/codefuse-ai/Ling-Coder-Lite) and [HuggingFace](https://huggingface.co/inclusionAI/Ling-Coder-lite). This model is based on the Ant Ling-MoE architecture. Additionally, the [technical report](https://arxiv.org/abs/2503.17793), [SFT dataset](https://huggingface.co/datasets/inclusionAI/Ling-Coder-SFT) and [DPO dataset](https://huggingface.co/datasets/inclusionAI/Ling-Coder-DPO) are also openly accessible. 

@@ -21,6 +21,14 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
+Dawei Chen, Wuxia Jin, Hui Guo, Guanlin Qiao, <b>Peng Di</b>, Ting Liu, Evolving Trends, Patterns, and Hidden Pitfalls: Unveiling JavaScript Feature Usage in the Wild.
+<i>In the IEEE/ACM 48th International Conference on Software Engineering(ICSE'26)</i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 Ziyin Zhang, Hang Yu, Sage Lee, <b>Peng Di</b>, Jianguo Li, Rui Wang, GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding.
 <i>In the 63rd Annual Meeting of the Association for Computational Linguistics (ACL'25)</i>, 2025.
 </span></li>
