@@ -8,9 +8,8 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
-![cgm1](images/image-4.png)
-![cgm2](images/image-5.png)
-<img alt="My Image" src="data:image/png;base64,base64-data-goes-here" />
+<img alt="cgm1" src="data:images/image-4.png;base64,base64-data-goes-here" />
+<img alt="cgm2" src="data:images/image-5.png;base64,base64-data-goes-here" />
 CGM: We are pleased to announce the updated version of the CGM-72B-V1.2. The model further achieves a remarkable 44.00% resolve rate on the SWE-Bench-Lite leaderboard.[CGM](https://huggingface.co/inclusionAI/Ling-Coder-lite)
 </span></li>
 </p>
