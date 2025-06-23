@@ -18,7 +18,7 @@ CGM: We are pleased to announce the updated version of the CGM-72B-V1.2. The mod
 <p style="margin-bottom: 6px">
 <li>
 <span>
-![alt text](images/image-2.png)
+<img alt="Ling-coder" src="data:images/image-2.png;base64,base64-data-goes-here" />
 Ling-Coder-Lite, available on [GitHub](https://github.com/codefuse-ai/Ling-Coder-Lite) and [HuggingFace](https://huggingface.co/inclusionAI/Ling-Coder-lite). This model is based on the Ant Ling-MoE architecture. Additionally, the [technical report](https://arxiv.org/abs/2503.17793), [SFT dataset](https://huggingface.co/datasets/inclusionAI/Ling-Coder-SFT) and [DPO dataset](https://huggingface.co/datasets/inclusionAI/Ling-Coder-DPO) are also openly accessible. 
 </span></li>
 </p>
@@ -27,7 +27,7 @@ Ling-Coder-Lite, available on [GitHub](https://github.com/codefuse-ai/Ling-Coder
 <p style="margin-bottom: 6px">
 <li>
 <span>
-![alt text](images/image-1.png)
+<img alt="codefuse" src="images/image-1.png" />
 CodeFuse: My team has been dedicated to integrating Large Language Models (LLMs) into real-world industrial scenarios, aiming to enhance the effectiveness and efficiency of software development. The pretrained code LLM, CodeFuse, which was trained by our team at AntGroup, has been open-sourced on [GitHub](https://github.com/codefuse-ai) and [HuggingFace](https://huggingface.co/codefuse-ai)
 </span></li>
 </p>
