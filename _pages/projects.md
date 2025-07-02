@@ -18,12 +18,18 @@ author_profile: true
 </span></li>
 </p>
 
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+
 <p style="margin-bottom: 6px">
 <li><img src="https://pengd.github.io/images/image-2.png" alt="Ling-coder" width="44" height="53" /><strong>Ling-Coder-Lite</strong><br />
 <span>
 <div><span aria-hidden="true">We have open-sourced our latest MoE code LLM, Ling-Coder-Lite, available on <a href="https://github.com/codefuse-ai/Ling-Coder-Lite">GitHub</a> and <a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">HuggingFace</a>. This model is based on the Ant Ling-MoE architecture. Additionally, the technical report <a href="https://arxiv.org/abs/2503.17793">https://arxiv.org/abs/2503.17793</a> , <a href="https://huggingface.co/datasets/inclusionAI/Ling-Coder-SFT">SFT dataset</a> and <a href="https://huggingface.co/datasets/inclusionAI/Ling-Coder-DPO">DPO dataset</a> are also openly accessible.</span></div>
 </span></li>
 </p>
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
 <p style="margin-bottom: 6px">
 <li><img src="https://pengd.github.io/images/image-1.png" alt="codefuse" width="256px" />
@@ -34,6 +40,8 @@ author_profile: true
 </span></li>
 </p>
 
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
 <p style="margin-bottom: 6px">
 <li><img src="https://pengd.github.io/images/image.png" alt="akg" height="200px" /><strong>MindSpore/AKG</strong>
@@ -43,15 +51,8 @@ author_profile: true
 </span></li>
 </p>
 
-<!-- <p style="margin-bottom: 6px">
-<li>
-<span>
-<img alt="svf" src="../images/image-3.png" style="width:128px" />
-
-SVF (Static Value-Flow Analysis Framework) is a prominent open-source tool designed for static program analysis. It is widely used in software engineering and programming language research to analyze how data values flow throughout a program. By providing powerful static analysis capabilities, SVF enables developers and researchers to better understand program behavior, detect software vulnerabilities, optimize compilers, and improve program verification. [SVF](http://svf-tools.github.io/SVF/). 
-</span></li>
-</p> -->
-
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
 <p style="margin-bottom: 6px">
 <li><img src="https://pengd.github.io/images/image-3.png" alt="svf" width="64px" />
