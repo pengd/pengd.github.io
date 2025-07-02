@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p style="margin-bottom: 6px">
-<li><img src="https://pengd.github.io/images/image-2.png" alt="Ling-coder" width="44" height="53" /><strong>Code Graph Model (CGM)</strong>
+<li><img src="https://pengd.github.io/images/image-1.png" alt="codefuse" width="220px" /><strong>Code Graph Model (CGM)</strong>
 <span>
 <div>
 <p>CGM is a graph-based framework for software engineering tasks that employs a repository-level code graph to capture structural context and a four-step R4 chain (Rewriter, Retriever, Reranker, Reader) to resolve issues. Starting with a rewritten query from the original issue, CGM retrieves a code subgraph, prioritizes critical files via reranking, and generates a code patch using a graph-aware Reader, combining heuristic retrieval with machine learning for efficient, context-aware solutions.</p>
