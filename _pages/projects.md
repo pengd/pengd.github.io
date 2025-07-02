@@ -46,12 +46,11 @@ author_profile: true
 <br />
 <div>CodeFuse has been open-sourced on <a href="https://github.com/codefuse-ai">GitHub</a>&nbsp;and <a href="https://huggingface.co/codefuse-ai">HuggingFace</a>. The technical report has been published on <a href="https://arxiv.org/abs/2310.06266">https://arxiv.org/abs/2310.06266</a>.</div>
 </div>
-
 </span></li>
 </p>
 
 
- <p style="margin-bottom: 6px">
+<p style="margin-bottom: 6px">
 <li>
 <span>
 <div>
@@ -60,7 +59,7 @@ author_profile: true
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <p>MindSpore/AKG also known as the Automatic Kernel Generator, is a component of the MindSpore framework, which is an open-source machine learning (ML) platform developed by Huawei. AKG plays a crucial role in optimizing the performance of neural network operations on various hardware platforms, including CPUs, GPUs, and specialized AI accelerators like Ascend.  <a href="https://github.com/mindspore-ai/akg">GitHub</a>&nbsp; and  <a href="https://github.com/mindspore-ai/akg">Gitee</a>. The reports have been published on <a href="https://ieeexplore.ieee.org/document/9251965">Micro'20</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3453483.3454106">PLDI'21</a> and <a href="https://dl.acm.org/doi/10.1145/3635305">TOCS'23</a>
-
+</div>
 </span></li>
 </p>
 
@@ -79,10 +78,10 @@ SVF (Static Value-Flow Analysis Framework) is a prominent open-source tool desig
 <span>
 <div>
 <div>&nbsp;</div>
-<img src="https://pengd.github.io/images/image-3.png" alt="svf" height="100px" />
+<img src="https://pengd.github.io/images/image-3.png" alt="svf" width="128px" />
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <p>SVF (Static Value-Flow Analysis Framework) is a prominent open-source tool designed for static program analysis. It is widely used in software engineering and programming language research to analyze how data values flow throughout a program. By providing powerful static analysis capabilities, SVF enables developers and researchers to better understand program behavior, detect software vulnerabilities, optimize compilers, and improve program verification. <a href="http://svf-tools.github.io/SVF/">GitHub</a>.
-
+</div>
 </span></li>
 </p>
