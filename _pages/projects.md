@@ -25,7 +25,7 @@ author_profile: true
 
 
 <p style="margin-bottom: 6px">
-<li><img src="https://pengd.github.io/images/image-2.png" alt="Ling-coder" width="44" height="53" /><strong>Ling-Coder-Lite</strong><br />
+<li><img src="https://pengd.github.io/images/image-2.png" alt="Ling-coder" width="120px" /><strong>Ling-Coder-Lite</strong><br />
 <span>
 <div><span aria-hidden="true">We have open-sourced our latest MoE code LLM, Ling-Coder-Lite, available on <a href="https://github.com/codefuse-ai/Ling-Coder-Lite">GitHub</a> and <a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">HuggingFace</a>. This model is based on the Ant Ling-MoE architecture. Additionally, the technical report <a href="https://arxiv.org/abs/2503.17793">https://arxiv.org/abs/2503.17793</a> , <a href="https://huggingface.co/datasets/inclusionAI/Ling-Coder-SFT">SFT dataset</a> and <a href="https://huggingface.co/datasets/inclusionAI/Ling-Coder-DPO">DPO dataset</a> are also openly accessible.</span></div>
 <div><img src="https://pengd.github.io/images/ling-coder-1.png" alt="ling1" width="600" /></div>
