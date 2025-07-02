@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p style="margin-bottom: 6px">
-<li><img src="https://pengd.github.io/images/image-1.png" alt="codefuse" width="220px" /><strong>Code Graph Model (CGM)</strong>
+<li><img src="https://pengd.github.io/images/image-1.png" alt="codefuse" width="150px" />&nbsp; <strong>Code Graph Model (CGM)</strong>
 <span>
 <div>
 <p>CGM is a graph-based framework for software engineering tasks that employs a repository-level code graph to capture structural context and a four-step R4 chain (Rewriter, Retriever, Reranker, Reader) to resolve issues. Starting with a rewritten query from the original issue, CGM retrieves a code subgraph, prioritizes critical files via reranking, and generates a code patch using a graph-aware Reader, combining heuristic retrieval with machine learning for efficient, context-aware solutions.</p>
@@ -39,7 +39,7 @@ author_profile: true
 
 
 <p style="margin-bottom: 6px">
-<li><img src="https://pengd.github.io/images/image-1.png" alt="codefuse" width="220px" />
+<li><img src="https://pengd.github.io/images/image-1.png" alt="codefuse" width="200px" />
 <span>
 <div>CodeFuse is an advanced pretrained code Large Language Model (LLM) developed by our team at AntGroup. Designed to integrate seamlessly into real-world industrial scenarios, CodeFuse aims to significantly enhance the effectiveness and efficiency of software development. By leveraging the power of LLMs, CodeFuse provides developers with intelligent code suggestions, automates repetitive tasks, and offers deep insights into code quality and best practices. To foster innovation and collaboration, we have open-sourced CodeFuse, making it accessible to the broader developer community.</div>
 <br />
