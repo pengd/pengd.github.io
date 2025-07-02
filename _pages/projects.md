@@ -55,10 +55,9 @@ author_profile: true
 <span>
 <div>
 <div>&nbsp;</div>
-<img src="https://pengd.github.io/images/image.png" alt="akg" height="100px" /><strong>MindSpore/AKG</strong></div>
+<img src="https://pengd.github.io/images/image.png" alt="akg" height="200px" /><strong>MindSpore/AKG</strong></div>
 <div>&nbsp;</div>
-<div>&nbsp;</div>
-<p>MindSpore/AKG also known as the Automatic Kernel Generator, is a component of the MindSpore framework, which is an open-source machine learning (ML) platform developed by Huawei. AKG plays a crucial role in optimizing the performance of neural network operations on various hardware platforms, including CPUs, GPUs, and specialized AI accelerators like Ascend.  <a href="https://github.com/mindspore-ai/akg">GitHub</a>&nbsp; and  <a href="https://github.com/mindspore-ai/akg">Gitee</a>. The reports have been published on <a href="https://ieeexplore.ieee.org/document/9251965">Micro'20</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3453483.3454106">PLDI'21</a> and <a href="https://dl.acm.org/doi/10.1145/3635305">TOCS'23</a>
+MindSpore/AKG also known as the Automatic Kernel Generator, is a component of the MindSpore framework, which is an open-source machine learning (ML) platform developed by Huawei. AKG plays a crucial role in optimizing the performance of neural network operations on various hardware platforms, including CPUs, GPUs, and specialized AI accelerators like Ascend.  <a href="https://github.com/mindspore-ai/akg">GitHub</a>&nbsp; and  <a href="https://github.com/mindspore-ai/akg">Gitee</a>. The reports have been published on <a href="https://ieeexplore.ieee.org/document/9251965">Micro'20</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3453483.3454106">PLDI'21</a> and <a href="https://dl.acm.org/doi/10.1145/3635305">TOCS'23</a>
 </div>
 </span></li>
 </p>
@@ -78,10 +77,9 @@ SVF (Static Value-Flow Analysis Framework) is a prominent open-source tool desig
 <span>
 <div>
 <div>&nbsp;</div>
-<img src="https://pengd.github.io/images/image-3.png" alt="svf" width="128px" />
+<img src="https://pengd.github.io/images/image-3.png" alt="svf" width="64px" />
 <div>&nbsp;</div>
-<div>&nbsp;</div>
-<p>SVF (Static Value-Flow Analysis Framework) is a prominent open-source tool designed for static program analysis. It is widely used in software engineering and programming language research to analyze how data values flow throughout a program. By providing powerful static analysis capabilities, SVF enables developers and researchers to better understand program behavior, detect software vulnerabilities, optimize compilers, and improve program verification. <a href="http://svf-tools.github.io/SVF/">GitHub</a>.
+SVF (Static Value-Flow Analysis Framework) is a prominent open-source tool designed for static program analysis. It is widely used in software engineering and programming language research to analyze how data values flow throughout a program. By providing powerful static analysis capabilities, SVF enables developers and researchers to better understand program behavior, detect software vulnerabilities, optimize compilers, and improve program verification. <a href="http://svf-tools.github.io/SVF/">GitHub</a>.
 </div>
 </span></li>
 </p>
