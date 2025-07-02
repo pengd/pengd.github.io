@@ -38,7 +38,7 @@ author_profile: true
 
 
 <p style="margin-bottom: 6px">
-<li><img src="https://pengd.github.io/images/image-1.png" alt="codefuse" height="200px" />
+<li><img src="https://pengd.github.io/images/image-1.png" alt="codefuse" height="256px" />
 <span>
 <div>CodeFuse is an advanced pretrained code Large Language Model (LLM) developed by our team at AntGroup. Designed to integrate seamlessly into real-world industrial scenarios, CodeFuse aims to significantly enhance the effectiveness and efficiency of software development. By leveraging the power of LLMs, CodeFuse provides developers with intelligent code suggestions, automates repetitive tasks, and offers deep insights into code quality and best practices. To foster innovation and collaboration, we have open-sourced CodeFuse, making it accessible to the broader developer community.</div>
 <br />
@@ -53,7 +53,7 @@ author_profile: true
 
 
 <p style="margin-bottom: 6px">
-<li><img src="https://pengd.github.io/images/image.png" alt="akg" height="300px" /><strong>MindSpore/AKG</strong>
+<li><img src="https://pengd.github.io/images/image.png" alt="akg" height="256px" /><strong>MindSpore/AKG</strong>
 <span>
 <div>MindSpore/AKG also known as the Automatic Kernel Generator, is a component of the MindSpore framework, which is an open-source machine learning (ML) platform developed by Huawei. AKG plays a crucial role in optimizing the performance of neural network operations on various hardware platforms, including CPUs, GPUs, and specialized AI accelerators like Ascend.  <a href="https://github.com/mindspore-ai/akg">GitHub</a>&nbsp; and  <a href="https://github.com/mindspore-ai/akg">Gitee</a>. The reports have been published on <a href="https://ieeexplore.ieee.org/document/9251965">Micro'20</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3453483.3454106">PLDI'21</a> and <a href="https://dl.acm.org/doi/10.1145/3635305">TOCS'23</a>
 </div>
@@ -67,7 +67,7 @@ author_profile: true
 
 
 <p style="margin-bottom: 6px">
-<li><img src="https://pengd.github.io/images/image-3.png" alt="svf" height="300px"  />
+<li><img src="https://pengd.github.io/images/image-3.png" alt="svf" height="256px"  />
 <span>
 <div>
 SVF (Static Value-Flow Analysis Framework) is a prominent open-source tool designed for static program analysis. It is widely used in software engineering and programming language research to analyze how data values flow throughout a program. By providing powerful static analysis capabilities, SVF enables developers and researchers to better understand program behavior, detect software vulnerabilities, optimize compilers, and improve program verification. <a href="http://svf-tools.github.io/SVF/">GitHub</a>.
