@@ -44,6 +44,7 @@ author_profile: true
 <div>CodeFuse is an advanced pretrained code Large Language Model (LLM) developed by our team at AntGroup. Designed to integrate seamlessly into real-world industrial scenarios, CodeFuse aims to significantly enhance the effectiveness and efficiency of software development. By leveraging the power of LLMs, CodeFuse provides developers with intelligent code suggestions, automates repetitive tasks, and offers deep insights into code quality and best practices. To foster innovation and collaboration, we have open-sourced CodeFuse, making it accessible to the broader developer community.</div>
 <br />
 <div>CodeFuse has been open-sourced on <a href="https://github.com/codefuse-ai">GitHub</a>&nbsp;and <a href="https://huggingface.co/codefuse-ai">HuggingFace</a>. The technical report has been published on <a href="https://arxiv.org/abs/2310.06266">https://arxiv.org/abs/2310.06266</a>.</div>
+<div><img src="https://pengd.github.io/images/codefuse1.jpg" alt="codefuse1" width="600" /></div>
 </span></li>
 </p>
 
@@ -56,8 +57,9 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li><img src="https://pengd.github.io/images/image.png" alt="akg" width="220px" /><strong>MindSpore/AKG</strong>
 <span>
-<div>MindSpore/AKG also known as the Automatic Kernel Generator, is a component of the MindSpore framework, which is an open-source machine learning (ML) platform developed by Huawei. AKG plays a crucial role in optimizing the performance of neural network operations on various hardware platforms, including CPUs, GPUs, and specialized AI accelerators like Ascend.  <a href="https://github.com/mindspore-ai/akg">GitHub</a>&nbsp; and  <a href="https://github.com/mindspore-ai/akg">Gitee</a>. The reports have been published on <a href="https://ieeexplore.ieee.org/document/9251965">Micro'20</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3453483.3454106">PLDI'21</a> and <a href="https://dl.acm.org/doi/10.1145/3635305">TOCS'23</a>
+<div>MindSpore/AKG also known as the Automatic Kernel Generator, is a component of the MindSpore framework, which is an open-source machine learning (ML) platform developed by Huawei. AKG plays a crucial role in optimizing the performance of neural network operations on various hardware platforms, including CPUs, GPUs, and specialized AI accelerators like Ascend.  <a href="https://github.com/mindspore-ai/akg">GitHub</a>&nbsp; and  <a href="https://github.com/mindspore-ai/akg">Gitee</a>. The reports have been published on <a href="https://ieeexplore.ieee.org/document/9251965">MICRO'20</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3453483.3454106">PLDI'21</a> and <a href="https://dl.acm.org/doi/10.1145/3635305">TOCS'23</a>
 </div>
+<div><img src="https://pengd.github.io/images/akg-design.png" alt="akg1" width="600" /></div>
 </span></li>
 </p>
 
