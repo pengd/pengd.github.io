@@ -54,7 +54,7 @@ Ling-Coder-Lite, available on [GitHub](https://github.com/codefuse-ai/Ling-Coder
  
 <div>
 <div>&nbsp;</div>
-<img src="https://pengd.github.io/images/image-1.png" alt="codefuse" height="20" /><strong>CodeFuse</strong><br />
+<img src="https://pengd.github.io/images/image-1.png" alt="codefuse" width="256px" />
 <div>&nbsp;</div>
 <div>CodeFuse is an advanced pretrained code Large Language Model (LLM) developed by our team at AntGroup. Designed to integrate seamlessly into real-world industrial scenarios, CodeFuse aims to significantly enhance the effectiveness and efficiency of software development. By leveraging the power of LLMs, CodeFuse provides developers with intelligent code suggestions, automates repetitive tasks, and offers deep insights into code quality and best practices. To foster innovation and collaboration, we have open-sourced CodeFuse, making it accessible to the broader developer community.</div>
 <br />
