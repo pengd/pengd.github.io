@@ -5,20 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-<!-- <p style="margin-bottom: 6px">
+<p style="margin-bottom: 6px">
 <li>
 <span>
-<img alt="cgm1" src="../images/image-4.png" style="width:256px" />
-<img alt="cgm2" src="../images/image-5.png" style="width:256px" />
-
-CGM: We are pleased to announce the updated version of the CGM-72B-V1.2. The model further achieves a remarkable 44.00% resolve rate on the SWE-Bench-Lite leaderboard.[CGM](https://huggingface.co/inclusionAI/Ling-Coder-lite)
-
-We are pleased to announce the updated version of the CGM-72B-V1.2. This new model has achieved a remarkable 44.00% resolve rate on the SWE-Bench-Lite leaderboard, marking a significant improvement in its performance and capabilities.
-
-
-</span></li>
-</p> -->
-
 <div>
 <div>&nbsp;</div>
 <img src="https://pengd.github.io/images/image-2.png" alt="Ling-coder" width="44" height="53" /><strong>Code Graph Model (CGM)</strong></div>
@@ -30,23 +19,20 @@ We are pleased to announce the updated version of the CGM-72B-V1.2. This new mod
 </div>
 <div><img src="https://pengd.github.io/images/image-4.png" alt="cgm1" width="600" height="195" /></div>
 <div><img src="https://pengd.github.io/images/image-5.png" alt="cgm2" width="600" /></div>
+</span></li>
+</p>
 
-
-<!-- <p style="margin-bottom: 6px">
+<p style="margin-bottom: 6px">
 <li>
 <span>
-<img alt="Ling-coder" src="../images/image-2.png" style="width:128px" />
-Ling-Coder-Lite, available on [GitHub](https://github.com/codefuse-ai/Ling-Coder-Lite) and [HuggingFace](https://huggingface.co/inclusionAI/Ling-Coder-lite). This model is based on the Ant Ling-MoE architecture. Additionally, the [technical report](https://arxiv.org/abs/2503.17793), [SFT dataset](https://huggingface.co/datasets/inclusionAI/Ling-Coder-SFT) and [DPO dataset](https://huggingface.co/datasets/inclusionAI/Ling-Coder-DPO) are also openly accessible. 
-</span></li>
-</p> -->
-
 <div>
 <div>&nbsp;</div>
 <img src="https://pengd.github.io/images/image-2.png" alt="Ling-coder" width="44" height="53" /><strong>Ling-Coder-Lite</strong><br />
 <div>&nbsp;</div>
 <div><span aria-hidden="true">We have open-sourced our latest MoE code LLM, Ling-Coder-Lite, available on <a href="https://github.com/codefuse-ai/Ling-Coder-Lite">GitHub</a> and <a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">HuggingFace</a>. This model is based on the Ant Ling-MoE architecture. Additionally, the technical report <a href="https://arxiv.org/abs/2503.17793">https://arxiv.org/abs/2503.17793</a> , <a href="https://huggingface.co/datasets/inclusionAI/Ling-Coder-SFT">SFT dataset</a> and <a href="https://huggingface.co/datasets/inclusionAI/Ling-Coder-DPO">DPO dataset</a> are also openly accessible.</span></div>
 </div>
-
+</span></li>
+</p>
 
 <p style="margin-bottom: 6px">
 <li>
@@ -64,25 +50,19 @@ Ling-Coder-Lite, available on [GitHub](https://github.com/codefuse-ai/Ling-Coder
 </span></li>
 </p>
 
-<!-- <p style="margin-bottom: 6px">
+
+ <p style="margin-bottom: 6px">
 <li>
 <span>
-<img alt="akg" src="../images/image.png" style="width:128px" />
-
-MindSpore/AKG: also known as the Automatic Kernel Generator, is a component of the MindSpore framework, which is an open-source machine learning (ML) platform developed by Huawei. AKG plays a crucial role in optimizing the performance of neural network operations on various hardware platforms, including CPUs, GPUs, and specialized AI accelerators like Ascend.
-([GitHub](https://github.com/mindspore-ai/akg), [Gitee](https://github.com/mindspore-ai/akg)) which is an open-sourced AI compiler for Huawei Ascend 910.
-</span></li>
-</p> -->
-
 <div>
 <div>&nbsp;</div>
-<img src="https://pengd.github.io/images/image.png" alt="akg" height="53" /><strong>MindSpore/AKG</strong></div>
+<img src="https://pengd.github.io/images/image.png" alt="akg" height="100px" /><strong>MindSpore/AKG</strong></div>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <p>MindSpore/AKG also known as the Automatic Kernel Generator, is a component of the MindSpore framework, which is an open-source machine learning (ML) platform developed by Huawei. AKG plays a crucial role in optimizing the performance of neural network operations on various hardware platforms, including CPUs, GPUs, and specialized AI accelerators like Ascend.  <a href="https://github.com/mindspore-ai/akg">GitHub</a>&nbsp; and  <a href="https://github.com/mindspore-ai/akg">Gitee</a>. The reports have been published on <a href="https://ieeexplore.ieee.org/document/9251965">Micro'20</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3453483.3454106">PLDI'21</a> and <a href="https://dl.acm.org/doi/10.1145/3635305">TOCS'23</a>
 
-<div>&nbsp;</div>
-
+</span></li>
+</p>
 
 <!-- <p style="margin-bottom: 6px">
 <li>
@@ -94,12 +74,15 @@ SVF (Static Value-Flow Analysis Framework) is a prominent open-source tool desig
 </p> -->
 
 
-
+<p style="margin-bottom: 6px">
+<li>
+<span>
 <div>
 <div>&nbsp;</div>
-<img src="https://pengd.github.io/images/image-3.png" alt="svf" height="53" /><strong>SVF</strong></div>
+<img src="https://pengd.github.io/images/image-3.png" alt="svf" height="100px" />
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <p>SVF (Static Value-Flow Analysis Framework) is a prominent open-source tool designed for static program analysis. It is widely used in software engineering and programming language research to analyze how data values flow throughout a program. By providing powerful static analysis capabilities, SVF enables developers and researchers to better understand program behavior, detect software vulnerabilities, optimize compilers, and improve program verification. <a href="http://svf-tools.github.io/SVF/">GitHub</a>.
 
-<div>&nbsp;</div>
+</span></li>
+</p>
