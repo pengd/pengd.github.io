@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "IPE Team"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,60 +8,45 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
-======
-* B.S. Xian Jiaotong University, China 2000−2004 
-* Combined M.S.-Ph.D University of Science and Technology Beijing, China 2005−2008 (Ph.D degree gained in 2012)
-* Ph.D University of New South Wales, Australia 2009−2013
-
-Work experience
-======
-* Jun 2020 - present: Senior Staff Engineer
-  * Ant Group
-  * Duties included: 
-    * Lead the program analysis and security team
-
-
-* Jun 2018 - May 2020: Technical Expert
-  * Huawei Technologies
-  * Duties included: 
-    * The founder of MindSpore/AKG which is an open-sourced AI compiler for Huawei Ascend 910. ([GitHub](https://github.com/mindspore-ai/akg), [Gitee](https://github.com/mindspore-ai/akg))
-
-* Mar 2020 - present: Adjunct Researcher (Professor)
-  * Chinese Academy of Sciences
-
-* Apr 2018 − present: Adjunct Senior Lecturer 
-  * The University of New South Wales
-  * Duties included: 
-    * Parallel program analysis and optimization
-
-* Sep 2013 – Mar 2018: Research Associate
-  * The University of New South Wales
-  * Duties included: 
-    * In charge of industrial projects, supported by Huawei, Pathscale, Oracle etc. 
-    * Finding concurrency bugs in multithreaded software, supported by Australian Research Council Discovery 
-    * SVF: open-sourced pointer analysis tool over LLVM, ([GitHub](http://svf-tools.github.io/SVF/))
-
-
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-Professional Activities
-======
-* Served as a reviewer for: CASES, CC, CCGrid, CGO, DATE, ICPP, ICSE, IPDPS, LCTES, PPoPP, TC, TPDS, TOSEM, TSE etc.
+<h1 class="p1">About Ant IPE</h1>
+<p class="p1">The Ant Intelligent Platform Engineering team is committed to building a safe and trusted framework for intelligent, automated software engineering. Our mission is to seamlessly integrate and enhance the synergy between software engineering and artificial intelligence, paving the way for technological innovation across all areas of software development and operations. To realize this vision, we unite top researchers and development engineers from various disciplines and backgrounds, working collaboratively to tackle the challenges confronting AntGroup and the broader software engineering community.</p>
+<h1 class="p1">Ongoing Projects</h1>
+<p class="p1">We also manage the CodeFuse community, which can be found at <a href="https://github.com/codefuse-ai/">https://github.com/codefuse-ai/</a>. The community encompasses pre-trained Code LLMs, agents, frameworks, toolchains, and databases.</p>
+<h1 class="p1">Publications</h1>
+<p>Our team has published dozens of papers in prestigious conferences such as ICLR, ICML, NeurIPS, ICSE, FSE, ISSTA, ASE, PLDI, and OOPSLA, and we also regularly share our latest research on arXiv.&nbsp;</p>
+<ul>
+<li>Selected paper list （TBD）&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<div>&nbsp;</div>
+<h1 class="p1">Career Opportunities</h1>
+<p>My team is looking for self-motivated technical experts and internship students, who are interested in machine learning, reinforcement learning，multimodal，time series algorithm, program analysis, AI software engineering. Please no hesitate to contact me (dipeng dot dp at antgroup dot com).</p>
+<p><strong>"Plan-A" Ant Talent Internship Program (Ph.D Track)</strong></p>
+<p>We are seeking highly motivated PhD students in AI, SE or PL. The successful candidate will work on cutting-edge research projects in our field.</p>
+<p>Requirements:</p>
+<ul>
+<li>Ph.D student in a relevant field</li>
+<li><span style="color: #ff0000;">Strong</span> publication record</li>
+<li>Excellent communication skills</li>
+</ul>
+<p><br /><strong>LLM4SE Researcher/Engineer&nbsp;</strong></p>
+<p>We have openings for&nbsp;LLM4SE Researcher/Engineer&nbsp;to work on various projects in our team.</p>
+<ul>
+<li>Train powerful LLMs and CodeLLMs</li>
+<li>Develop production-grade agents and models for software engineering</li>
+<li>Design novel algorithms for code generation, program repair, or ML-driven SE</li>
+<li>Implement and optimize RL framework for DevOps tasks</li>
+</ul>
+<p>Requirements:</p>
+<ul>
+<li>Background in relevant research areas&nbsp;with a master's or doctoral degree</li>
+<li>Self-motivated</li>
+</ul>
+<p><br /><strong>Research/Engineering Intern</strong></p>
+<p>We have openings for interns to work on various projects in our team.&nbsp;Collaborate with senior researchers to publish in NeurIPS/ICSE-tier conferences.</p>
+<p>Requirements:</p>
+<ul>
+<li>Enrolled in an undergraduate or graduate program</li>
+<li>Background in relevant research areas</li>
+<li>Self-motivated</li>
+</ul>
