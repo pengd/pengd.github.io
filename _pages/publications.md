@@ -22,7 +22,7 @@ author_profile: true
 <li>
 <span>
 Dawei Chen, Wuxia Jin, Hui Guo, Guanlin Qiao, <b>Peng Di</b>, Ting Liu, Evolving Trends, Patterns, and Hidden Pitfalls: Unveiling JavaScript Feature Usage in the Wild.
-<i>In the IEEE/ACM 48th International Conference on Software Engineering(ICSE'26)</i>, 2026.
+<i>In the IEEE/ACM 48th International Conference on Software Engineering (ICSE'26)</i>, 2026.
 </span></li>
 </p>
 
@@ -53,7 +53,7 @@ Qingkai Shi, Xiaoheng Xie, Xianjin Fu, <b>Peng Di</b>, Huawei Li, Ang Zhou, Gang
 <p style="margin-bottom: 6px">
 <li>
 <span>
-Mingyuan Wu, Jiahong Xiang, Kunqiu Chen, <b>Peng Di</b>, Shin Hwei Tan, Heming Cui, Yuqun Zhang, Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing? <i>In the IEEE/ACM 47th International Conference on Software Engineering (ICSE'25)</i>, 2025. <b>(Distingguished Paper Award)</b>
+Mingyuan Wu, Jiahong Xiang, Kunqiu Chen, <b>Peng Di</b>, Shin Hwei Tan, Heming Cui, Yuqun Zhang, Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing? <i>In the IEEE/ACM 47th International Conference on Software Engineering (ICSE'25)</i>, 2025. <b>(Distinguished Paper Award)</b>
 </span></li>
 </p>
 
