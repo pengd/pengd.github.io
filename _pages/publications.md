@@ -29,6 +29,14 @@ Dawei Chen, Wuxia Jin, Hui Guo, Guanlin Qiao, <b>Peng Di</b>, Ting Liu, Evolving
 <p style="margin-bottom: 6px">
 <li>
 <span>
+Hongyuan Tao, Ying Zhang, Zhenhao Tang, Hongen Peng, Xukun Zhu, Bingchang Liu, Yingguang Yang, Ziyin Zhang, Zhaogui Xu, Haipeng Zhang, Linchao Zhu, Rui Wang, Hang Yu, Jianguo Li, <strong>Peng Di</strong>, Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks.
+<i>In the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25)</i>, 2025.
+</span></li>
+</p>s
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 Ziyin Zhang, Hang Yu, Sage Lee, <b>Peng Di</b>, Jianguo Li, Rui Wang, GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding.
 <i>In the 63rd Annual Meeting of the Association for Computational Linguistics (ACL'25)</i>, 2025.
 </span></li>

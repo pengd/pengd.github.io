@@ -11,7 +11,7 @@ author_profile: true
 <div>
 <p>CGM is a graph-based framework for software engineering tasks that employs a repository-level code graph to capture structural context and a four-step R4 chain (Rewriter, Retriever, Reranker, Reader) to resolve issues. Starting with a rewritten query from the original issue, CGM retrieves a code subgraph, prioritizes critical files via reranking, and generates a code patch using a graph-aware Reader, combining heuristic retrieval with machine learning for efficient, context-aware solutions.</p>
 <p>We are pleased to announce the updated version of the CGM-72B-V1.2. This new model has achieved a remarkable 44.00% resolve rate on the SWE-Bench-Lite leaderboard, marking a significant improvement in its performance and capabilities.</p>
-<p>CGM has been open-sourced on <a href="https://github.com/codefuse-ai/CodeFuse-CGM">Github</a> and&nbsp;<a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">HuggingFace</a>. The report is on <a href="https://arxiv.org/abs/2505.16901">https://arxiv.org/abs/2505.16901</a>.</p>
+<p>CGM has been open-sourced on <a href="https://github.com/codefuse-ai/CodeFuse-CGM">Github</a> and&nbsp;<a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">HuggingFace</a>. The report is on <a href="https://arxiv.org/abs/2505.16901">https://arxiv.org/abs/2505.16901</a> (accepted by NeurIPS'25). </p>
 </div>
 <div><img src="https://pengd.github.io/images/image-4.png" alt="cgm1" width="600" height="195" /></div>
 <div><img src="https://pengd.github.io/images/image-5.png" alt="cgm2" width="600" /></div>
@@ -19,8 +19,6 @@ author_profile: true
 </p>
 
 <div>&nbsp;</div>
-<div>&nbsp;</div>
-<br />
 <br />
 
 
@@ -33,8 +31,6 @@ author_profile: true
 </p>
 
 <div>&nbsp;</div>
-<div>&nbsp;</div>
-<br />
 <br />
 
 
@@ -49,8 +45,6 @@ author_profile: true
 </p>
 
 <div>&nbsp;</div>
-<div>&nbsp;</div>
-<br />
 <br />
 
 
@@ -64,8 +58,6 @@ author_profile: true
 </p>
 
 <div>&nbsp;</div>
-<div>&nbsp;</div>
-<br />
 <br />
 
 
