@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Seleted Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -17,7 +17,6 @@ author_profile: true
 
 <b>&nbsp;&nbsp;Conference Papers:</b>
 
-
 <p style="margin-bottom: 6px">
 <li>
 <span>
@@ -32,7 +31,7 @@ Dawei Chen, Wuxia Jin, Hui Guo, Guanlin Qiao, <b>Peng Di</b>, Ting Liu, Evolving
 Hongyuan Tao, Ying Zhang, Zhenhao Tang, Hongen Peng, Xukun Zhu, Bingchang Liu, Yingguang Yang, Ziyin Zhang, Zhaogui Xu, Haipeng Zhang, Linchao Zhu, Rui Wang, Hang Yu, Jianguo Li, <strong>Peng Di</strong>, Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks.
 <i>In the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25)</i>, 2025.
 </span></li>
-</p>s
+</p>
 
 <p style="margin-bottom: 6px">
 <li>
