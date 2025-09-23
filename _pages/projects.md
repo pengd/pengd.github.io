@@ -4,9 +4,20 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+<head>
+    <style>
+      table {
+        border-collapse: collapse; /* 合并边框 */
+        border: none; /* 去除表格边框 */
+      }
+      tr, td {
+        border: none; /* 去除单元格边框 */
+      }
+    </style>
+    </head>
 
 <p>Some projects I have led or played a key role include:</p>
-<table frame="void" rules="none">
+<table>
 <tbody>
 <tr>
 <td><a href="https://www.tbox.cn"><img src="https://pengd.github.io/images/tbox-ai.png" width="189" /></td>
@@ -25,7 +36,7 @@ author_profile: true
 </tr>
 </tbody>
 </table>
-<p style="margin-bottom: 6px;">------------------------------------------</p>
+</p>
 
 
 <p style="margin-bottom: 6px">
