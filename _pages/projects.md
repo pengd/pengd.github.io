@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-<!-- <head>
+<head>
     <style>
       table {
         border-collapse: collapse; /* 合并边框 */
@@ -14,7 +14,8 @@ author_profile: true
         border: none; /* 去除单元格边框 */
       }
     </style>
-    </head> -->
+    </head>
+
 
 <p>Some projects I have led or played a key role include:</p>
 <table>
@@ -36,7 +37,9 @@ author_profile: true
 </tr>
 </tbody>
 </table>
-
+<p style="margin-bottom: 6px;">------------------------------------------</p>
+<div>&nbsp;</div>
+<br />
 
 <p style="margin-bottom: 6px">
 <li><img src="https://pengd.github.io/images/derisk-ai.png" alt="derisk" width="90px" />&nbsp; <strong>OpenDeRisk</strong>
@@ -54,6 +57,8 @@ author_profile: true
 </span></li>
 </p>
 
+<div>&nbsp;</div>
+<br />
 
 <p style="margin-bottom: 6px">
 <li><img src="https://pengd.github.io/images/image-1.png" alt="codefuse" width="150px" />&nbsp; <strong>Code Graph Model (CGM)</strong>
