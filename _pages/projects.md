@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p>Some projects I have led or played a key role include:</p>
-<table frame="void" rules=none>
+<table frame="void" rules="none">
 <tbody>
 <tr>
 <td><a href="https://www.tbox.cn"><img src="https://pengd.github.io/images/tbox-ai.png" width="189" /></td>
