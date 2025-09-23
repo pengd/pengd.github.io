@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p>Some projects I have led or played a key role include:</p>
-<table frame="void">
+<table frame="void" rules=none>
 <tbody>
 <tr>
 <td><img src="https://mdn.alipayobjects.com/huamei_b00jk5/afts/img/A*6C8bRZHm4YoAAAAAAAAAAAAADgitAQ/original" width="189" /></td>
