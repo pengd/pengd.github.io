@@ -6,13 +6,11 @@ author_profile: true
 ---
 
 <p>Some projects I have led or played a key role include:</p>
-<p>&nbsp;</p>
-<p>&lt;/tr</p>
-<table>
+<table frame="void">
 <tbody>
 <tr>
-<td><img src="https://pengd.github.io/images/tbox-ai.png" alt="tbox" width="189" /></td>
-<td><img src="https://pengd.github.io/images/weavefox-ai.png" alt="weavefox" width="241" height="49" /></td>
+<td><img src="https://mdn.alipayobjects.com/huamei_b00jk5/afts/img/A*6C8bRZHm4YoAAAAAAAAAAAAADgitAQ/original" width="189" /></td>
+<td><img src="https://mdn.alipayobjects.com/huamei_4qpv3u/afts/img/USiDT4lfXsoAAAAAAAAAAAAAeocTAQFr/original" alt="img" width="241" height="49" /></td>
 <td><img src="https://pengd.github.io/images/derisk-ai.png" alt="derisk" width="53" height="53" />&nbsp; <strong>OpenDeRisk</strong></td>
 </tr>
 <tr>
@@ -27,8 +25,6 @@ author_profile: true
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p style="margin-bottom: 6px;">------------------------------------------</p>
 
 
