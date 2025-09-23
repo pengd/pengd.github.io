@@ -29,7 +29,7 @@ author_profile: true
 
 
 <p style="margin-bottom: 6px">
-<li><img src="https://pengd.github.io/images/derisk-ai.png" alt="derisk" width="150px" />&nbsp; <strong>OpenDeRisk</strong>
+<li><img src="https://pengd.github.io/images/derisk-ai.png" alt="derisk" width="90px" />&nbsp; <strong>OpenDeRisk</strong>
 <span>
 <div>
 <p>OpenDeRisk AI-Native Risk Intelligence Systems —— Your application system risk intelligent manager provides 7 * 24-hour comprehensive and in-depth protection.</p>
