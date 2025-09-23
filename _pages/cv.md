@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 <h1 class="p1">About Ant IPE</h1>
 <p class="p1">The Ant Intelligent Platform Engineering team is committed to building a safe and trusted framework for intelligent, automated software engineering. Our mission is to seamlessly integrate and enhance the synergy between software engineering and artificial intelligence, paving the way for technological innovation across all areas of software development and operations. To realize this vision, we unite top researchers and development engineers from various disciplines and backgrounds, working collaboratively to tackle the challenges confronting AntGroup and the broader software engineering community.</p>
 

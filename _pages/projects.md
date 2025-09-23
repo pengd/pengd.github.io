@@ -5,12 +5,38 @@ permalink: /projects/
 author_profile: true
 ---
 
+<p>Some projects I have led or played a key role include:</p>
+<p>&nbsp;</p>
+<p>&lt;/tr</p>
+<table>
+<tbody>
+<tr>
+<td><img src="https://pengd.github.io/images/tbox-ai.png" alt="tbox" width="189" /></td>
+<td><img src="https://pengd.github.io/images/weavefox-ai.png" alt="weavefox" width="241" height="49" /></td>
+<td><img src="https://pengd.github.io/images/derisk-ai.png" alt="derisk" width="53" height="53" />&nbsp; <strong>OpenDeRisk</strong></td>
+</tr>
+<tr>
+<td><strong><img src="https://pengd.github.io/images/image-1.png" alt="codefuse" width="150px" /></strong></td>
+<td><strong><img src="https://pengd.github.io/images/image-2.png" alt="Ling-coder" width="48" height="57" />Ling-Coder-Lite</strong></td>
+<td>&nbsp;<img src="https://pengd.github.io/images/MindSpore-logo.png" alt="akg" width="120px" /></td>
+</tr>
+<tr>
+<td><img src="https://pengd.github.io/images/svf_logo_2.png" alt="svf" width="120px" /></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="margin-bottom: 6px;">------------------------------------------</p>
+
+
 <p style="margin-bottom: 6px">
 <li><img src="https://pengd.github.io/images/derisk-ai.png" alt="derisk" width="150px" />&nbsp; <strong>OpenDeRisk</strong>
 <span>
 <div>
 <p>OpenDeRisk AI-Native Risk Intelligence Systems —— Your application system risk intelligent manager provides 7 * 24-hour comprehensive and in-depth protection.</p>
-<p>We are pleased to announce the updated version of the CGM-72B-V1.2. This new model has achieved a remarkable 44.00% resolve rate on the SWE-Bench-Lite leaderboard, marking a significant improvement in its performance and capabilities.</p>
 <p>DeepResearch RCA: Quickly locate the root cause of issues through in-depth analysis of logs, traces, and code.</p>
 <p>Visualized Evidence Chain: Fully visualize the diagnostic process and evidence chain, making the diagnosis clear and enabling quick judgment of accuracy.</p>
 <p>Multi-Agent Collaboration: Collaboration among SRE-Agent, Code-Agent, ReportAgent, Vis-Agent, and Data-Agent.</p>
