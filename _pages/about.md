@@ -20,6 +20,7 @@ My team has been dedicated to integrating Large Language Models (LLMs) into real
 
 We have open-sourced our latest MoE code LLM, Ling-Coder-Lite, available on [GitHub](https://github.com/codefuse-ai/Ling-Coder-Lite) and [HuggingFace](https://huggingface.co/inclusionAI/Ling-Coder-lite). This model is based on the Ant Ling-MoE architecture. Additionally, the [technical report](https://arxiv.org/abs/2503.17793), [SFT dataset](https://huggingface.co/datasets/inclusionAI/Ling-Coder-SFT) and [DPO dataset](https://huggingface.co/datasets/inclusionAI/Ling-Coder-DPO) are also openly accessible. 
 
+Additionally, we have open-sourced OpenDeRisk, an AI-native risk intelligence system that enables your application to become a 24/7 risk-aware manager, delivering continuous and comprehensive protection. Check it out on [GitHub](https://github.com/derisk-ai/OpenDerisk).
 
 
 Research Interests
@@ -33,6 +34,7 @@ News
 My team is looking for self-motivated technical experts and internship students, who are interested in machine learning, program analysis, AI software engineering. Please no hesitate to contact me (dipeng dot dp at antgroup dot com).
 
 * 2025-09: Our paper, titled "Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks" has been accepted by NeurIPS 2025.
+* 2025-08: We are proud to open-source OpenDeRisk, an AI-native risk intelligence system that transforms your application into a 24/7 risk-aware manager, offering continuous, comprehensive, and deep-layer protection. Available now on [GitHub](https://github.com/derisk-ai/OpenDerisk).
 * 2025-06: Our paper, titled "Evolving Trends, Patterns, and Hidden Pitfalls: Unveiling JavaScript Feature Usage in the Wild" has been accepted by ICSE 2026.
 * 2025-05: We are pleased to announce the updated version of the CGM-72B-V1.2. The model further achieves a remarkable 44.00% resolve rate on the SWE-Bench-Lite leaderboard.[CGM](https://huggingface.co/inclusionAI/Ling-Coder-lite)
 * 2025-05: Our paper, titled "GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding" has been accepted to the main conference of ACL 2025.

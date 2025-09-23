@@ -10,8 +10,11 @@ redirect_from:
 {% include base_path %}
 <h1 class="p1">About Ant IPE</h1>
 <p class="p1">The Ant Intelligent Platform Engineering team is committed to building a safe and trusted framework for intelligent, automated software engineering. Our mission is to seamlessly integrate and enhance the synergy between software engineering and artificial intelligence, paving the way for technological innovation across all areas of software development and operations. To realize this vision, we unite top researchers and development engineers from various disciplines and backgrounds, working collaboratively to tackle the challenges confronting AntGroup and the broader software engineering community.</p>
+
 <h1 class="p1">Ongoing Projects</h1>
-<p class="p1">We also manage the CodeFuse community, which can be found at <a href="https://github.com/codefuse-ai/">https://github.com/codefuse-ai/</a>. The community encompasses pre-trained Code LLMs, agents, frameworks, toolchains, and databases.</p>
+<p class="p1">We also manage the [CodeFuse AI Coding](https://github.com/codefuse-ai) And [DeRisk AIOps](https://github.com/derisk-ai) communities. The community encompasses pre-trained Code LLMs, agents, frameworks, toolchains, and databases. </p> 
+<p> Our team has also contributed our techniques to the agent development platforms [Tbox](https://www.tbox.cn) and [WeaveFox](https://weavefox.cn), the latter of which is an AI frontend development platform launched by Ant Group. It offers developers and creators cutting-edge productivity tools.</p> 
+
 <h1 class="p1">Publications</h1>
 <p>Our team has published dozens of papers in prestigious conferences such as ICLR, ICML, NeurIPS, ICSE, FSE, ISSTA, ASE, PLDI, and OOPSLA, and we also regularly share our latest research on arXiv.&nbsp;</p>
 <ul>

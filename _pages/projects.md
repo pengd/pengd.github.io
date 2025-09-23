@@ -6,6 +6,24 @@ author_profile: true
 ---
 
 <p style="margin-bottom: 6px">
+<li><img src="https://pengd.github.io/images/derisk-ai.png" alt="derisk" width="150px" />&nbsp; <strong>OpenDeRisk</strong>
+<span>
+<div>
+<p>OpenDeRisk AI-Native Risk Intelligence Systems —— Your application system risk intelligent manager provides 7 * 24-hour comprehensive and in-depth protection.</p>
+<p>We are pleased to announce the updated version of the CGM-72B-V1.2. This new model has achieved a remarkable 44.00% resolve rate on the SWE-Bench-Lite leaderboard, marking a significant improvement in its performance and capabilities.</p>
+<p>DeepResearch RCA: Quickly locate the root cause of issues through in-depth analysis of logs, traces, and code.</p>
+<p>Visualized Evidence Chain: Fully visualize the diagnostic process and evidence chain, making the diagnosis clear and enabling quick judgment of accuracy.</p>
+<p>Multi-Agent Collaboration: Collaboration among SRE-Agent, Code-Agent, ReportAgent, Vis-Agent, and Data-Agent.</p>
+<p>Open and Open-Source Architecture: OpenDeRisk is built with a completely open and open-source architecture, allowing related frameworks and code to be used out of the box in open-source projects.</p>
+<p>OpenDeRisk has been open-sourced on <a href="https://github.com/derisk-ai/OpenDerisk">Github</a>. The report is TBD.</p>
+</div>
+<div><img src="https://pengd.github.io/images/derisk-1.jpg" alt="derisk1" width="600" height="195" /></div>
+<div><img src="https://pengd.github.io/images/derisk-2.png" alt="derisk2" width="600" /></div>
+</span></li>
+</p>
+
+
+<p style="margin-bottom: 6px">
 <li><img src="https://pengd.github.io/images/image-1.png" alt="codefuse" width="150px" />&nbsp; <strong>Code Graph Model (CGM)</strong>
 <span>
 <div>
