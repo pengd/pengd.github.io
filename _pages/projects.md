@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-<head>
+<!-- <head>
     <style>
       table {
         border-collapse: collapse; /* 合并边框 */
@@ -14,7 +14,7 @@ author_profile: true
         border: none; /* 去除单元格边框 */
       }
     </style>
-    </head>
+    </head> -->
 
 <p>Some projects I have led or played a key role include:</p>
 <table>
@@ -36,7 +36,6 @@ author_profile: true
 </tr>
 </tbody>
 </table>
-</p>
 
 
 <p style="margin-bottom: 6px">
