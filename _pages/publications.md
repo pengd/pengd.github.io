@@ -268,8 +268,16 @@ Jilin Zhang, Liting Zhu, Jie Mao, Jian Wan, <b>Peng Di</b>. An Efficient Paralle
 <p style="margin-bottom: 6px">
 <li>
 <span>
+Xiaoxia Liu, <b>Peng Di</b>, Cong Li, Jun Sun, Jingyi Wang, Efficient Function Orchestration for Large Language Models,
+<i>IEEE Transactions on Software Engineering (TSE)</i>, 2025.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 Puzhuo Liu, Chengnian Sun, Yaowen Zheng, Xuan Feng, Chuan Qin, Yuncheng Wang, Zhenyang Xu, Zhi Li, <b>Peng Di</b>, Yu Jiang, Limin Sun, LLM-Powered Static Binary Taint Analysis.
-<i>ACM Transactions on Software Engineering and Methodology (TOSEM)</i>, 2025.
+<i>ACM Transactions on Software Engineering and Methodology (TOSEM)</i>, and <i>Journal-First Track of ASE'25</i>, 2025. 
 </span></li>
 </p>
 
