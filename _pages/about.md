@@ -33,6 +33,7 @@ News
 ======
 My team is looking for self-motivated technical experts and internship students, who are interested in machine learning, program analysis, AI software engineering. Please no hesitate to contact me (dipeng dot dp at antgroup dot com).
 
+* 2025-11: Our binary analysis work, titled "BIT: Empowering Binary Analysis Through the LLVM Toolchain" has been accepted by CGO 2026. This paper describes the application of binary analysis technology in Ant Group's real-world IoT scenarios (Alipay Tap to Pay), identifying program issues through the collaborative analysis of data flows using both source code and binary. 
 * 2025-09: Our paper, titled "Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks" has been accepted by NeurIPS 2025.
 * 2025-08: We are proud to open-source OpenDeRisk, an AI-native risk intelligence system that transforms your application into a 24/7 risk-aware manager, offering continuous, comprehensive, and deep-layer protection. Available now on [GitHub](https://github.com/derisk-ai/OpenDerisk).
 * 2025-06: Our paper, titled "Evolving Trends, Patterns, and Hidden Pitfalls: Unveiling JavaScript Feature Usage in the Wild" has been accepted by ICSE 2026.

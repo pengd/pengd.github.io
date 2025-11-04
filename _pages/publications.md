@@ -20,6 +20,14 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
+Puzhuo Liu, <b>Peng Di</b>, Jingling Xue, Yu Jiang, BIT: Empowering Binary Analysis Through the LLVM Toolchain. 
+<i>In the IEEE/ACM International Symposium on Code Generation and Optimization (CGO'26)</i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 Dawei Chen, Wuxia Jin, Hui Guo, Guanlin Qiao, <b>Peng Di</b>, Ting Liu, Evolving Trends, Patterns, and Hidden Pitfalls: Unveiling JavaScript Feature Usage in the Wild.
 <i>In the IEEE/ACM 48th International Conference on Software Engineering (ICSE'26)</i>, 2026.
 </span></li>
