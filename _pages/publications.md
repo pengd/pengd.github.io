@@ -20,6 +20,22 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
+Zhiqiang Liang, Hongyu Gao, Fang Liu, Jue Wang, Xingguo Shi, Juyu Gu, <b>Peng Di</b>, San Li, Lei Tang, Chunbao Zhou, Lian Zhao, Yangang Wang, Xuebin Chi, TAC: Cache-based System for Accelerating Billion-Scale GNN Training on Multi-GPU Platform. 
+<i>In the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP'26)</i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+Jian Wu, Hang Yu, Bingchang Liu, Yang Wenjie, <b>Peng Di</b>, Jianguo Li, Yue Zhang, LAMDAS: LLM as an Implicit Classifier for Domain-specific Data Selection. 
+<i>In the Fortieth AAAI Conference on Artificial Intelligence (AAAI'26)</i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 Puzhuo Liu, <b>Peng Di</b>, Jingling Xue, Yu Jiang, BIT: Empowering Binary Analysis Through the LLVM Toolchain. 
 <i>In the IEEE/ACM International Symposium on Code Generation and Optimization (CGO'26)</i>, 2026.
 </span></li>
