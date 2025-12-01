@@ -17,6 +17,25 @@ author_profile: true
 
 <b>&nbsp;&nbsp;Conference Papers:</b>
 
+
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+<b>Peng Di</b>, Faqiang Chen, Xiao Bai, Hongjun Yang, Qingfeng Li, Ganglin Wei, Jian Mou, Feng Shi, Keting Chen, Peng Tang, Zhitao Shen, Zheng Li, Wenhui Shi, Junwei Guo, Hang Yu,
+OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies.  
+<i>In the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'26)</i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+Xiaoheng Xie, Gang Fan, Xiaojun Lin, Ang Zhou, Shijie Li, Xunjin Zheng, Yinan Liang, Yu Zhang, Na Yu, Haokun Li, Xinyu Chen, Yingzhuang Chen, Yi Zhen, Dejun Dong, Xianjin Fu, Jinzhou Su, Fuxiong Pan, Pengshuai Luo, Youzheng Feng, Ruoxiang Hu, Hanyang Guo, Jing Fan, Xiao Xiao, <b>Peng Di</b>, Principles and Practices of Large-Scale Code Analysis at Ant Group: A Data- and Logic-Oriented Approach. 
+<i>In the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'26)</i>, 2026.
+</span></li>
+</p>
+
 <p style="margin-bottom: 6px">
 <li>
 <span>
