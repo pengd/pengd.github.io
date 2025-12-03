@@ -17,12 +17,7 @@ author_profile: true
 
 <!-- <b>&nbsp;&nbsp;Selected Papers:</b> -->
 
-<!-- <b>&nbsp;&nbsp; AI4SE:</b>
-
-<b>&nbsp;&nbsp; Program Analysis:</b>
-<b>&nbsp;&nbsp; Parallel Computing:</b> -->
-
-
+<b>&nbsp;&nbsp; AI4SE:</b>
 
 <p style="margin-bottom: 6px">
 <li>
@@ -35,17 +30,9 @@ OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementati
 
 <p style="margin-bottom: 6px">
 <li>
-<span>
-<strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong> Xiaoheng Xie, Gang Fan, Xiaojun Lin, Ang Zhou, Shijie Li, Xunjin Zheng, Yinan Liang, Yu Zhang, Na Yu, Haokun Li, Xinyu Chen, Yingzhuang Chen, Yi Zhen, Dejun Dong, Xianjin Fu, Jinzhou Su, Fuxiong Pan, Pengshuai Luo, Youzheng Feng, Ruoxiang Hu, Hanyang Guo, Jing Fan, Xiao Xiao, <b>Peng Di</b>, Principles and Practices of Large-Scale Code Analysis at Ant Group: A Data- and Logic-Oriented Approach. 
-<i>In the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'26)</i>, 2026.
-</span></li>
-</p>
-
-<p style="margin-bottom: 6px">
-<li>
-<span>
-<strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong> Zhiqiang Liang, Hongyu Gao, Fang Liu, Jue Wang, Xingguo Shi, Juyu Gu, <b>Peng Di</b>, San Li, Lei Tang, Chunbao Zhou, Lian Zhao, Yangang Wang, Xuebin Chi, TAC: Cache-based System for Accelerating Billion-Scale GNN Training on Multi-GPU Platform. 
-<i>In the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP'26)</i>, 2026.
+<span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
+Hongyuan Tao, Ying Zhang, Zhenhao Tang, Hongen Peng, Xukun Zhu, Bingchang Liu, Yingguang Yang, Ziyin Zhang, Zhaogui Xu, Haipeng Zhang, Linchao Zhu, Rui Wang, Hang Yu, Jianguo Li, <strong>Peng Di</strong>, Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks.
+<i>In the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25)</i>, 2025.
 </span></li>
 </p>
 
@@ -54,30 +41,6 @@ OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementati
 <span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
 Jian Wu, Hang Yu, Bingchang Liu, Yang Wenjie, <b>Peng Di</b>, Jianguo Li, Yue Zhang, LAMDAS: LLM as an Implicit Classifier for Domain-specific Data Selection. 
 <i>In the Fortieth AAAI Conference on Artificial Intelligence (AAAI'26)</i>, 2026.
-</span></li>
-</p>
-
-<p style="margin-bottom: 6px">
-<li>
-<span><strong><span style="color: #339966;">[CCF B]</span>&nbsp;</strong>
-Puzhuo Liu, <b>Peng Di</b>, Jingling Xue, Yu Jiang, BIT: Empowering Binary Analysis Through the LLVM Toolchain. 
-<i>In the IEEE/ACM International Symposium on Code Generation and Optimization (CGO'26)</i>, 2026.
-</span></li>
-</p>
-
-<p style="margin-bottom: 6px">
-<li>
-<span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
-Dawei Chen, Wuxia Jin, Hui Guo, Guanlin Qiao, <b>Peng Di</b>, Ting Liu, Evolving Trends, Patterns, and Hidden Pitfalls: Unveiling JavaScript Feature Usage in the Wild.
-<i>In the IEEE/ACM 48th International Conference on Software Engineering (ICSE'26)</i>, 2026.
-</span></li>
-</p>
-
-<p style="margin-bottom: 6px">
-<li>
-<span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
-Hongyuan Tao, Ying Zhang, Zhenhao Tang, Hongen Peng, Xukun Zhu, Bingchang Liu, Yingguang Yang, Ziyin Zhang, Zhaogui Xu, Haipeng Zhang, Linchao Zhu, Rui Wang, Hang Yu, Jianguo Li, <strong>Peng Di</strong>, Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks.
-<i>In the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25)</i>, 2025.
 </span></li>
 </p>
 
@@ -99,17 +62,85 @@ Xiaoxia Liu, <b>Peng Di</b>, Cong Li, Jun Sun, Jingyi Wang, Efficient Function O
 
 <p style="margin-bottom: 6px">
 <li>
-<span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
-Puzhuo Liu, Chengnian Sun, Yaowen Zheng, Xuan Feng, Chuan Qin, Yuncheng Wang, Zhenyang Xu, Zhi Li, <b>Peng Di</b>, Yu Jiang, Limin Sun, LLM-Powered Static Binary Taint Analysis.
-<i>ACM Transactions on Software Engineering and Methodology (TOSEM)</i>, and <i>Journal-First Track of ASE'25</i>, 2025. 
+<span><strong><span style="color: #339966;">[arXiv]</span>&nbsp;</strong>
+CodeFuse & Ling Team, Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM.
+<i>arXiv preprint arXiv:2311.12785</i>, [cs.LG], 2025.
 </span></li>
 </p>
 
 <p style="margin-bottom: 6px">
 <li>
+<span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
+Cong Li, Zhaogui Xu, <b>Peng Di</b>, Dongxia Wang, Zheng Li, and Qian Zheng, Understanding Code Changes Practically with Small-Scale Language Models. <i>In the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24)</i>, 2024.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
+<b>Peng Di</b>, Jianguo Li, Hang Yu, Wei Jiang, et al., CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model.
+<i>In the IEEE/ACM 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'24)</i>, 2024.
+</span></li>
+</p>
+
+
+<!-- <p style="margin-bottom: 6px">
+<li>
 <span><strong><span style="color: #339966;">[arXiv]</span>&nbsp;</strong>
-CodeFuse & Ling Team, Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM.
-<i>arXiv preprint arXiv:2311.12785</i>, [cs.LG], 2025.
+Zelin Zhao, Zhaogui Xu, Jialong Zhu, <b>Peng Di</b>, Yuan Yao, Xiaoxing Ma, The Right Prompts for the Job: Repair Code-Review Defects with Large Language Model.
+<i>arXiv preprint arXiv:2312.17485</i>, [cs.SE]. 
+</span></li>
+</p> -->
+
+
+<p style="margin-bottom: 6px">
+<li>
+<span><strong><span style="color: #339966;">[arXiv]</span>&nbsp;</strong>
+Xiaoxia Liu, Jingyi Wang, Jun Sun, Xiaohan Yuan, Guoliang Dong, <b>Peng Di</b>, Wenhai Wang, Dongxia Wang, Prompting Frameworks for Large Language Models: A Survey.
+<i>arXiv preprint arXiv:2311.12785</i>, [cs.SE]. 
+</span></li>
+</p>
+
+
+<!-- <p style="margin-bottom: 6px">
+<li>
+<span><strong><span style="color: #339966;">[arXiv]</span>&nbsp;</strong>
+Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, <b>Peng Di</b>, Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis Agents.
+<i>arXiv preprint arXiv:2310.08837</i>, [cs.SE], 2023. 
+</span></li>
+</p> -->
+
+<b>&nbsp;&nbsp; Program Analysis:</b>
+<p style="margin-bottom: 6px">
+<li>
+<span>
+<strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong> Xiaoheng Xie, Gang Fan, Xiaojun Lin, Ang Zhou, Shijie Li, Xunjin Zheng, Yinan Liang, Yu Zhang, Na Yu, Haokun Li, Xinyu Chen, Yingzhuang Chen, Yi Zhen, Dejun Dong, Xianjin Fu, Jinzhou Su, Fuxiong Pan, Pengshuai Luo, Youzheng Feng, Ruoxiang Hu, Hanyang Guo, Jing Fan, Xiao Xiao, <b>Peng Di</b>, Principles and Practices of Large-Scale Code Analysis at Ant Group: A Data- and Logic-Oriented Approach. 
+<i>In the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'26)</i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span><strong><span style="color: #339966;">[CCF B]</span>&nbsp;</strong>
+Puzhuo Liu, <b>Peng Di</b>, Jingling Xue, Yu Jiang, BIT: Empowering Binary Analysis Through the LLVM Toolchain. 
+<i>In the IEEE/ACM International Symposium on Code Generation and Optimization (CGO'26)</i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
+Dawei Chen, Wuxia Jin, Hui Guo, Guanlin Qiao, <b>Peng Di</b>, Ting Liu, Evolving Trends, Patterns, and Hidden Pitfalls: Unveiling JavaScript Feature Usage in the Wild.
+<i>In the IEEE/ACM 48th International Conference on Software Engineering (ICSE'26)</i>, 2026.
+</span></li>
+</p>
+
+
+<p style="margin-bottom: 6px">
+<li>
+<span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
+Puzhuo Liu, Chengnian Sun, Yaowen Zheng, Xuan Feng, Chuan Qin, Yuncheng Wang, Zhenyang Xu, Zhi Li, <b>Peng Di</b>, Yu Jiang, Limin Sun, LLM-Powered Static Binary Taint Analysis.
+<i>ACM Transactions on Software Engineering and Methodology (TOSEM)</i>, and <i>Journal-First Track of ASE'25</i>, 2025. 
 </span></li>
 </p>
 
@@ -120,18 +151,10 @@ Qingkai Shi, Xiaoheng Xie, Xianjin Fu, <b>Peng Di</b>, Huawei Li, Ang Zhou, Gang
 </span></li>
 </p>
 
-
 <p style="margin-bottom: 6px">
 <li>
-<span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
-Mingyuan Wu, Jiahong Xiang, Kunqiu Chen, <b>Peng Di</b>, Shin Hwei Tan, Heming Cui, Yuqun Zhang, Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing? <i>In the IEEE/ACM 47th International Conference on Software Engineering (ICSE'25)</i>, 2025. <b>(Distinguished Paper Award)</b>
-</span></li>
-</p>
-
-<p style="margin-bottom: 6px">
-<li>
-<span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
-Cong Li, Zhaogui Xu, <b>Peng Di</b>, Dongxia Wang, Zheng Li, and Qian Zheng, Understanding Code Changes Practically with Small-Scale Language Models. <i>In the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24)</i>, 2024.
+<span><strong><span style="color: #339966;">[CCF A], Distinguished Paper Award </span>&nbsp;</strong>
+Mingyuan Wu, Jiahong Xiang, Kunqiu Chen, <b>Peng Di</b>, Shin Hwei Tan, Heming Cui, Yuqun Zhang, Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing? <i>In the IEEE/ACM 47th International Conference on Software Engineering (ICSE'25)</i>, 2025. 
 </span></li>
 </p>
 
@@ -151,6 +174,8 @@ Weigang He, <b>Peng Di</b>, Mengli Ming, Chengyu Zhang, Ting Su, Shijie Li, Yule
 </span></li>
 </p>
 
+
+
 <p style="margin-bottom: 6px">
 <li>
 <span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
@@ -159,13 +184,7 @@ Weigang He, <b>Peng Di</b>, Mengli Ming, Chengyu Zhang, Ting Su, Shijie Li, Yule
 </span></li>
 </p>
 
-<p style="margin-bottom: 6px">
-<li>
-<span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
-<b>Peng Di</b>, Jianguo Li, Hang Yu, Wei Jiang, et al., CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model.
-<i>In the IEEE/ACM 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'24)</i>, 2024.
-</span></li>
-</p>
+
 
 <p style="margin-bottom: 6px">
 <li>
@@ -174,41 +193,6 @@ Haofeng	Li, Tian Tan, Yue Li, Jie Lu, Haining Meng, Liqing Cao, Yongheng Huang, 
 <i>IEEE Transactions on Software Engineering (TSE)</i>, 2024.
 </span></li>
 </p>
-
-<p style="margin-bottom: 10px">
-<li>
-<span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
-Jie Zhao, Jinchen Xu, <b>Peng Di</b>, Wang Nie, Jiahui Hu, Yanzhi Yi, Sijia Yang, Zhen Geng, Renwei Zhang, Bojie Li, Zhiliang Gan, Xuefeng Jin. Modeling the Interplay between Loop Tiling and Fusion in Optimizing Compilers using Affine Relations. 
-<i>ACM Transactions on Computer Systems (TOCS)</i>, 2023.</span></li>
-</p>
-
-
-<p style="margin-bottom: 6px">
-<li>
-<span><strong><span style="color: #339966;">[arXiv]</span>&nbsp;</strong>
-Zelin Zhao, Zhaogui Xu, Jialong Zhu, <b>Peng Di</b>, Yuan Yao, Xiaoxing Ma, The Right Prompts for the Job: Repair Code-Review Defects with Large Language Model.
-<i>arXiv preprint arXiv:2312.17485</i>, [cs.SE]. 
-</span></li>
-</p>
-
-
-<p style="margin-bottom: 6px">
-<li>
-<span><strong><span style="color: #339966;">[arXiv]</span>&nbsp;</strong>
-Xiaoxia Liu, Jingyi Wang, Jun Sun, Xiaohan Yuan, Guoliang Dong, <b>Peng Di</b>, Wenhai Wang, Dongxia Wang, Prompting Frameworks for Large Language Models: A Survey.
-<i>arXiv preprint arXiv:2311.12785</i>, [cs.SE]. 
-</span></li>
-</p>
-
-
-<p style="margin-bottom: 6px">
-<li>
-<span><strong><span style="color: #339966;">[arXiv]</span>&nbsp;</strong>
-Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, <b>Peng Di</b>, Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis Agents.
-<i>arXiv preprint arXiv:2310.08837</i>, [cs.SE], 2023. 
-</span></li>
-</p>
-
 
 
 <p style="margin-bottom: 6px">
@@ -250,6 +234,27 @@ Zexin Zhong, Jiangchao Liu, Diyu Wu, <b>Peng Di</b>, Yulei Sui, Alex X. Liu. Fie
 <i>In the IEEE/ACM 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP'22)</i>, 2022.
 </span></li>
 </p>
+
+<b>&nbsp;&nbsp; Parallel Computing:</b>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+<strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong> Zhiqiang Liang, Hongyu Gao, Fang Liu, Jue Wang, Xingguo Shi, Juyu Gu, <b>Peng Di</b>, San Li, Lei Tang, Chunbao Zhou, Lian Zhao, Yangang Wang, Xuebin Chi, TAC: Cache-based System for Accelerating Billion-Scale GNN Training on Multi-GPU Platform. 
+<i>In the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP'26)</i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 10px">
+<li>
+<span><strong><span style="color: #339966;">[CCF A]</span>&nbsp;</strong>
+Jie Zhao, Jinchen Xu, <b>Peng Di</b>, Wang Nie, Jiahui Hu, Yanzhi Yi, Sijia Yang, Zhen Geng, Renwei Zhang, Bojie Li, Zhiliang Gan, Xuefeng Jin. Modeling the Interplay between Loop Tiling and Fusion in Optimizing Compilers using Affine Relations. 
+<i>ACM Transactions on Computer Systems (TOCS)</i>, 2023.</span></li>
+</p>
+
+
+<!-- <b>&nbsp;&nbsp; Others:</b> -->
+
 
 <p style="margin-bottom: 6px">
 <li>
