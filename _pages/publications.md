@@ -17,13 +17,14 @@ author_profile: true
 
 <!-- <b>&nbsp;&nbsp;Selected Papers:</b> -->
 
-<b>&nbsp;&nbsp; CodeLLM & AI4SE:</b>
+<b>&nbsp; CodeLLM & AI4SE:</b>
 
 <p style="margin-bottom: 6px">
 <li>
 <span>
 <strong><span style="color: #339966;">[ICSE-SEIP'26]</span>&nbsp;</strong> <b>Peng Di</b>, Faqiang Chen, Xiao Bai, Hongjun Yang, Qingfeng Li, Ganglin Wei, Jian Mou, Feng Shi, Keting Chen, Peng Tang, Zhitao Shen, Zheng Li, Wenhui Shi, Junwei Guo, Hang Yu,
 <br>OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies.
+<br><i>The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice</i>, 2026.
 </span></li>
 </p>
 
@@ -77,6 +78,7 @@ Cong Li, Zhaogui Xu, <b>Peng Di</b>, Dongxia Wang, Zheng Li, and Qian Zheng,
 <span><strong><span style="color: #339966;">[ICSE-SEIP'24]</span>&nbsp;</strong>
 <b>Peng Di</b>, Jianguo Li, Hang Yu, Wei Jiang, et al., 
 <br>CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model.
+<br><i>The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice</i>, 2024.
 </span></li>
 </p>
 
@@ -114,6 +116,7 @@ Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, <b>Peng Di</b>, Static Code A
 <span>
 <strong><span style="color: #339966;">[ICSE-SEIP'26]</span>&nbsp;</strong> Xiaoheng Xie, Gang Fan, Xiaojun Lin, Ang Zhou, Shijie Li, Xunjin Zheng, Yinan Liang, Yu Zhang, Na Yu, Haokun Li, Xinyu Chen, Yingzhuang Chen, Yi Zhen, Dejun Dong, Xianjin Fu, Jinzhou Su, Fuxiong Pan, Pengshuai Luo, Youzheng Feng, Ruoxiang Hu, Hanyang Guo, Jing Fan, Xiao Xiao, <b>Peng Di</b>,
 <br>Principles and Practices of Large-Scale Code Analysis at Ant Group: A Data- and Logic-Oriented Approach. 
+<br><i>The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice</i>, 2026.
 </span></li>
 </p>
 
@@ -130,6 +133,7 @@ Puzhuo Liu, <b>Peng Di</b>, Jingling Xue, Yu Jiang,
 <span><strong><span style="color: #339966;">[ICSE'26]</span>&nbsp;</strong>
 Dawei Chen, Wuxia Jin, Hui Guo, Guanlin Qiao, <b>Peng Di</b>, Ting Liu, 
 <br>Evolving Trends, Patterns, and Hidden Pitfalls: Unveiling JavaScript Feature Usage in the Wild.
+<br><i>The IEEE/ACM International Conference on Software Engineering</i>, 2026.
 </span></li>
 </p>
 
@@ -147,6 +151,7 @@ Puzhuo Liu, Chengnian Sun, Yaowen Zheng, Xuan Feng, Chuan Qin, Yuncheng Wang, Zh
 <span><strong><span style="color: #339966;">[ICSE'25]</span>&nbsp;</strong>
 Qingkai Shi, Xiaoheng Xie, Xianjin Fu, <b>Peng Di</b>, Huawei Li, Ang Zhou, Gang Fan, 
 <br>Datalog-Based Language-Agnostic Change Impact Analysis for Microservices.
+<br><i>The IEEE/ACM International Conference on Software Engineering</i>, 2025.
 </span></li>
 </p>
 
@@ -155,6 +160,7 @@ Qingkai Shi, Xiaoheng Xie, Xianjin Fu, <b>Peng Di</b>, Huawei Li, Ang Zhou, Gang
 <span><strong><span style="color: #339966;">[ICSE'25, Distinguished Paper Award] </span>&nbsp;</strong>
 Mingyuan Wu, Jiahong Xiang, Kunqiu Chen, <b>Peng Di</b>, Shin Hwei Tan, Heming Cui, Yuqun Zhang, 
 <br>Tumbling Down the Rabbit Hole: How do Assisting Exploration Strategies Facilitate Grey-box Fuzzing?
+<br><i>The IEEE/ACM International Conference on Software Engineering</i>, 2025.
 </span></li>
 </p>
 
@@ -181,6 +187,7 @@ Weigang He, <b>Peng Di</b>, Mengli Ming, Chengyu Zhang, Ting Su, Shijie Li, Yule
 <span><strong><span style="color: #339966;">[ICSE-SEIP'24]</span>&nbsp;</strong>
 <b>Peng Di</b>, Bingchang Liu, Yiyi Gao, 
 <br>MicroFuzz: An Efficient Fuzzing Framework for Microservices.
+<br><i>The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice</i>, 2024.
 </span></li>
 </p>
 
@@ -208,6 +215,7 @@ Jiangchao Liu, Jierui Liu, <b>Peng Di</b>, Diyu Wu, Hengjie Zheng, Alex X. Liu, 
 <span><strong><span style="color: #339966;">[ICSE-SEIP'23]</span>&nbsp;</strong>
 Zelin Zhao, Xizao Wang, Zhaogui Xu, Zhenhao Tang, Yongchao Li and <b>Peng Di</b>. 
 <br>Incremental Call Graph Construction in Industrial Practice.
+<br><i>The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice</i>, 2023.
 </span></li>
 </p>
 
@@ -216,6 +224,7 @@ Zelin Zhao, Xizao Wang, Zhaogui Xu, Zhenhao Tang, Yongchao Li and <b>Peng Di</b>
 <span><strong><span style="color: #339966;">[ICSE-SEIP'23]</span>&nbsp;</strong>
 Zexin Zhong, Jiangchao Liu, Diyu Wu, <b>Peng Di</b>, Yulei Sui, Alex X. Liu and John C.S. Lui.	
 <br>Scalable Compositional Static Taint Analysis for Sensitive Data Tracing on Industrial Micro-Services.
+<br><i>The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice</i>, 2023.
 </span></li>
 </p>
 
@@ -224,6 +233,7 @@ Zexin Zhong, Jiangchao Liu, Diyu Wu, <b>Peng Di</b>, Yulei Sui, Alex X. Liu and 
 <span><strong><span style="color: #339966;">[ICSE-SEIP'22]</span>&nbsp;</strong>
 Jiangchao Liu, Jierui Liu, <b>Peng Di</b>, Alex X. Liu, Zexin Zhong. 
 <br>Record and Replay of Online Traffic for Microservices with Automatic Mocking Point Identification.
+<br><i>The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice</i>, 2022.
 </span></li>
 </p>
 
@@ -232,6 +242,7 @@ Jiangchao Liu, Jierui Liu, <b>Peng Di</b>, Alex X. Liu, Zexin Zhong.
 <span><strong><span style="color: #339966;">[ICSE-SEIP'22]</span>&nbsp;</strong>
 Zexin Zhong, Jiangchao Liu, Diyu Wu, <b>Peng Di</b>, Yulei Sui, Alex X. Liu. 
 <br>Field-based Static Taint Analysis for Industrial Microservice.
+<br><i>The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice</i>, 2022.
 </span></li>
 </p>
 
@@ -242,6 +253,7 @@ Zexin Zhong, Jiangchao Liu, Diyu Wu, <b>Peng Di</b>, Yulei Sui, Alex X. Liu.
 <span>
 <strong><span style="color: #339966;">[PPoPP'26]</span>&nbsp;</strong> Zhiqiang Liang, Hongyu Gao, Fang Liu, Jue Wang, Xingguo Shi, Juyu Gu, <b>Peng Di</b>, San Li, Lei Tang, Chunbao Zhou, Lian Zhao, Yangang Wang, Xuebin Chi, 
 <br>TAC: Cache-based System for Accelerating Billion-Scale GNN Training on Multi-GPU Platform. 
+<br><i>The ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming</i>, 2026.
 </span></li>
 </p>
 
@@ -301,6 +313,7 @@ Yulei Sui, <b>Peng Di</b>, Ding Ye, Hua Yan and Jingling Xue.
 <span><strong><span style="color: #3661a2ff;">[PMAM'16]</span>&nbsp;</strong>
 <b>Peng Di</b>, Yulei Sui. 
 <br>Accelerating Dynamic Data Race Detection Using Static Thread Interference Analysis.
+<br><i>The International Workshop on Programming Models and Applications for Multicores and Manycores co-located with the PPoPP</i>, 2016.
 </span></li>
 </p>
 
