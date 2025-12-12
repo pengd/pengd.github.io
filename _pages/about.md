@@ -18,13 +18,13 @@ Before joining Ant, I worked at Huawei as a Technical Expert of AI compiler. Dur
 
 At Ant Group, our IPE team is dedicated to advancing software development and operations by integrating Large Language Models (LLMs) into real-world industrial applications. To support this mission, we are proud to share several major open-source contributions.
 
-<li>* CodeFuse: Our foundational pretrained code LLM, designed to enhance coding effectiveness. [GitHub](https://github.com/codefuse-ai),[HuggingFace](https://huggingface.co/codefuse-ai),[Technical report](https://arxiv.org/abs/2310.06266)</li>
+<li>CodeFuse: Our foundational pretrained code LLM, designed to enhance coding effectiveness. <a href="https://github.com/codefuse-ai">[GitHub]</a> <a href=https://huggingface.co/codefuse-ai>[HuggingFace]</a> <a href="https://arxiv.org/abs/2310.06266">[Technical report]</a></li>
 
-<li>* Ling-Coder-Lite: We are excited to release our latest Mixture-of-Experts (MoE) code LLM, built on the Ant Ling-MoE architecture. [GitHub](https://github.com/codefuse-ai/Ling-Coder-Lite),[HuggingFace](https://huggingface.co/inclusionAI/Ling-Coder-lite),[Technical report](https://arxiv.org/abs/2503.17793),[SFT dataset](https://huggingface.co/datasets/inclusionAI/Ling-Coder-SFT),[DPO dataset](https://huggingface.co/datasets/inclusionAI/Ling-Coder-DPO)</li>
+<li>Ling-Coder-Lite: We are excited to release our latest Mixture-of-Experts (MoE) code LLM, built on the Ant Ling-MoE architecture. <a href="https://github.com/codefuse-ai/Ling-Coder-Lite">[GitHub]</a>,<a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">[HuggingFace]</a><a href="https://arxiv.org/abs/2503.17793">[Technical report]</a><a href="https://huggingface.co/datasets/inclusionAI/Ling-Coder-SFT"></a>[SFT dataset]<a href="https://huggingface.co/datasets/inclusionAI/Ling-Coder-DPO">[DPO dataset]</a></li>
 
-<li>* CodeFuse-CGM: is a graph-based framework for software engineering tasks that employs a repository-level code graph to capture structural context. CGM-72B-V1.2 has achieved a leading 44.00% resolve rate on the SWE-Bench-Lite.<a href="https://github.com/codefuse-ai/CodeFuse-CGM">Github</a>,<a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">HuggingFace</a>,<a href="https://arxiv.org/abs/2505.16901">Technical report</a></li>
+<li>CodeFuse-CGM: is a graph-based framework for software engineering tasks that employs a repository-level code graph to capture structural context. CGM-72B-V1.2 has achieved a leading 44.00% resolve rate on the SWE-Bench-Lite.<a href="https://github.com/codefuse-ai/CodeFuse-CGM">[Github]</a><a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">[HuggingFace]</a><a href="https://arxiv.org/abs/2505.16901">[Technical report]</a></li>
 
-<li>* OpenDeRisk: Beyond models, we have also open-sourced OpenDeRisk, an AI-native risk intelligence system. It empowers your application to act as a 24/7 risk-aware manager, delivering continuous and comprehensive protection.[GitHub](https://github.com/derisk-ai/OpenDerisk),[Technical report](https://arxiv.org/abs/2510.13561)</li>
+<li>OpenDeRisk: Beyond models, we have also open-sourced OpenDeRisk, an AI-native risk intelligence system. It empowers your application to act as a 24/7 risk-aware manager, delivering continuous and comprehensive protection.<a href="https://github.com/derisk-ai/OpenDerisk">[Github]</a><a href="https://arxiv.org/abs/2510.13561">[Technical report]</a></li>
 
 
 Research Interests
