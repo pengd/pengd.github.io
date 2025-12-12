@@ -16,15 +16,15 @@ I earned my PhD degree from UNSW under supervised by IEEE Fellow, Scientia Profe
 
 Before joining Ant, I worked at Huawei as a Technical Expert of AI compiler. During the period, I am the founder of MindSpore/AKG ([GitHub](https://github.com/mindspore-ai/akg), [Gitee](https://github.com/mindspore-ai/akg)) which is an open-sourced AI compiler for Huawei Ascend 910.
 
-At AntGroup, our IPE team is dedicated to advancing software development and operations by integrating Large Language Models (LLMs) into real-world industrial applications. To support this mission, we are proud to share several major open-source contributions.
+At Ant Group, our IPE team is dedicated to advancing software development and operations by integrating Large Language Models (LLMs) into real-world industrial applications. To support this mission, we are proud to share several major open-source contributions.
 
 * CodeFuse: Our foundational pretrained code LLM, designed to enhance coding effectiveness. [GitHub](https://github.com/codefuse-ai),[HuggingFace](https://huggingface.co/codefuse-ai),[Technical report](https://arxiv.org/abs/2310.06266).
 
 * Ling-Coder-Lite: We are excited to release our latest Mixture-of-Experts (MoE) code LLM, built on the Ant Ling-MoE architecture. [GitHub](https://github.com/codefuse-ai/Ling-Coder-Lite),[HuggingFace](https://huggingface.co/inclusionAI/Ling-Coder-lite),[Technical report](https://arxiv.org/abs/2503.17793),[SFT dataset](https://huggingface.co/datasets/inclusionAI/Ling-Coder-SFT),[DPO dataset](https://huggingface.co/datasets/inclusionAI/Ling-Coder-DPO) 
 
-* CodeFuse-CGM: is a graph-based framework for software engineering tasks that employs a repository-level code graph to capture structural context and a four-step R4 chain (Rewriter, Retriever, Reranker, Reader) to resolve issues. CGM-72B-V1.2 has achieved a remarkable 44.00% resolve rate on the SWE-Bench-Lite leaderboard.<a href="https://github.com/codefuse-ai/CodeFuse-CGM">Github</a>,<a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">HuggingFace</a><a href="https://arxiv.org/abs/2505.16901">Technical report(NeuiIPS'25)</a>.
+* CodeFuse-CGM: is a graph-based framework for software engineering tasks that employs a repository-level code graph to capture structural context. CGM-72B-V1.2 has achieved a leading 44.00% resolve rate on the SWE-Bench-Lite.<a href="https://github.com/codefuse-ai/CodeFuse-CGM">Github</a>,<a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">HuggingFace</a>,<a href="https://arxiv.org/abs/2505.16901">Technical report</a>.
 
-* OpenDeRisk: Beyond models, we have also open-sourced OpenDeRisk, an AI-native risk intelligence system. It empowers your application to act as a 24/7 risk-aware manager, delivering continuous and comprehensive protection.[GitHub](https://github.com/derisk-ai/OpenDerisk),[Technical report(ICSE-SEIP'26)](https://arxiv.org/abs/2510.13561).
+* OpenDeRisk: Beyond models, we have also open-sourced OpenDeRisk, an AI-native risk intelligence system. It empowers your application to act as a 24/7 risk-aware manager, delivering continuous and comprehensive protection.[GitHub](https://github.com/derisk-ai/OpenDerisk),[Technical report](https://arxiv.org/abs/2510.13561).
 
 
 Research Interests
