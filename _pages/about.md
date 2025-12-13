@@ -18,9 +18,9 @@ Before joining Ant, I worked at Huawei as a Technical Expert of AI compiler. Dur
 
 At Ant Group, our IPE team is dedicated to advancing software development and operations by integrating Large Language Models (LLMs) into real-world industrial applications. To support this mission, we are proud to share several major open-source contributions.
 
-<li>CodeFuse: Our foundational pretrained code LLM, designed to enhance coding effectiveness. <a href="https://github.com/codefuse-ai">[GitHub]</a> <a href=https://huggingface.co/codefuse-ai>[HuggingFace]</a> <a href="https://arxiv.org/abs/2310.06266">[Technical report]</a></li>
+<li>CodeFuse: Our foundational pretrained code LLM, designed to enhance coding effectiveness. <a href="https://github.com/codefuse-ai">[GitHub]</a> <a href="https://huggingface.co/codefuse-ai">[HuggingFace]</a> <a href="https://arxiv.org/abs/2310.06266">[Technical report]</a></li>
 
-<li>Ling-Coder-Lite: We are excited to release our latest Mixture-of-Experts (MoE) code LLM, built on the Ant Ling-MoE architecture. <a href="https://github.com/codefuse-ai/Ling-Coder-Lite">[GitHub]</a> <a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">[HuggingFace]</a> <a href="https://arxiv.org/abs/2503.17793">[Technical report]</a> <a href="https://huggingface.co/datasets/inclusionAI/Ling-Coder-SFT">[SFT dataset]</a> <a href="https://huggingface.co/datasets/inclusionAI/Ling-Coder-DPO">[DPO dataset]</a></li>
+<li>Ling-Coder-Lite: is Mixture-of-Experts (MoE) code LLM, built on the Ant Ling-MoE architecture. <a href="https://github.com/codefuse-ai/Ling-Coder-Lite">[GitHub]</a> <a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">[HuggingFace]</a> <a href="https://arxiv.org/abs/2503.17793">[Technical report]</a> <a href="https://huggingface.co/datasets/inclusionAI/Ling-Coder-SFT">[SFT dataset]</a> <a href="https://huggingface.co/datasets/inclusionAI/Ling-Coder-DPO">[DPO dataset]</a></li>
 
 <li>CodeFuse-CGM: is a graph-based framework for software engineering tasks that employs a repository-level code graph to capture structural context. CGM-72B-V1.2 has achieved a leading 44.00% resolve rate on the SWE-Bench-Lite. <a href="https://github.com/codefuse-ai/CodeFuse-CGM">[Github]</a> <a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">[HuggingFace]</a> <a href="https://arxiv.org/abs/2505.16901">[Technical report]</a></li>
 
@@ -29,9 +29,9 @@ At Ant Group, our IPE team is dedicated to advancing software development and op
 
 Research Interests
 ======
-* Large Language Model, AI Software Engineering, AI4SE, SE4AI
+* Code Large Language Model, AI Software Engineering
 * Programming Language, Program Analysis, Software Security
-* Parallel Programming and Optimizations for Heterogeneous Systems
+* AI Infra, Parallel Programming
 
 News
 ======
