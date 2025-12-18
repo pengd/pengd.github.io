@@ -22,9 +22,9 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
-<strong><span style="color: #339966;">[ICSE-SEIP'26]</span>&nbsp;</strong> OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies.
-<br><b>Peng Di</b>, Faqiang Chen, Xiao Bai, Hongjun Yang, Qingfeng Li, Ganglin Wei, Jian Mou, Feng Shi, Keting Chen, Peng Tang, Zhitao Shen, Zheng Li, Wenhui Shi, Junwei Guo, Hang Yu.
-<br><i>The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice</i>, 2026.
+<strong><span style="color: #339966;">[ICSE-SEIP'26]</span>&nbsp;</strong> <a href="">OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies.</a>
+<br/><b>Peng Di</b>, Faqiang Chen, Xiao Bai, Hongjun Yang, Qingfeng Li, Ganglin Wei, Jian Mou, Feng Shi, Keting Chen, Peng Tang, Zhitao Shen, Zheng Li, Wenhui Shi, Junwei Guo, Hang Yu.
+<br/><i>The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice</i>, 2026.
 </span></li>
 </p>
 
@@ -246,29 +246,29 @@ Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, <b>Peng Di</b>, Static Code A
 </span></li>
 </p>
 
-<p style="margin-bottom: 6px">
+<!-- <p style="margin-bottom: 6px">
 <li>
 <span><strong><span style="color: #3661a2ff;">[PMAM'16]</span>&nbsp;</strong>Accelerating Dynamic Data Race Detection Using Static Thread Interference Analysis.
 <br><b>Peng Di</b>, Yulei Sui. 
 <br><i>The International Workshop on Programming Models and Applications for Multicores and Manycores co-located with the PPoPP</i>, 2016.
 </span></li>
-</p>
+</p> -->
 
-<p style="margin-bottom: 6px">
+<!-- <p style="margin-bottom: 6px">
 <li>
 <span><strong><span style="color: #3661a2ff;">[CGO'16]</span>&nbsp;</strong>Sparse Flow-Sensitive Pointer Analysis for Multithreaded C Programs.
 <br>Yulei Sui, <b>Peng Di</b>, Jingling Xue. 
 <br><i>The IEEE/ACM International Symposium on Code Generation and Optimization</i>, 2016.
 </span></li>
-</p>
+</p> -->
 
-<p style="margin-bottom: 6px">
+<!-- <p style="margin-bottom: 6px">
 <li>
 <span><strong><span style="color: #3661a2ff;">[ICPP'15]</span>&nbsp;</strong>Region-Based May-Happen-in-Parallel Analysis for C Programs.
 <br><b>Peng Di</b>, Yulei Sui, Ding Ye, Jingling Xue.
 <br><i>The International Conference on Parallel Processing</i>, 2015.
 </span></li>
-</p>
+</p> -->
 
 <p><strong>&nbsp;AI Infra &amp; Parallel Programming:</strong></p>
 
@@ -312,7 +312,7 @@ Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, <b>Peng Di</b>, Static Code A
 </span></li>
 </p>
 
-<p style="margin-bottom: 6px">
+<!-- <p style="margin-bottom: 6px">
 <li>
 <span><strong><span style="color: #3661a2ff;">[ICPP'16]</span>&nbsp;</strong>RegTT: Accelerating Tree Traversals on GPUs by Exploiting Regularities.
 <br>Feng Zhang, <b>Peng Di</b>, Hao Zhou and Jingling Xue. 
@@ -353,9 +353,9 @@ Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, <b>Peng Di</b>, Static Code A
 <br><b>Peng Di</b>, Hui Wu, Jingling Xue, Feng Wang, Canqun Yang. 
 <br><i>Parallel Computing</i>, 2012.
 </span></li>
-</p>
+</p> -->
 
-<p style="margin-bottom: 6px">
+<!-- <p style="margin-bottom: 6px">
 <li>
 <span><strong><span style="color: #3661a2ff;">[Euro-Par'11]</span>&nbsp;</strong>Model-Driven Tile Size Selection for DOACROSS Loops on GPUs. 
 <br><b>Peng Di</b>, Jingling Xue. 
@@ -369,7 +369,7 @@ Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, <b>Peng Di</b>, Static Code A
 <br><b>Peng Di</b>, Qing Wan, Xuemeng Zhang, Hui Wu and Jingling Xue. 
 <br><i>The International Conference on Parallel Processing</i>, 2010.
 </span></li>
-</p>
+</p> -->
 
 <!-- <p style="margin-bottom: 6px">
 <li>
