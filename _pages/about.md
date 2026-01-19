@@ -37,6 +37,7 @@ News
 ======
 My team is looking for self-motivated technical experts and internship students, who are interested in machine learning, program analysis, AI software engineering. Please no hesitate to contact me (dipeng dot dp at antgroup dot com).
 
+* 2026-01: “Prompting Frameworks for Large Language Models: A Survey” has been accepted by ACM Computing Surveys. 
 * 2025-12: Our two papers, introducing our open-sourced OpenDerisk and Codefuse-Query respectively, has been accepted by ICSE-SEIP 2026. 
 * 2025-11: Our binary analysis work, titled "BIT: Empowering Binary Analysis Through the LLVM Toolchain" has been accepted by CGO 2026. This paper describes the application of binary analysis technology in Ant Group's real-world IoT scenarios (Alipay Tap to Pay), identifying program issues through the collaborative analysis of data flows using both source code and binary. 
 * 2025-09: Our paper, titled "Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks" has been accepted by NeurIPS 2025.

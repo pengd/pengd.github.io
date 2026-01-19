@@ -109,10 +109,10 @@ Zelin Zhao, Zhaogui Xu, Jialong Zhu, <b>Peng Di</b>, Yuan Yao, Xiaoxing Ma, The 
 
 <p style="margin-bottom: 6px">
 <li>
-<span><strong><span style="color: #ad3a7fdb;">[Survey]</span>&nbsp;</strong>
+<span><strong><span style="color: #339966;">[CSUR]</span>&nbsp;</strong>
 <a href="">Prompting Frameworks for Large Language Models: A Survey.</a>
 <br/>Xiaoxia Liu, Jingyi Wang, Jun Sun, Xiaohan Yuan, Guoliang Dong, <b>Peng Di</b>, Wenhai Wang, Dongxia Wang.
-<br/><i>arXiv preprint arXiv:2311.12785</i>, [cs.SE], 2023.
+<br/><i>arXiv preprint arXiv:2311.12785</i> 2023 and <i>ACM Computing Surveys</i> 2026.
 </span></li>
 </p>
 
