@@ -22,6 +22,16 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
+<strong><span style="color: #339966;">[ICASSP'26]</span>&nbsp;</strong>
+<a href="">TIMEDIFF: Leveraging Differential Domain Representations for Long Time Series Forecasting.</a>
+<br/>Yongding Tao, Xiaohang Zeng, Qinxu Ding, Yihong Dong, Da Peng, <b>Peng Di</b>, Puzhuo Liu, Wei Ke.
+<br/><i>The IEEE International Conference on Acoustics, Speech, and Signal Processing</i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 <strong><span style="color: #339966;">[ICSE-SEIP'26]</span>&nbsp;</strong>
 <a href="">OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies.</a>
 <br/><b>Peng Di</b>, Faqiang Chen, Xiao Bai, Hongjun Yang, Qingfeng Li, Ganglin Wei, Jian Mou, Feng Shi, Keting Chen, Peng Tang, Zhitao Shen, Zheng Li, Wenhui Shi, Junwei Guo, Hang Yu.
