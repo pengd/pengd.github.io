@@ -10,7 +10,7 @@ redirect_from:
 <!-- I am an adjunct senior lecturer working with Scientia Professor [Jingling Xue](http://www.cse.unsw.edu.au/~jingling) at School of Computer Science and Engineering, The University of New South Wales. We also open-sourced [CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query) that is a scalable datalog-based static program analyser to assist the CodeFuse pre-train.
 -->
 
-I am working at [Ant Group](https://www.antgroup.com/) as a Senior Staff Engineer and leading the Intelligent Platform Engineering (IPE) team. Additionally, I am an Adjunct Associate Professor at [the University of New South Wales, Sydney](https://www.unsw.edu.au/staff/peng-di). I also serve as an Industrial PhD Mentor at Zhejiang University.
+<!-- I am working at [Ant Group](https://www.antgroup.com/) as a Senior Staff Engineer and leading the Intelligent Platform Engineering (IPE) team. Additionally, I am an Adjunct Associate Professor at [the University of New South Wales, Sydney](https://www.unsw.edu.au/staff/peng-di). I also serve as an Industrial PhD Mentor at Zhejiang University.
 
 I earned my PhD degree from UNSW under supervised by IEEE Fellow, Scientia Professor [Jingling Xue](http://www.cse.unsw.edu.au/~jingling). And then I worked as a Research Associate at [Compiler Research Group](http://www.cse.unsw.edu.au/~corg/) and cooperatively developed a program analyser [SVF](http://svf-tools.github.io/SVF/) over LLVM.
 
@@ -24,7 +24,63 @@ At Ant Group, our IPE team is dedicated to advancing software development and op
 
 <li>CodeFuse-CGM: is a graph-based framework for software engineering tasks that employs a repository-level code graph to capture structural context. CGM-72B-V1.2 has achieved a leading 44.00% resolve rate on the SWE-Bench-Lite. <a href="https://github.com/codefuse-ai/CodeFuse-CGM">[Github]</a> <a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">[HuggingFace]</a> <a href="https://arxiv.org/abs/2505.16901">[Technical report]</a></li>
 
-<li>OpenDeRisk: Beyond models, we have also open-sourced OpenDeRisk, an AI-native risk intelligence system. It empowers your application to act as a 24/7 risk-aware manager, delivering continuous and comprehensive protection.<a href="https://github.com/derisk-ai/OpenDerisk">[Github]</a> <a href="https://arxiv.org/abs/2510.13561">[Technical report]</a></li>
+<li>OpenDeRisk: Beyond models, we have also open-sourced OpenDeRisk, an AI-native risk intelligence system. It empowers your application to act as a 24/7 risk-aware manager, delivering continuous and comprehensive protection.<a href="https://github.com/derisk-ai/OpenDerisk">[Github]</a> <a href="https://arxiv.org/abs/2510.13561">[Technical report]</a></li> -->
+
+
+
+
+    <h2>About Me</h2>
+    <p>
+        I am a Senior Staff Engineer at <a href="https://www.antgroup.com/" target="_blank">Ant Group</a>, where I lead the <strong>Intelligent Platform Engineering (IPE)</strong> team. My work is dedicated to driving a paradigm shift in the DevOps landscape by deeply integrating Large Language Models (LLMs) and program analysis techniques to enhance developer productivity, software quality, and security.
+    </p>
+    <p>
+        In parallel with my industry role, I maintain a connection to academia as an Adjunct Associate Professor at <a href="https://www.unsw.edu.au/" target="_blank">The University of New South Wales</a> and serve as an Industrial PhD Mentor at Zhejiang University.
+    </p>
+
+    <h2>Experience & Key Projects</h2>
+
+    <h3><a href="https://www.antgroup.com/" target="_blank">Ant Group</a> (2020 &ndash; Present)</h3>
+    <p>
+        As the head of the IPE team, my focus has been on building tangible products and systems that redefine software engineering at an enterprise scale.
+    </p>
+    <ul>
+        <li>
+            <strong>CodeFuse LLM:</strong> I led the research and development of <strong>CodeFuse</strong>, our foundational code large model. It has been successfully implemented in critical business systems across the group. Its subsequent versions have topped international benchmarks like SWE-Bench, and its core technologies have been adopted by Ant's flagship models like Bailin.
+            <br>
+            <em>[<a href="https://github.com/codefuse-ai" target="_blank">GitHub</a>] [<a href="https://huggingface.co/codefuse-ai" target="_blank">HuggingFace</a>] [<a href="https://arxiv.org/abs/2310.06266" target="_blank">Technical Report</a>]</em>
+        </li>
+        <li>
+            <strong>Intelligent DevOps Platform:</strong> I spearheaded the creation of a group-wide intelligent DevOps platform. This system empowers the entire software lifecycle, covering <strong>AI-powered coding, automated code quality audits, financial security assurance, and intelligent operations</strong>.
+        </li>
+        <li>
+            <strong>Financial Risk Control Framework:</strong> I built and led the group's R&D risk control framework, a critical system designed to <strong>safeguard financial-grade assets and ensure system stability</strong> under massive concurrent traffic. Its AI-native evolution, <strong>OpenDeRisk</strong>, has been open-sourced.
+            <br>
+            <em>[<a href="https://github.com/derisk-ai/OpenDerisk" target="_blank">OpenDeRisk on GitHub</a>]</em>
+        </li>
+    </ul>
+
+    <h3>Huawei (2017 &ndash; 2020)</h3>
+    <p>
+        At Huawei's 2012 Labs, I led the <strong>from-scratch development of MindSpore/AKG</strong>, an AI compiler for Huawei's Ascend AI chips. My work on optimizing computational efficiency through advanced compilation techniques was instrumental in its <strong>successful commercialization</strong>. I also played a key role in open-sourcing MindSpore to foster a vibrant developer ecosystem.
+        <br>
+        <em>[<a href="https://github.com/mindspore-ai/akg" target="_blank">MindSpore/AKG on GitHub</a>]</em>
+    </p>
+
+    <h3><a href="https://www.unsw.edu.au/" target="_blank">The University of New South Wales</a> (2013 &ndash; 2017)</h3>
+    <p>
+        During my time in academia as a Lecturer and Associate Professor, my research had a strong focus on real-world application and commercial translation.
+    </p>
+    <ul>
+        <li>
+            <strong>SVF (Static Value-Flow Analysis) Framework:</strong> I founded and open-sourced <strong>SVF</strong>, a leading pointer analysis framework built on LLVM. Its core technology became a cornerstone for multiple commercial software security products from companies like <strong>Sourcebrella (源伞), RIPS Technologies (鉴释), and Xmirror (悟空)</strong>, effectively shaping the ecosystem in this domain.
+            <br>
+            <em>[<a href="http://svf-tools.github.io/SVF/" target="_blank">SVF Project Page</a>]</em>
+        </li>
+        <li>
+            <strong>Industry Incubation:</strong> I led several technology incubation projects with industry leaders, managing the entire pipeline from cutting-edge research to building <strong>commercially viable technology prototypes</strong>.
+        </li>
+    </ul>
+
 
 
 Research Interests
