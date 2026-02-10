@@ -77,9 +77,9 @@ At Ant Group, our IPE team is dedicated to advancing software development and op
         <br>
         <em>[<a href="http://svf-tools.github.io/SVF/" target="_blank">SVF Project Page</a>]</em>
     </li>
-    <li>
+    <!-- <li>
         <strong>Industry Incubation:</strong> I led several technology incubation projects with industry leaders, managing the entire pipeline from cutting-edge research to building <strong>commercially viable technology prototypes</strong>.
-    </li>
+    </li> -->
 </ul>
 
 
