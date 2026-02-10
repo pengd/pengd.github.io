@@ -55,9 +55,13 @@ As head of the IPE team, my focus is on building enterprise-scale products and s
 <h3>Huawei (2018 &ndash; 2020)</h3>
 <p>
     <!-- At Huawei's 2012 Labs, I led the <strong>from-scratch development of MindSpore/AKG</strong>, an AI compiler for Huawei's Ascend AI chips. My work on optimizing computational efficiency through advanced compilation techniques was instrumental in its <strong>successful commercialization</strong>. I also played a key role in open-sourcing MindSpore to foster a vibrant developer ecosystem. -->
-    Before joining Ant, I worked at Huawei as a Technical Expert of AI compiler. During the period, I am the founder of <strong>MindSpore/AKG</strong> which is an open-sourced AI compiler for Huawei Ascend 910. My work on optimizing computational efficiency through advanced compilation techniques was instrumental in its successful commercialization. I also played a key role in open-sourcing MindSpore to foster a vibrant developer ecosystem.
+    Before joining Ant, I worked at Huawei as a Technical Expert of AI compiler to build AI infra for Huawei AI ecosystem. 
+    <li>
+      <strong>MindSpore/AKG:</strong> I co-designed the MindSpore framework and founded its AKG compiler for the Ascend chip, driving its commercialization through performance optimization. I also played a key role in open-sourcing the platform, establishing its developer ecosystem.
     <br>
-    <em>[<a href="https://github.com/mindspore-ai/akg" target="_blank">MindSpore/AKG on GitHub</a>]</em>
+    <em>[<a href="https://www.mindspore.cn/en/" target="_blank">MindSpore</a>]
+    [<a href="https://github.com/mindspore-ai/akg" target="_blank">MindSpore/AKG on GitHub</a>]</em>
+    </li>
 </p>
 
 <h3>The University of New South Wales (2013 &ndash; 2018)</h3>
