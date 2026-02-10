@@ -42,27 +42,28 @@ Experience & Key Projects
 As head of the IPE team, my focus is on building enterprise-scale products and systems that redefine software engineering. While many of these innovations power Ant Group's internal infrastructure, we are also committed to sharing our work with the broader community through key open-source contributions.
 
 <ul>
-    <li><strong>CodeFuse LLM:</strong> : Our foundational pretrained code LLM, designed to enhance coding effectiveness. It has been successfully implemented in critical software lifecycle across the group, covering AI coding, code audits, security and relibility assurance, and intelligent operations. Its subsequent versions, like CodeFuse-CGM, Ling-Coder-lite etc., have topped international benchmarks like SWE-Bench.
+    <li><strong>CodeFuse LLM:</strong> : Our foundational pretrained code LLM, designed to enhance coding effectiveness. It has been successfully implemented in critical software lifecycle across the group, covering AI coding and operations, code quality, security and relibility assurance.
     <br>
-        <em>[<a href="https://github.com/codefuse-ai" target="_blank">CodeFuse</a>] [<a href="https://github.com/codefuse-ai/CodeFuse-CGM">CodeFuse-CGM</a> <a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">Ling-Coder-lite</a>]</em></li>
+        <em>[<a href="https://github.com/codefuse-ai" target="_blank">CodeFuse</a>] [<a href="https://github.com/codefuse-ai/CodeFuse-CGM">CodeFuse-CGM</a>] [<a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">Ling-Coder-lite</a>] </em>
+        <em>powered [<a href="https://www.weavefox.cn/" target="_blank">WeaveFox</a>] [<a href="https://www.tbox.cn/" target="_blank">TBox</a>][/em]
+        </li>
     <li>
         <strong>OpenDeRisk:</strong> an AI-native risk intelligence system. It empowers your application to act as a 24/7 risk-aware manager, delivering continuous and comprehensive protection.
         <br>
         <em>[<a href="https://github.com/derisk-ai/OpenDerisk" target="_blank">OpenDeRisk on GitHub</a>]</em>
     </li>
 </ul>
-
 <h3>Huawei (2018 &ndash; 2020)</h3>
 <p>
-    <!-- At Huawei's 2012 Labs, I led the <strong>from-scratch development of MindSpore/AKG</strong>, an AI compiler for Huawei's Ascend AI chips. My work on optimizing computational efficiency through advanced compilation techniques was instrumental in its <strong>successful commercialization</strong>. I also played a key role in open-sourcing MindSpore to foster a vibrant developer ecosystem. -->
     Before joining Ant, I worked at Huawei as a Technical Expert of AI compiler to build AI infra for Huawei AI ecosystem. 
+</p>
+<ul>
     <li>
       <strong>MindSpore/AKG:</strong> I co-designed the MindSpore framework and founded its AKG compiler for the Ascend chip, driving its commercialization through performance optimization. I also played a key role in open-sourcing the platform, establishing its developer ecosystem.
-    <br>
-    <em>[<a href="https://www.mindspore.cn/en/" target="_blank">MindSpore</a>]
-    [<a href="https://github.com/mindspore-ai/akg" target="_blank">MindSpore/AKG on GitHub</a>]</em>
+      <br>
+      <em>[<a href="https://www.mindspore.cn/en/" target="_blank">MindSpore</a>][<a href="https://github.com/mindspore-ai/akg" target="_blank">MindSpore/AKG on GitHub</a>]</em>
     </li>
-</p>
+</ul>
 
 <h3>The University of New South Wales (2013 &ndash; 2018)</h3>
 <p>
@@ -70,7 +71,7 @@ As head of the IPE team, my focus is on building enterprise-scale products and s
 </p>
 <ul>
     <li>
-        <strong>SVF (Static Value-Flow Analysis) Framework:</strong> I founded and open-sourced <strong>SVF</strong>, a leading pointer analysis framework built on LLVM. Its core technology became a cornerstone for multiple commercial software security products, effectively shaping the ecosystem in this domain.
+        <strong>SVF (Static Value-Flow Analysis):</strong> I cooperatively developed a program analyser SVF, a leading pointer analysis framework built on LLVM. Its core technology became a cornerstone for multiple commercial software security products, effectively shaping the ecosystem in this domain.
         <br>
         <em>[<a href="http://svf-tools.github.io/SVF/" target="_blank">SVF Project Page</a>]</em>
     </li>
