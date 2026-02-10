@@ -41,19 +41,19 @@ At Ant Group, our IPE team is dedicated to advancing software development and op
 
 <h3>Ant Group (2020 &ndash; Present)</h3>
 <p>
-    As the head of the IPE team, my focus has been on building tangible products and systems that redefine software engineering at an enterprise scale.
+    As head of the IPE team, my focus is on building enterprise-scale products and systems that redefine software engineering. While many of these innovations power Ant Group's internal infrastructure, we are also committed to sharing our work with the broader community through key open-source contributions.
 </p>
 <ul>
-    <li>
+    <!-- <li>
         <strong>CodeFuse LLM:</strong> I led the research and development of <strong>CodeFuse</strong>, our foundational code large model. It has been successfully implemented in critical business systems across the group. Its subsequent versions have topped international benchmarks like SWE-Bench, and its core technologies have been adopted by Ant's flagship models like Bailin.
         <br>
         <em>[<a href="https://github.com/codefuse-ai" target="_blank">GitHub</a>] [<a href="https://huggingface.co/codefuse-ai" target="_blank">HuggingFace</a>] [<a href="https://arxiv.org/abs/2310.06266" target="_blank">Technical Report</a>]</em>
-    </li>
+    </li> -->
+    <li><strong>CodeFuse LLM:</strong> : Our foundational pretrained code LLM, designed to enhance coding effectiveness. It has been successfully implemented in critical software lifecycle across the group, covering AI coding, code audits, security and relibility assurance, and intelligent operations. Its subsequent versions, like CodeFuse-CGM, Ling-Coder-lite etc., have topped international benchmarks like SWE-Bench.
+    <br>
+        <em>[<a href="https://github.com/codefuse-ai" target="_blank">CodeFuse</a>] [<a href="https://github.com/codefuse-ai/CodeFuse-CGM">CodeFuse-CGM</a> <a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">Ling-Coder-lite</a>]</em></li>
     <li>
-        <strong>Intelligent DevOps Platform:</strong> I spearheaded the creation of a group-wide intelligent DevOps platform. This system empowers the entire software lifecycle, covering <strong>AI-powered coding, automated code quality audits, financial security assurance, and intelligent operations</strong>.
-    </li>
-    <li>
-        <strong>Financial Risk Control Framework:</strong> I built and led the group's R&D risk control framework, a critical system designed to <strong>safeguard financial-grade assets and ensure system stability</strong> under massive concurrent traffic. Its AI-native evolution, <strong>OpenDeRisk</strong>, has been open-sourced.
+        <strong>OpenDeRisk:</strong> an AI-native risk intelligence system. It empowers your application to act as a 24/7 risk-aware manager, delivering continuous and comprehensive protection.
         <br>
         <em>[<a href="https://github.com/derisk-ai/OpenDerisk" target="_blank">OpenDeRisk on GitHub</a>]</em>
     </li>
@@ -61,7 +61,8 @@ At Ant Group, our IPE team is dedicated to advancing software development and op
 
 <h3>Huawei (2018 &ndash; 2020)</h3>
 <p>
-    At Huawei's 2012 Labs, I led the <strong>from-scratch development of MindSpore/AKG</strong>, an AI compiler for Huawei's Ascend AI chips. My work on optimizing computational efficiency through advanced compilation techniques was instrumental in its <strong>successful commercialization</strong>. I also played a key role in open-sourcing MindSpore to foster a vibrant developer ecosystem.
+    <!-- At Huawei's 2012 Labs, I led the <strong>from-scratch development of MindSpore/AKG</strong>, an AI compiler for Huawei's Ascend AI chips. My work on optimizing computational efficiency through advanced compilation techniques was instrumental in its <strong>successful commercialization</strong>. I also played a key role in open-sourcing MindSpore to foster a vibrant developer ecosystem. -->
+    Before joining Ant, I worked at Huawei as a Technical Expert of AI compiler. During the period, I am the founder of <strong>MindSpore/AKG</strong> which is an open-sourced AI compiler for Huawei Ascend 910. My work on optimizing computational efficiency through advanced compilation techniques was instrumental in its successful commercialization. I also played a key role in open-sourcing MindSpore to foster a vibrant developer ecosystem.
     <br>
     <em>[<a href="https://github.com/mindspore-ai/akg" target="_blank">MindSpore/AKG on GitHub</a>]</em>
 </p>
