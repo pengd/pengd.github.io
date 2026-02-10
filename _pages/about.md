@@ -34,12 +34,12 @@ At Ant Group, our IPE team is dedicated to advancing software development and op
     I am a Senior Staff Engineer at <a href="https://www.antgroup.com/" target="_blank">Ant Group</a>, where I lead the <strong>Intelligent Platform Engineering (IPE)</strong> team. My work is dedicated to driving a paradigm shift in the DevOps landscape by deeply integrating Large Language Models (LLMs) and program analysis techniques to enhance developer productivity, software quality, and security.
 </p>
 <p>
-    In parallel with my industry role, I maintain a connection to academia as an Adjunct Associate Professor at <a href="https://www.unsw.edu.au/" target="_blank">The University of New South Wales</a> and serve as an Industrial PhD Mentor at Zhejiang University.
+    In parallel with my industry role, I maintain a connection to academia as an Adjunct Associate Professor at <a href="https://www.unsw.edu.au/staff/peng-di" target="_blank">The University of New South Wales</a> and serve as an Industrial PhD Mentor at Zhejiang University.
 </p>
 
 <h2>Experience & Key Projects</h2>
 
-<h3><a href="https://www.antgroup.com/" target="_blank">Ant Group</a> (2020 &ndash; Present)</h3>
+<h3>Ant Group (2020 &ndash; Present)</h3>
 <p>
     As the head of the IPE team, my focus has been on building tangible products and systems that redefine software engineering at an enterprise scale.
 </p>
@@ -59,20 +59,20 @@ At Ant Group, our IPE team is dedicated to advancing software development and op
     </li>
 </ul>
 
-<h3>Huawei (2017 &ndash; 2020)</h3>
+<h3>Huawei (2018 &ndash; 2020)</h3>
 <p>
     At Huawei's 2012 Labs, I led the <strong>from-scratch development of MindSpore/AKG</strong>, an AI compiler for Huawei's Ascend AI chips. My work on optimizing computational efficiency through advanced compilation techniques was instrumental in its <strong>successful commercialization</strong>. I also played a key role in open-sourcing MindSpore to foster a vibrant developer ecosystem.
     <br>
     <em>[<a href="https://github.com/mindspore-ai/akg" target="_blank">MindSpore/AKG on GitHub</a>]</em>
 </p>
 
-<h3><a href="https://www.unsw.edu.au/" target="_blank">The University of New South Wales</a> (2013 &ndash; 2017)</h3>
+<h3>The University of New South Wales</a> (2013 &ndash; 2018)</h3>
 <p>
     During my time in academia as a Lecturer and Associate Professor, my research had a strong focus on real-world application and commercial translation.
 </p>
 <ul>
     <li>
-        <strong>SVF (Static Value-Flow Analysis) Framework:</strong> I founded and open-sourced <strong>SVF</strong>, a leading pointer analysis framework built on LLVM. Its core technology became a cornerstone for multiple commercial software security products from companies like <strong>Sourcebrella (源伞), RIPS Technologies (鉴释), and Xmirror (悟空)</strong>, effectively shaping the ecosystem in this domain.
+        <strong>SVF (Static Value-Flow Analysis) Framework:</strong> I founded and open-sourced <strong>SVF</strong>, a leading pointer analysis framework built on LLVM. Its core technology became a cornerstone for multiple commercial software security products, effectively shaping the ecosystem in this domain.
         <br>
         <em>[<a href="http://svf-tools.github.io/SVF/" target="_blank">SVF Project Page</a>]</em>
     </li>
