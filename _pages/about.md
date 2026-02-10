@@ -29,26 +29,19 @@ At Ant Group, our IPE team is dedicated to advancing software development and op
 
 
 
-<h2>About Me</h2>
-<p>
-    I am a Senior Staff Engineer at <a href="https://www.antgroup.com/" target="_blank">Ant Group</a>, where I lead the <strong>Intelligent Platform Engineering (IPE)</strong> team. My work is dedicated to driving a paradigm shift in the DevOps landscape by deeply integrating Large Language Models (LLMs) and program analysis techniques to enhance developer productivity, software quality, and security.
-</p>
-<p>
-    In parallel with my industry role, I maintain a connection to academia as an Adjunct Associate Professor at <a href="https://www.unsw.edu.au/staff/peng-di" target="_blank">The University of New South Wales</a> and serve as an Industrial PhD Mentor at Zhejiang University.
-</p>
+I am a Senior Staff Engineer at <a href="https://www.antgroup.com/" target="_blank">Ant Group</a>, where I lead the <strong>Intelligent Platform Engineering (IPE)</strong> team. My work is dedicated to driving a paradigm shift in the DevOps landscape by deeply integrating Large Language Models (LLMs) and program analysis techniques to enhance developer productivity, software quality, and security.
 
-<h2>Experience & Key Projects</h2>
+
+In parallel with my industry role, I maintain a connection to academia as an Adjunct Associate Professor at <a href="https://www.unsw.edu.au/staff/peng-di" target="_blank">The University of New South Wales</a> and serve as an Industrial PhD Mentor at Zhejiang University.
+
+Experience & Key Projects
+=====
 
 <h3>Ant Group (2020 &ndash; Present)</h3>
-<p>
-    As head of the IPE team, my focus is on building enterprise-scale products and systems that redefine software engineering. While many of these innovations power Ant Group's internal infrastructure, we are also committed to sharing our work with the broader community through key open-source contributions.
-</p>
+
+As head of the IPE team, my focus is on building enterprise-scale products and systems that redefine software engineering. While many of these innovations power Ant Group's internal infrastructure, we are also committed to sharing our work with the broader community through key open-source contributions.
+
 <ul>
-    <!-- <li>
-        <strong>CodeFuse LLM:</strong> I led the research and development of <strong>CodeFuse</strong>, our foundational code large model. It has been successfully implemented in critical business systems across the group. Its subsequent versions have topped international benchmarks like SWE-Bench, and its core technologies have been adopted by Ant's flagship models like Bailin.
-        <br>
-        <em>[<a href="https://github.com/codefuse-ai" target="_blank">GitHub</a>] [<a href="https://huggingface.co/codefuse-ai" target="_blank">HuggingFace</a>] [<a href="https://arxiv.org/abs/2310.06266" target="_blank">Technical Report</a>]</em>
-    </li> -->
     <li><strong>CodeFuse LLM:</strong> : Our foundational pretrained code LLM, designed to enhance coding effectiveness. It has been successfully implemented in critical software lifecycle across the group, covering AI coding, code audits, security and relibility assurance, and intelligent operations. Its subsequent versions, like CodeFuse-CGM, Ling-Coder-lite etc., have topped international benchmarks like SWE-Bench.
     <br>
         <em>[<a href="https://github.com/codefuse-ai" target="_blank">CodeFuse</a>] [<a href="https://github.com/codefuse-ai/CodeFuse-CGM">CodeFuse-CGM</a> <a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">Ling-Coder-lite</a>]</em></li>
@@ -67,7 +60,7 @@ At Ant Group, our IPE team is dedicated to advancing software development and op
     <em>[<a href="https://github.com/mindspore-ai/akg" target="_blank">MindSpore/AKG on GitHub</a>]</em>
 </p>
 
-<h3>The University of New South Wales</a> (2013 &ndash; 2018)</h3>
+<h3>The University of New South Wales (2013 &ndash; 2018)</h3>
 <p>
     During my time in academia as a Lecturer and Associate Professor, my research had a strong focus on real-world application and commercial translation.
 </p>
@@ -77,9 +70,6 @@ At Ant Group, our IPE team is dedicated to advancing software development and op
         <br>
         <em>[<a href="http://svf-tools.github.io/SVF/" target="_blank">SVF Project Page</a>]</em>
     </li>
-    <!-- <li>
-        <strong>Industry Incubation:</strong> I led several technology incubation projects with industry leaders, managing the entire pipeline from cutting-edge research to building <strong>commercially viable technology prototypes</strong>.
-    </li> -->
 </ul>
 
 
