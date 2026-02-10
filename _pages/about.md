@@ -39,13 +39,15 @@ Experience & Key Projects
 
 <h3>Ant Group (2020 &ndash; Present)</h3>
 
-As head of the IPE team, my focus is on building enterprise-scale products and systems that redefine software engineering. While many of these innovations power Ant Group's internal infrastructure, we are also committed to sharing our work with the broader community through key open-source contributions.
+My primary focus is on building enterprise-scale products that redefine software engineering for Ant Group's internal infrastructure. While we are proud of our open-source contributions, they represent just the tip of the iceberg of our team's overall innovation and impact.
+
 
 <ul>
     <li><strong>CodeFuse LLM:</strong> : Our foundational pretrained code LLM, designed to enhance coding effectiveness. It has been successfully implemented in critical software lifecycle across the group, covering AI coding and operations, code quality, security and relibility assurance.
     <br>
         <em>[<a href="https://github.com/codefuse-ai" target="_blank">CodeFuse</a>] [<a href="https://github.com/codefuse-ai/CodeFuse-CGM">CodeFuse-CGM</a>] [<a href="https://huggingface.co/inclusionAI/Ling-Coder-lite">Ling-Coder-lite</a>] </em>
-        <em>powered [<a href="https://www.weavefox.cn/" target="_blank">WeaveFox</a>] [<a href="https://www.tbox.cn/" target="_blank">TBox</a>][/em]
+        <br>
+        <em>contribute to [<a href="https://www.weavefox.cn/" target="_blank">WeaveFox</a>] [<a href="https://www.tbox.cn/" target="_blank">TBox</a>]</em>
         </li>
     <li>
         <strong>OpenDeRisk:</strong> an AI-native risk intelligence system. It empowers your application to act as a 24/7 risk-aware manager, delivering continuous and comprehensive protection.
