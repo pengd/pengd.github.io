@@ -27,6 +27,19 @@ author_profile: true
 </tbody>
 </table>
 <p style="margin-bottom: 6px;">------------------------------------------</p>
+
+<ul>
+<li><img src="https://pengd.github.io/images/image-1.png" alt="codefuse" width="150px" />&nbsp; <strong>OpAgent</strong>
+        <strong>OpAgent:</strong> our new web agent that achieves a state-of-the-art 71.6% success rate on the WebArena benchmark! Most web agents fail because they are trained on static data. OpAgent is different. It learns by interacting directly with live websites using Agentic RL (Reinforcement Learning), allowing it to adapt to the web's dynamic nature. Its modular framework (Planner, Grounder, Reflector) enables robust self-correction, mastering complex web tasks where others struggle.
+        <br>
+        ![WebArena](image.png)
+        <br>
+        <em>[<a href="https://github.com/codefuse-ai/OpAgent">OpAgent on Github</a>] [<a href="https://huggingface.co/codefuse-ai/OpAgent-32B">OpAgent on HuggingFace</a>] [<a href="https://github.com/codefuse-ai/OpAgent/blob/main/technical_report/OpAgent.pdf">Technical report</a>]</em>
+        <div><img src="https://pengd.github.io/images/opagent.png" alt="derisk2" width="600" /></div>
+    </li>
+</ul>
+
+
 <p style="margin-bottom: 6px;">&nbsp;</p>
 <ul>
 <li><img src="https://pengd.github.io/images/derisk-ai.png" alt="derisk" width="90px" />&nbsp; <strong>OpenDeRisk</strong>

@@ -54,6 +54,11 @@ My primary focus is on building enterprise-scale products that redefine software
         <br>
         <em>[<a href="https://github.com/derisk-ai/OpenDerisk" target="_blank">OpenDeRisk on GitHub</a>]</em>
     </li>
+    <li>
+        <strong>OpAgent:</strong> our new web agent that achieves a state-of-the-art 71.6% success rate on the WebArena benchmark! Most web agents fail because they are trained on static data. OpAgent is different. It learns by interacting directly with live websites using Agentic RL (Reinforcement Learning), allowing it to adapt to the web's dynamic nature. Its modular framework (Planner, Grounder, Reflector) enables robust self-correction, mastering complex web tasks where others struggle.
+        <br>
+        <em>[<a href="https://github.com/codefuse-ai/OpAgent">OpAgent on Github</a>] [<a href="https://huggingface.co/codefuse-ai/OpAgent-32B">OpAgent on HuggingFace</a>] [<a href="https://github.com/codefuse-ai/OpAgent/blob/main/technical_report/OpAgent.pdf">Technical report</a>]</em>
+    </li>
 </ul>
 <h3>Huawei (2018 &ndash; 2020)</h3>
 <p>
@@ -91,6 +96,7 @@ News
 ======
 My team is looking for self-motivated technical experts and internship students, who are interested in machine learning, program analysis, AI software engineering. Please no hesitate to contact me (dipeng dot dp at antgroup dot com).
 
+* 2026-02： We're excited to open-source OpAgent, our new web agent that achieves a state-of-the-art 71.6% success rate on the WebArena benchmark! Please check repository [<a href="https://github.com/codefuse-ai/OpAgent">OpAgent on Github</a>] [<a href="https://huggingface.co/codefuse-ai/OpAgent-32B">OpAgent on HuggingFace</a>] [<a href="https://github.com/codefuse-ai/OpAgent/blob/main/technical_report/OpAgent.pdf">Technical report</a>].
 * 2026-01: “Prompting Frameworks for Large Language Models: A Survey” has been accepted by ACM Computing Surveys. 
 * 2025-12: Our two papers, introducing our open-sourced OpenDerisk and Codefuse-Query respectively, has been accepted by ICSE-SEIP 2026. 
 * 2025-11: Our binary analysis work, titled "BIT: Empowering Binary Analysis Through the LLVM Toolchain" has been accepted by CGO 2026. This paper describes the application of binary analysis technology in Ant Group's real-world IoT scenarios (Alipay Tap to Pay), identifying program issues through the collaborative analysis of data flows using both source code and binary. 
