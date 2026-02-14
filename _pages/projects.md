@@ -30,7 +30,7 @@ author_profile: true
 
 <ul>
 <li><img src="https://pengd.github.io/images/image-1.png" alt="codefuse" width="150px" />&nbsp; <strong>OpAgent</strong>
-        <strong>OpAgent:</strong> our new web agent that achieves a state-of-the-art 71.6% success rate on the WebArena benchmark! Most web agents fail because they are trained on static data. OpAgent is different. It learns by interacting directly with live websites using Agentic RL (Reinforcement Learning), allowing it to adapt to the web's dynamic nature. Its modular framework (Planner, Grounder, Reflector) enables robust self-correction, mastering complex web tasks where others struggle.
+        Our new web agent that achieves a state-of-the-art 71.6% success rate on the WebArena benchmark! Most web agents fail because they are trained on static data. OpAgent is different. It learns by interacting directly with live websites using Agentic RL (Reinforcement Learning), allowing it to adapt to the web's dynamic nature. Its modular framework (Planner, Grounder, Reflector) enables robust self-correction, mastering complex web tasks where others struggle.
         <br>
         ![WebArena](image.png)
         <br>
