@@ -307,6 +307,15 @@ Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, <b>Peng Di</b>, Static Code A
 
 <p style="margin-bottom: 6px">
 <li>
+<span><strong><span style="color: #339966;">[DAC'26]</span>&nbsp;</strong>
+<a href="">PillarSparse: Rethinking Unstructured Sparse Formats for Tensor Cores. </a>
+<br/>Junyu Gu, Jue Wang, Zhikuang Xin, Zhiqiang Liang, Zongguo Wang, Hongyu Gao, <b>Peng Di</b>, Yangang Wang,
+<br/><i>Design Automation Conference</i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
 <span><strong><span style="color: #339966;">[PPoPP'26]</span>&nbsp;</strong>
 <a href="">TAC: Cache-based System for Accelerating Billion-Scale GNN Training on Multi-GPU Platform. </a>
 <br/>Zhiqiang Liang, Hongyu Gao, Fang Liu, Jue Wang, Xingguo Shi, Juyu Gu, <b>Peng Di</b>, San Li, Lei Tang, Chunbao Zhou, Lian Zhao, Yangang Wang, Xuebin Chi, 
