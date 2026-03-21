@@ -34,7 +34,7 @@ author_profile: true
 <span>
 <strong><span style="color: #339966;">[FSE'26]</span>&nbsp;</strong>
 <a href="">RepoFuse: A Dual-Context Approach to Repository-Level Code Completion at Industrial Scale.</a>
-<br/>Ming Liang, XIEXIAOHENG XIE, Gehao Zhang, Xunjin Zheng, Wei Jiang, Chengpeng Wang, Gang Fan, <b>Peng Di</b>
+<br/>Ming Liang, Xiaoheng Xie, Gehao Zhang, Xunjin Zheng, Wei Jiang, Chengpeng Wang, Gang Fan, <b>Peng Di</b>
 <br/><i>The ACM International Conference on the Foundations of Software Engineering </i>, 2026.
 </span></li>
 </p>
