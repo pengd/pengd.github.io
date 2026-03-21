@@ -22,7 +22,27 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
-<strong><span style="color: #339966;">[ICASSP'26]</span>&nbsp;</strong>
+<strong><span style="color: #339966;">[FSE'26]</span>&nbsp;</strong>
+<a href="">NES: An Instruction-Free, Low-Latency Next Edit Suggestion Framework Powered by Learned Historical Editing Trajectories.</a>
+<br/>Xinfang Chen, Siyang Xiao, Xianying Zhu, Junhong Xie, Ming Liang, Dajun Chen, Wei Jiang, Yong Li, <b>Peng Di</b>
+<br/><i>The ACM International Conference on the Foundations of Software Engineering </i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+<strong><span style="color: #339966;">[FSE'26]</span>&nbsp;</strong>
+<a href="">RepoFuse: A Dual-Context Approach to Repository-Level Code Completion at Industrial Scale.</a>
+<br/>Ming Liang, XIEXIAOHENG XIE, Gehao Zhang, Xunjin Zheng, Wei Jiang, Chengpeng Wang, Gang Fan, <b>Peng Di</b>
+<br/><i>The ACM International Conference on the Foundations of Software Engineering </i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+<strong><span style="color: #3661a2ff;">[ICASSP'26]</span>&nbsp;</strong>
 <a href="">TIMEDIFF: Leveraging Differential Domain Representations for Long Time Series Forecasting.</a>
 <br/>Yongding Tao, Xiaohang Zeng, Qinxu Ding, Yihong Dong, Da Peng, <b>Peng Di</b>, Puzhuo Liu, Wei Ke.
 <br/><i>The IEEE International Conference on Acoustics, Speech, and Signal Processing</i>, 2026.
