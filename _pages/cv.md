@@ -23,8 +23,13 @@ redirect_from:
 <p>&nbsp;</p>
 <div>&nbsp;</div>
 <h1 class="p1">Career Opportunities</h1>
-<p>My team is looking for self-motivated technical experts and internship students, who are interested in machine learning, reinforcement learning，multimodal，time series algorithm, program analysis, AI software engineering. Please no hesitate to contact me (dipeng dot dp at antgroup dot com).</p>
-<p><strong>"Plan-A" Ant Talent Internship Program (Ph.D Track)</strong></p>
+<!-- <p>My team is looking for self-motivated technical experts and internship students, who are interested in machine learning, reinforcement learning，multimodal，time series algorithm, program analysis, AI software engineering. Please no hesitate to contact me (dipeng dot dp at antgroup dot com).</p> -->
+
+<p>Previously, my team was actively recruiting self-motivated technical experts and interns with interests in machine learning, reinforcement learning, multimodal learning, time series algorithms, program analysis, and AI software engineering.</p>
+
+<p>However, the industry landscape has been evolving rapidly. Our team is now shifting its focus toward AI Agent systems and applications, which has led us to reassess our team structure and direction. As a result, we are no longer opening career opportunities at this time. We appreciate the enthusiasm from those who have reached out and apologize for any inconvenience this change may cause.</p>
+
+<!-- <p><strong>"Plan-A" Ant Talent Internship Program (Ph.D Track)</strong></p>
 <p>We are seeking highly motivated PhD students in AI, SE or PL. The successful candidate will work on cutting-edge research projects in our field.</p>
 <p>Requirements:</p>
 <ul>
@@ -52,4 +57,4 @@ redirect_from:
 <li>Enrolled in an undergraduate or graduate program</li>
 <li>Background in relevant research areas</li>
 <li>Self-motivated</li>
-</ul>
+</ul> -->

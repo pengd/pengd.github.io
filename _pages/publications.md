@@ -25,7 +25,7 @@ author_profile: true
 <strong><span style="color: #339966;">[FSE'26]</span>&nbsp;</strong>
 <a href="">NES: An Instruction-Free, Low-Latency Next Edit Suggestion Framework Powered by Learned Historical Editing Trajectories.</a>
 <br/>Xinfang Chen, Siyang Xiao, Xianying Zhu, Junhong Xie, Ming Liang, Dajun Chen, Wei Jiang, Yong Li, <b>Peng Di</b>
-<br/><i>The ACM International Conference on the Foundations of Software Engineering </i>, 2026.
+<br/><i>The ACM International Conference on the Foundations of Software Engineering</i>, 2026.
 </span></li>
 </p>
 
@@ -35,7 +35,7 @@ author_profile: true
 <strong><span style="color: #339966;">[FSE'26]</span>&nbsp;</strong>
 <a href="">RepoFuse: A Dual-Context Approach to Repository-Level Code Completion at Industrial Scale.</a>
 <br/>Ming Liang, Xiaoheng Xie, Gehao Zhang, Xunjin Zheng, Wei Jiang, Chengpeng Wang, Gang Fan, <b>Peng Di</b>
-<br/><i>The ACM International Conference on the Foundations of Software Engineering </i>, 2026.
+<br/><i>The ACM International Conference on the Foundations of Software Engineering</i>, 2026.
 </span></li>
 </p>
 
@@ -146,6 +146,16 @@ Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, <b>Peng Di</b>, Static Code A
 </p> -->
 
 <p><strong>&nbsp;&nabla;&nbsp; Program Analysis:</strong></p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+<strong><span style="color: #339966;">[TOPLAS'26]</span>&nbsp;</strong>
+<a href="">Guiding LLM-based Loop Invariant Synthesis via Feedback on Local Reasoning Errors. </a>
+<br/>Tianchi Li, Zhenyu Yan, Junhao Liu, <b>Peng Di</b>, Xin Zhang. 
+<br/><i>The ACM Transactions on Programming Languages and Systems</i>, 2026.
+</span></li>
+</p>
 
 <p style="margin-bottom: 6px">
 <li>
