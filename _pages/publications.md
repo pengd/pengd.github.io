@@ -22,9 +22,20 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
+<strong><span style="color: #339966;">[ACL'26 Findings]</span>&nbsp;</strong>
+<a href="">N-GRPO: Embedding-Level Neighbor Mixing for Enhanced Policy Optimization.</a>
+<br/>Xukun Zhu, Hang Yu, <b>Peng Di</b>, Linchao Zhu.
+<br/><i>The 64th Annual Meeting of the Association for Computational Linguistics</i>, 2026.
+</span></li>
+</p>
+
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 <strong><span style="color: #339966;">[FSE'26]</span>&nbsp;</strong>
 <a href="">NES: An Instruction-Free, Low-Latency Next Edit Suggestion Framework Powered by Learned Historical Editing Trajectories.</a>
-<br/>Xinfang Chen, Siyang Xiao, Xianying Zhu, Junhong Xie, Ming Liang, Dajun Chen, Wei Jiang, Yong Li, <b>Peng Di</b>
+<br/>Xinfang Chen, Siyang Xiao, Xianying Zhu, Junhong Xie, Ming Liang, Dajun Chen, Wei Jiang, Yong Li, <b>Peng Di</b>.
 <br/><i>The ACM International Conference on the Foundations of Software Engineering</i>, 2026.
 </span></li>
 </p>
