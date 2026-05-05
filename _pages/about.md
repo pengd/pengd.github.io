@@ -26,18 +26,20 @@ At Ant Group, our IPE team is dedicated to advancing software development and op
 
 <li>OpenDeRisk: Beyond models, we have also open-sourced OpenDeRisk, an AI-native risk intelligence system. It empowers your application to act as a 24/7 risk-aware manager, delivering continuous and comprehensive protection.<a href="https://github.com/derisk-ai/OpenDerisk">[Github]</a> <a href="https://arxiv.org/abs/2510.13561">[Technical report]</a></li> -->
 
+I’m excited to join Kunlunxin as a Principal Architect and Engineering Leader, following my tenure at Ant Group.
+I’m focused on building foundational compiler and system technologies for NPUs/GPUs, pushing the limits of LLM training and inference efficiency, and helping define the next generation of AI computing infrastructure.
+
+I was a Senior Staff Engineer at <a href="https://www.antgroup.com/" target="_blank">Ant Group</a>, where I lead the <strong>Intelligent Platform Engineering (IPE)</strong> team. My work is dedicated to driving a paradigm shift in the DevOps landscape by deeply integrating Large Language Models (LLMs) and program analysis techniques to enhance developer productivity, software quality, and security.
 
 
-
-I am a Senior Staff Engineer at <a href="https://www.antgroup.com/" target="_blank">Ant Group</a>, where I lead the <strong>Intelligent Platform Engineering (IPE)</strong> team. My work is dedicated to driving a paradigm shift in the DevOps landscape by deeply integrating Large Language Models (LLMs) and program analysis techniques to enhance developer productivity, software quality, and security.
-
-
-In parallel with my industry role, I maintain a connection to academia as an Adjunct Associate Professor at <a href="https://www.unsw.edu.au/staff/peng-di" target="_blank">The University of New South Wales</a> and serve as an Industrial PhD Mentor at Zhejiang University.
+In parallel with my industry role, I maintain a connection to academia as an Adjunct Associate Professor at <a href="https://www.unsw.edu.au/staff/peng-di" target="_blank">The University of New South Wales</a> and serve as an Industrial Mentor at CAS, Tsinghua University, Zhejiang University.
 
 Experience & Key Projects
 =====
+<h3>Kunlinxin (2026 &ndash; present)</h3>
+I’m focused on building foundational compiler and system technologies for NPUs/GPUs, pushing the limits of LLM training and inference efficiency, and helping define the next generation of AI computing infrastructure.
 
-<h3>Ant Group (2020 &ndash; Present)</h3>
+<h3>Ant Group (2020 &ndash; 2026)</h3>
 
 My primary focus is on building enterprise-scale products that redefine software engineering for Ant Group's internal infrastructure. While we are proud of our open-source contributions, they represent just the tip of the iceberg of our team's overall innovation and impact.
 
@@ -95,7 +97,7 @@ Research Interests
 News
 ======
 <!-- My team is looking for self-motivated technical experts and internship students, who are interested in machine learning, program analysis, AI software engineering. Please no hesitate to contact me (dipeng dot dp at antgroup dot com). -->
-
+* 2026-05: Our two papers on codefuse models  were accepted to ICML 2026.
 * 2026-03: Our two papers on the Codefuse ToolChain were accepted to FSE 2026 (Industry Track). RepoFuse delivers fast (~150ms), accurate repository-level code completion by combining semantic dependencies with similar patterns, reducing token usage and boosting productivity. NES learns from historical editing patterns to predict where and how to edit next—without user instructions—providing sub-250ms, high-accuracy edits that improve developer flow. Together, these works form the core of Codefuse’s practical development tooling.
 * 2026-02: We're excited to open-source OpAgent, our new web agent that achieves a state-of-the-art 71.6% success rate on the WebArena benchmark! Please check repository [<a href="https://github.com/codefuse-ai/OpAgent">OpAgent on Github</a>] [<a href="https://huggingface.co/codefuse-ai/OpAgent-32B">OpAgent on HuggingFace</a>] [<a href="https://github.com/codefuse-ai/OpAgent/blob/main/technical_report/OpAgent.pdf">Technical report</a>].
 * 2026-01: “Prompting Frameworks for Large Language Models: A Survey” has been accepted by ACM Computing Surveys. 

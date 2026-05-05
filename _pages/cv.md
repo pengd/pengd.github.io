@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "IPE Team"
+title: "My team"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,14 @@ redirect_from:
 ---
 
 <!-- {% include base_path %} -->
+
+<h1 class="p1">Career Opportunities in Kunlinxin</h1>
+
+I’ve wrapped up my time at Ant Group and am now building a new team at Kunlunxin.
+If you’re interested in compilers, NPU programming (e.g., Triton, TileLang, CUDA), code agents, or LLM training and inference infrastructure, feel free to reach out.
+
+<!-- 
+
 <h1 class="p1">About Ant IPE</h1>
 <p class="p1">The Ant Intelligent Platform Engineering team is committed to building a safe and trusted framework for intelligent, automated software engineering. Our mission is to seamlessly integrate and enhance the synergy between software engineering and artificial intelligence, paving the way for technological innovation across all areas of software development and operations. To realize this vision, we unite top researchers and development engineers from various disciplines and backgrounds, working collaboratively to tackle the challenges confronting AntGroup and the broader software engineering community.</p>
 
@@ -21,13 +29,12 @@ redirect_from:
 <li>Selected paper list （TBD）&nbsp;</li>
 </ul>
 <p>&nbsp;</p>
-<div>&nbsp;</div>
-<h1 class="p1">Career Opportunities</h1>
+<div>&nbsp;</div> -->
 <!-- <p>My team is looking for self-motivated technical experts and internship students, who are interested in machine learning, reinforcement learning，multimodal，time series algorithm, program analysis, AI software engineering. Please no hesitate to contact me (dipeng dot dp at antgroup dot com).</p> -->
 
-<p>Previously, my team was actively recruiting self-motivated technical experts and interns with interests in machine learning, reinforcement learning, multimodal learning, time series algorithms, program analysis, and AI software engineering.</p>
+<!-- <p>Previously, my team was actively recruiting self-motivated technical experts and interns with interests in machine learning, reinforcement learning, multimodal learning, time series algorithms, program analysis, and AI software engineering.</p>
 
-<p>However, the industry landscape has been evolving rapidly. Our team is now shifting its focus toward AI Agent systems and applications, which has led us to reassess our team structure and direction. As a result, we are no longer opening career opportunities at this time. We appreciate the enthusiasm from those who have reached out and apologize for any inconvenience this change may cause.</p>
+<p>However, the industry landscape has been evolving rapidly. Our team is now shifting its focus toward AI Agent systems and applications, which has led us to reassess our team structure and direction. As a result, we are no longer opening career opportunities at this time. We appreciate the enthusiasm from those who have reached out and apologize for any inconvenience this change may cause.</p> -->
 
 <!-- <p><strong>"Plan-A" Ant Talent Internship Program (Ph.D Track)</strong></p>
 <p>We are seeking highly motivated PhD students in AI, SE or PL. The successful candidate will work on cutting-edge research projects in our field.</p>

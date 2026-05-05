@@ -22,6 +22,37 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
+<strong><span style="color: #339966;">[ICML'26]</span>&nbsp;</strong>
+<a href="">ML-Embed: Inclusive and Efficient Embeddings for a Multilingual World.</a>
+<br/>Ziyin Zhang, Zihan Liao, Hang Yu, <b>Peng Di</b>, Rui Wang.
+<br/><i>The Forty-third International Conference on Machine Learning</i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+<strong><span style="color: #339966;">[ICML'26]</span>&nbsp;</strong>
+<a href="">SOLAR: Self-supervised Joint Learning for Symmetric Multimodal Retrieval.</a>
+<br/>Wenjie Yang, Hang Yu, Yuyu Guo, <b>Peng Di</b>.
+<br/><i>The Forty-third International Conference on Machine Learning</i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+<strong><span style="color: #339966;">[ACL'26 Industry]</span>&nbsp;</strong>
+<a href="">TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale.</a>
+<br/>Jun Wang, Ziyin Zhang, Rui Wang, Hang Yu, <b>Peng Di</b>, Rui Wang.
+<br/><i>The 64th Annual Meeting of the Association for Computational Linguistics</i>, 2026.
+</span></li>
+</p>
+
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 <strong><span style="color: #339966;">[ACL'26 Findings]</span>&nbsp;</strong>
 <a href="">N-GRPO: Embedding-Level Neighbor Mixing for Enhanced Policy Optimization.</a>
 <br/>Xukun Zhu, Hang Yu, <b>Peng Di</b>, Linchao Zhu.
@@ -33,7 +64,7 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
-<strong><span style="color: #339966;">[FSE'26]</span>&nbsp;</strong>
+<strong><span style="color: #339966;">[FSE'26 Industry]</span>&nbsp;</strong>
 <a href="">NES: An Instruction-Free, Low-Latency Next Edit Suggestion Framework Powered by Learned Historical Editing Trajectories.</a>
 <br/>Xinfang Chen, Siyang Xiao, Xianying Zhu, Junhong Xie, Ming Liang, Dajun Chen, Wei Jiang, Yong Li, <b>Peng Di</b>.
 <br/><i>The ACM International Conference on the Foundations of Software Engineering</i>, 2026.
@@ -43,7 +74,7 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
-<strong><span style="color: #339966;">[FSE'26]</span>&nbsp;</strong>
+<strong><span style="color: #339966;">[FSE'26 Industry]</span>&nbsp;</strong>
 <a href="">RepoFuse: A Dual-Context Approach to Repository-Level Code Completion at Industrial Scale.</a>
 <br/>Ming Liang, Xiaoheng Xie, Gehao Zhang, Xunjin Zheng, Wei Jiang, Chengpeng Wang, Gang Fan, <b>Peng Di</b>
 <br/><i>The ACM International Conference on the Foundations of Software Engineering</i>, 2026.
@@ -157,6 +188,16 @@ Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, <b>Peng Di</b>, Static Code A
 </p> -->
 
 <p><strong>&nbsp;&nabla;&nbsp; Program Analysis:</strong></p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+<strong><span style="color: #339966;">[TDSC'26]</span>&nbsp;</strong>
+<a href="">MCPXkit: The Unified Toolkit for Analyzing Model Context Protocol Security. </a>
+<br/>Yongjian Guo, Puzhuo Liu, Wanlun Ma, Zehang Deng, Xiaogang Zhu, <b>Peng Di</b>, Xi Xiao, Sheng Wen.
+<br/><i>The Transactions on Dependable and Secure Computing</i>, 2026.
+</span></li>
+</p>
 
 <p style="margin-bottom: 6px">
 <li>
