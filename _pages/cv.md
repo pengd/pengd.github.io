@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "My team"
+excerpt: "My team"
 permalink: /cv/
 author_profile: true
 redirect_from:

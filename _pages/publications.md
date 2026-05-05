@@ -195,7 +195,7 @@ Gang Fan, Xiaoheng Xie, Xunjin Zheng, Yinan Liang, <b>Peng Di</b>, Static Code A
 <strong><span style="color: #339966;">[TDSC'26]</span>&nbsp;</strong>
 <a href="">MCPXkit: The Unified Toolkit for Analyzing Model Context Protocol Security. </a>
 <br/>Yongjian Guo, Puzhuo Liu, Wanlun Ma, Zehang Deng, Xiaogang Zhu, <b>Peng Di</b>, Xi Xiao, Sheng Wen.
-<br/><i>The Transactions on Dependable and Secure Computing</i>, 2026.
+<br/><i>The IEEE Transactions on Dependable and Secure Computing</i>, 2026.
 </span></li>
 </p>
 
