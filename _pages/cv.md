@@ -13,7 +13,7 @@ redirect_from:
 <h1 class="p1">Career Opportunities in Kunlunxin</h1>
 
 I’ve wrapped up my time at Ant Group and am now building a new team at Kunlunxin.
-If you’re interested in compilers technique, NPU/GPU programming (e.g., Triton, TileLang, CUDA, etc), code agents, or LLM training and inference infrastructure, feel free to reach out.
+If you’re interested in compilers technique, NPU/GPU programming (e.g., Triton, TileLang, CUDA, etc), code LLM and agents, or LLM training and inference framework and infrastructure, feel free to reach out. We welcome full-time engineers, researchers, and part-time interns to join our team.
 
 <!-- 
 
