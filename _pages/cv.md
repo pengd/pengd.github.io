@@ -9,14 +9,14 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-<h1 class="p1">Career Opportunities in Kunlinxin</h1>
+<h1 class="p1">Career Opportunities in Kunlunxin</h1>
 
 I’ve wrapped up my time at Ant Group and am now building a new team at Kunlunxin.
-If you’re interested in compilers, NPU programming (e.g., Triton, TileLang, CUDA), code agents, or LLM training and inference infrastructure, feel free to reach out.
+If you’re interested in compilers technique, NPU/GPU programming (e.g., Triton, TileLang, CUDA, etc), code agents, or LLM training and inference infrastructure, feel free to reach out.
 
 <!-- 
 
-<h1 class="p1">About Ant IPE</h1>
+<h1 class="p1">About Ant IPE Team (previous)</h1>
 <p class="p1">The Ant Intelligent Platform Engineering team is committed to building a safe and trusted framework for intelligent, automated software engineering. Our mission is to seamlessly integrate and enhance the synergy between software engineering and artificial intelligence, paving the way for technological innovation across all areas of software development and operations. To realize this vision, we unite top researchers and development engineers from various disciplines and backgrounds, working collaboratively to tackle the challenges confronting AntGroup and the broader software engineering community.</p>
 
 <h1 class="p1">Ongoing Projects</h1>
