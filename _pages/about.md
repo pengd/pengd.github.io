@@ -27,7 +27,7 @@ At Ant Group, our IPE team is dedicated to advancing software development and op
 <li>OpenDeRisk: Beyond models, we have also open-sourced OpenDeRisk, an AI-native risk intelligence system. It empowers your application to act as a 24/7 risk-aware manager, delivering continuous and comprehensive protection.<a href="https://github.com/derisk-ai/OpenDerisk">[Github]</a> <a href="https://arxiv.org/abs/2510.13561">[Technical report]</a></li> -->
 
 
-I’m excited to join Kunlunxin as a Principal Architect and Engineering Leader, following my tenure at Ant Group.
+I’m excited to join Kunlunxin as a Senior Principal Architect and Engineering Leader, following my tenure at Ant Group.
 I focus on building foundational compiler and system technologies for NPUs/GPUs, pushing the limits of efficiency and scalability in LLM training and inference, and helping define the next generation of AI computing infrastructure.
 
 Previously, I was a Senior Staff Engineer at <a href="https://www.antgroup.com/" target="_blank">Ant Group</a>, where I led the <strong>Intelligent Platform Engineering (IPE)</strong> team. My work focused on driving a paradigm shift in the DevOps landscape by deeply integrating large language models (LLMs) with program analysis to improve developer productivity, software quality, and security.
