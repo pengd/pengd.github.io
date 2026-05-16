@@ -19,6 +19,19 @@ author_profile: true
 
 <p><strong>&nbsp;&nabla;&nbsp; CodeLLM &amp; AI4SE:</strong></p>
 
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
+<strong><span style="color: #339966;">[KDD'26]</span>&nbsp;</strong>
+<a href="">Domain-Specific Data Synthesis for LLMs through Minimal Sufficient Representation Learning.</a>
+<br/>Tong Ye, Hang Yu, Tengfei Ma, Xuhong Zhang, Jianguo Li, <b>Peng Di</b>, Peiyu Liu, Jianwei Yin, Wenhai Wang.
+<br/><i>The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining</i>, 2026.
+</span></li>
+</p>
+
+
+
 <p style="margin-bottom: 6px">
 <li>
 <span>

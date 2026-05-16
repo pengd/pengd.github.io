@@ -28,7 +28,7 @@ At Ant Group, our IPE team is dedicated to advancing software development and op
 
 
 I’m excited to join Kunlunxin as a Senior Principal Architect and Engineering Leader, following my tenure at Ant Group.
-I focus on building foundational compiler and system technologies for NPUs/GPUs, pushing the limits of efficiency and scalability in LLM training and inference, and helping define the next generation of AI computing infrastructure.
+I focus on building foundational compiler and system technologies for XPUs, pushing the limits of efficiency and scalability in LLM training and inference, and helping define the next generation of AI computing infrastructure.
 
 Previously, I was a Senior Staff Engineer at <a href="https://www.antgroup.com/" target="_blank">Ant Group</a>, where I led the <strong>Intelligent Platform Engineering (IPE)</strong> team. My work focused on driving a paradigm shift in the DevOps landscape by deeply integrating large language models (LLMs) with program analysis to improve developer productivity, software quality, and security.
 
@@ -97,6 +97,7 @@ Research Interests
 News
 ======
 <!-- My team is looking for self-motivated technical experts and internship students, who are interested in machine learning, program analysis, AI software engineering. Please no hesitate to contact me (dipeng dot dp at antgroup dot com). -->
+* 2026-05: One paper was accepted to KDD 2026.
 * 2026-05: Our two papers on codefuse models  were accepted to ICML 2026.
 * 2026-04: I’m excited to join Kunlunxin and start a new journey and challenge.:)
 * 2026-03: Our two papers on the Codefuse ToolChain were accepted to FSE 2026 (Industry Track). RepoFuse delivers fast (~150ms), accurate repository-level code completion by combining semantic dependencies with similar patterns, reducing token usage and boosting productivity. NES learns from historical editing patterns to predict where and how to edit next—without user instructions—providing sub-250ms, high-accuracy edits that improve developer flow. Together, these works form the core of Codefuse’s practical development tooling.
