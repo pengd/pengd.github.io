@@ -97,8 +97,7 @@ Research Interests
 News
 ======
 <!-- My team is looking for self-motivated technical experts and internship students, who are interested in machine learning, program analysis, AI software engineering. Please no hesitate to contact me (dipeng dot dp at antgroup dot com). -->
-* 2026-05: One paper was accepted to KDD 2026.
-* 2026-05: Our two papers on codefuse models  were accepted to ICML 2026.
+* 2026-05: Our two papers on codefuse models  were accepted to ICML 2026, and another paper has been accepted to KDD 2026.
 * 2026-04: I’m excited to join Kunlunxin and start a new journey and challenge.:)
 * 2026-03: Our two papers on the Codefuse ToolChain were accepted to FSE 2026 (Industry Track). RepoFuse delivers fast (~150ms), accurate repository-level code completion by combining semantic dependencies with similar patterns, reducing token usage and boosting productivity. NES learns from historical editing patterns to predict where and how to edit next—without user instructions—providing sub-250ms, high-accuracy edits that improve developer flow. Together, these works form the core of Codefuse’s practical development tooling.
 * 2026-02: We're excited to open-source OpAgent, our new web agent that achieves a state-of-the-art 71.6% success rate on the WebArena benchmark! Please check repository [<a href="https://github.com/codefuse-ai/OpAgent">OpAgent on Github</a>] [<a href="https://huggingface.co/codefuse-ai/OpAgent-32B">OpAgent on HuggingFace</a>] [<a href="https://github.com/codefuse-ai/OpAgent/blob/main/technical_report/OpAgent.pdf">Technical report</a>].

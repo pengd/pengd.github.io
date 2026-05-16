@@ -55,6 +55,16 @@ author_profile: true
 <p style="margin-bottom: 6px">
 <li>
 <span>
+<strong><span style="color: #3661a2ff;">[DASSFA'26]</span>&nbsp;</strong>
+<a href="">Automatic String Data Validation with Pattern Discovery.</a>
+<br/>Ziyan Han, Xinwei Lin, <b>Peng Di</b>, Chuan Xiao, Makoto Onizuka, Jiuzhang Liu, Rui Mao, Jianbin Qin. 
+<br/><i>The 31st International Conference on Database Systems for Advanced Applications</i>, 2026.
+</span></li>
+</p>
+
+<p style="margin-bottom: 6px">
+<li>
+<span>
 <strong><span style="color: #339966;">[ACL'26 Industry]</span>&nbsp;</strong>
 <a href="">TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale.</a>
 <br/>Jun Wang, Ziyin Zhang, Rui Wang, Hang Yu, <b>Peng Di</b>, Rui Wang.
@@ -93,6 +103,7 @@ author_profile: true
 <br/><i>The ACM International Conference on the Foundations of Software Engineering</i>, 2026.
 </span></li>
 </p>
+
 
 <p style="margin-bottom: 6px">
 <li>
