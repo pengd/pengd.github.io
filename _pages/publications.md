@@ -30,6 +30,15 @@ author_profile: true
 </span></li>
 </p>
 
+<p style="margin-bottom: 6px">
+<li>
+<span>
+<strong><span style="color: #339966;">[ICML'26]</span>&nbsp;</strong>
+<a href="">Streamlining Repository Tasks with Effective Snippet Retrieval.</a>
+<br/>Tangzhi Xu, Cong Li, Zhaogui Xu, Yanyan Jiang, Yuan Yao, Xiaorui Zhu, Feng Xu, <b>Peng Di</b>, Chang Xu, Zhendong Su. 
+<br/><i>The Forty-third International Conference on Machine Learning</i>, 2026.
+</span></li>
+</p>
 
 
 <p style="margin-bottom: 6px">
